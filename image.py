@@ -9,7 +9,7 @@ class Image:
         self.rank = rank
 
     def __str__(self):
-        return f"![]({self.small_url}) **#{self.rank}** [{self.title}]({self.page_url}) download: [Download]({self.big_url_jpg})"
+        return f"![]({self.small_url}) **#{self.rank}** [{self.title}]({self.page_url}) [Download]({self.big_url_jpg})"
 
     def __eq__(self, other):
         if not isinstance(other, Image):

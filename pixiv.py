@@ -1,4 +1,6 @@
 import json
+
+from file_utils import FileUtils
 from http_utils import HttpUtils
 from image import Image
 
@@ -10,10 +12,11 @@ class Pixiv:
         http_content = HttpUtils.get_http_content(Pixiv.PIXIV_API)
         json_data = json.loads(http_content)
         images_data = json_data['contents']
+        print(f'images_data:{len(images_data)}')
 
         images_list = []
 
-        for i in range(48):
+        for i in range(50):
             image_data = images_data[i]
             print(image_data)
 
@@ -31,12 +34,8 @@ class Pixiv:
 
             images_list.append(Image(title, user_name, date, page_url, small_url, big_url, i + 1))
 
-        # Replace FileUtils.writeReadme(imagesList) with appropriate Python code if needed
-        # For example, you can write the image details to a markdown file:
-        with open('README.md', 'w', encoding='utf-8') as file:
-            for image in images_list:
-                file.write(str(image) + '\n')
 
-# The main method is not automatically called in Python, so we call it ourselves
+        FileUtils.write_readme(images_list)
+
 if __name__ == "__main__":
     Pixiv.main()
