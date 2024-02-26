@@ -12,19 +12,17 @@ class Pixiv:
         http_content = HttpUtils.get_http_content(Pixiv.PIXIV_API)
         json_data = json.loads(http_content)
         images_data = json_data['contents']
-        print(f'images_data:{len(images_data)}')
 
         images_list = []
 
         for i in range(50):
             image_data = images_data[i]
-            print(image_data)
 
             # Image URLs
             origin_url = image_data['url']
             small_url = origin_url.replace("i.pximg.net", "i.pixiv.re")
             big_url = small_url.replace("/c/240x480/img-master/", "/img-original/").replace("_master1200", "")
-            print(big_url)
+            # print(big_url)
 
             # Image details
             date = image_data['date']
