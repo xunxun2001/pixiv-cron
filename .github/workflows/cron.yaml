@@ -2,7 +2,7 @@ name: Scheduled Run
 
 on:
   schedule:
-    - cron: '45 16 * * *'  # Runs every day at 16:00 UTC, which is 00:10 in Asia/Shanghai timezone
+    - cron: '58 16 * * *'  # Runs every day at 16:00 UTC, which is 00:00 in Asia/Shanghai timezone
 
 jobs:
   build:
@@ -24,3 +24,11 @@ jobs:
 
     - name: Run script
       run: python pixiv.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'xunxun2001'
+        git config --global user.email 'fhr2001@qq.com'
+        git add README.md
+        git commit -m "Update Repo with latest pixiv images" || echo "No changes to commit"
+        git push
