@@ -1,6 +1,6 @@
 import json
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 from file_utils import FileUtils
 from http_utils import HttpUtils
 from image import Image
@@ -13,6 +13,7 @@ logger = logging.getLogger(__name__)
 class Pixiv:
     PIXIV_API_DAILY = "https://www.pixiv.net/ranking.php?format=json&mode=daily&p=1"
     PIXIV_API_WEEKLY = "https://www.pixiv.net/ranking.php?format=json&mode=weekly&p=1"
+    PIXIV_API_MONTHLY = "https://www.pixiv.net/ranking.php?format=json&mode=monthly&p=1"
     # TODO: PIXIV_API_DAILY_R18 = "https://www.pixiv.net/ranking.php?format=json&mode=daily_r18&p=1"
     # TODO: PIXIV_API_WEEKLY_R18 = "https://www.pixiv.net/ranking.php?format=json&mode=weekly_r18&p=1"
 
@@ -68,15 +69,16 @@ class Pixiv:
         pixiv = Pixiv()
 
         tz = pytz.timezone('Asia/Shanghai')
+        today = datetime.now()
         today_weekday = datetime.now(tz).weekday()
+        tomorrow = today + timedelta(days=1)
 
         api_urls_and_types = {
             Pixiv.PIXIV_API_DAILY: "daily",
+            Pixiv.PIXIV_API_WEEKLY: "weekly",
+            Pixiv.PIXIV_API_MONTHLY: "monthly",
         }
 
-        if today_weekday == 5 or today_weekday == 6:  # 5=Saturday, 6=Sunday
-            api_urls_and_types[Pixiv.PIXIV_API_WEEKLY] = "weekly"
-            #api_urls_and_types[Pixiv.PIXIV_API_WEEKLY_R18] = "weekly_r18"
 
         for api_url, ranking_type in api_urls_and_types.items():
             images_data = pixiv.fetch_ranking_data(api_url)

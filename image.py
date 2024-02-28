@@ -7,7 +7,7 @@ class Image:
         self.small_url = small_url
         self.big_url = big_url
         self.rank = rank
-
+# TODO: 支持tag字段
     def __str__(self):
         return f"![]({self.small_url}) **#{self.rank}** [{self.title}]({self.page_url}) [Download]({self.big_url})"
 
