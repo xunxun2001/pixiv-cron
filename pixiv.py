@@ -1,16 +1,20 @@
 import json
 import requests
-
+from datetime import datetime
 from file_utils import FileUtils
 from http_utils import HttpUtils
 from image import Image
 import logging
+import pytz
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 class Pixiv:
-    PIXIV_API = "https://www.pixiv.net/ranking.php?format=json&mode=daily&p=1"
+    PIXIV_API_DAILY = "https://www.pixiv.net/ranking.php?format=json&mode=daily&p=1"
+    PIXIV_API_WEEKLY = "https://www.pixiv.net/ranking.php?format=json&mode=weekly&p=1"
+    # TODO: PIXIV_API_DAILY_R18 = "https://www.pixiv.net/ranking.php?format=json&mode=daily_r18&p=1"
+    # TODO: PIXIV_API_WEEKLY_R18 = "https://www.pixiv.net/ranking.php?format=json&mode=weekly_r18&p=1"
 
     def fetch_big_url(self, url, index, ugoira):
         response = requests.head(url)
@@ -32,15 +36,15 @@ class Pixiv:
 
         return url
 
-    @staticmethod
-    def main():
-        http_content = HttpUtils.get_http_content(Pixiv.PIXIV_API)
+    def fetch_ranking_data(self, api_url):
+        http_content = HttpUtils.get_http_content(api_url)
         json_data = json.loads(http_content)
-        images_data = json_data['contents']
+        return json_data['contents']
 
+    def process_images(self, images_data):
         images_list = []
 
-        for i in range(50):
+        for i, image_data in enumerate(images_data[:50]):  # 假设我们只处理前50个图片
             image_data = images_data[i]
 
             # Image URLs
@@ -55,11 +59,29 @@ class Pixiv:
             page_url = f"https://www.pixiv.net/artworks/{image_data['illust_id']}"
             user_name = image_data['user_name']
 
-            big_url = Pixiv().fetch_big_url(big_url, i + 1, page_url)
+            big_url = self.fetch_big_url(big_url, i + 1, page_url)
             images_list.append(Image(title, user_name, date, page_url, small_url, big_url, i + 1))
 
+        return images_list
+    @staticmethod
+    def main():
+        pixiv = Pixiv()
 
-        FileUtils.write_readme(images_list)
+        tz = pytz.timezone('Asia/Shanghai')
+        today_weekday = datetime.now(tz).weekday()
+
+        api_urls_and_types = {
+            Pixiv.PIXIV_API_DAILY: "daily",
+        }
+
+        if today_weekday == 5 or today_weekday == 6:  # 5=Saturday, 6=Sunday
+            api_urls_and_types[Pixiv.PIXIV_API_WEEKLY] = "weekly"
+            #api_urls_and_types[Pixiv.PIXIV_API_WEEKLY_R18] = "weekly_r18"
+
+        for api_url, ranking_type in api_urls_and_types.items():
+            images_data = pixiv.fetch_ranking_data(api_url)
+            images_list = pixiv.process_images(images_data)
+            FileUtils.write_readme(images_list, ranking_type)
 
 if __name__ == "__main__":
     Pixiv.main()

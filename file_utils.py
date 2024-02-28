@@ -5,8 +5,8 @@ import pytz
 class FileUtils:
 
     @staticmethod
-    def write_archive(img_list):
-        archive_dir = Path("archive/daily")
+    def write_archive(img_list, ranking_type):
+        archive_dir = Path(f"archive/{ranking_type}")
         archive_dir.mkdir(exist_ok=True)
 
         tz = pytz.timezone('Asia/Shanghai')
@@ -14,22 +14,43 @@ class FileUtils:
         archive_file.touch(exist_ok=True)
 
         with archive_file.open("w", encoding="utf-8") as file:
-            FileUtils._write_content(file, img_list)
+            FileUtils._write_content(file, img_list, ranking_type)
 
     @staticmethod
-    def write_readme(img_list):
+    def update_readme():
         readme_path = Path("README.md")
         readme_path.touch(exist_ok=True)  # Create the file if it does not exist
 
-        with readme_path.open("w", encoding="utf-8") as file:
-            FileUtils._write_content(file, img_list)
+        # 获取所有archive子目录中最新的.md文件
+        archive_dir = Path("archive")
+        toc = "## Table of Contents\n"
+        latest_content = ""
+        for ranking_type_dir in archive_dir.iterdir():
+            if ranking_type_dir.is_dir():
+                # 获取每个子目录中最新的.md文件
+                latest_md_files = sorted(ranking_type_dir.glob('*.md'), reverse=True)
+                if latest_md_files:
+                    latest_md_file = latest_md_files[0]
+                    ranking_type = ranking_type_dir.name
+                    toc += f"- [{ranking_type.capitalize()}](#{ranking_type})\n"
+                    latest_content += f"## {ranking_type.capitalize()}\n"
+                    latest_content += f"<div id='{ranking_type}'></div>\n\n"
+                    with latest_md_file.open("r", encoding="utf-8") as file:
+                        latest_content += file.read() + "\n\n"
 
-        FileUtils.write_archive(img_list)
+        # 更新README.md文件
+        with readme_path.open("w", encoding="utf-8") as file:
+            file.write(toc + "\n\n" + latest_content)
 
     @staticmethod
-    def _write_content(file, img_list):
+    def write_readme(img_list, ranking_type):
+        FileUtils.write_archive(img_list, ranking_type)
+        FileUtils.update_readme()
+
+    @staticmethod
+    def _write_content(file, img_list, ranking_type):
         tz = pytz.timezone('Asia/Shanghai')
-        file.write("## Pixiv Daily\n")
+        file.write(f"## Pixiv {ranking_type.replace('_', ' ').capitalize()}\n")
         file.write(f"Update: {datetime.now(tz).strftime('%Y-%m-%d %Z')}\n\n")
         file.write("|      |      |      |\n")
         file.write("| :----: | :----: | :----: |\n")
@@ -38,7 +59,7 @@ class FileUtils:
         row_content = ""
         for i, image in enumerate(img_list, start=1):
             # Wrap each image and its download link in a markdown table cell
-            row_content += f"| ![]({image.small_url})<br>**#{image.rank}** [{image.title}]({image.page_url})<br>[Download]({image.big_url_jpg}) "
+            row_content += f"| ![]({image.small_url})<br>**#{image.rank}** [{image.title}]({image.page_url})<br>[Download]({image.big_url}) "
             # Every 3 images or at the end of the list, end the table row
             if i % 3 == 0 or i == len(img_list):
                 row_content += "|\n"

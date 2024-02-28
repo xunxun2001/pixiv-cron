@@ -2,7 +2,7 @@ name: Scheduled Run
 
 on:
   schedule:
-    - cron: '30 11 * * *'  #Beijing, China is 8 hours ahead of Coordinated Universal Time (UTC).
+    - cron: '30 10 * * *'  #Beijing, China is 8 hours ahead of Coordinated Universal Time (UTC).
   workflow_dispatch:  # Add this line to support manual triggering.
 
 permissions:
