@@ -53,3 +53,4 @@ class FileUtils:
                 row_content += "|      "
             row_content += "|\n"
             file.write(row_content)
+    #Todo:基于该内部方法，实现json
