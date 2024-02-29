@@ -1,5 +1,5 @@
 class Image:
-    def __init__(self, title, user_name, date, page_url, small_url, big_url, rank):
+    def __init__(self, title, user_name, date, page_url, small_url, big_url, rank, tags: list):
         self.title = title
         self.user_name = user_name
         self.date = date
@@ -7,7 +7,7 @@ class Image:
         self.small_url = small_url
         self.big_url = big_url
         self.rank = rank
-# TODO: 支持tag字段
+        self.tags = tags
     def __str__(self):
         return f"![]({self.small_url}) **#{self.rank}** [{self.title}]({self.page_url}) [Download]({self.big_url})"
 

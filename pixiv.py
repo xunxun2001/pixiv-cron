@@ -59,9 +59,10 @@ class Pixiv:
             title = image_data['title']
             page_url = f"https://www.pixiv.net/artworks/{image_data['illust_id']}"
             user_name = image_data['user_name']
+            tags = image_data['tags']
 
             big_url = self.fetch_big_url(big_url, i + 1, page_url)
-            images_list.append(Image(title, user_name, date, page_url, small_url, big_url, i + 1))
+            images_list.append(Image(title, user_name, date, page_url, small_url, big_url, i + 1, tags))
 
         return images_list
     @staticmethod
@@ -75,8 +76,8 @@ class Pixiv:
 
         api_urls_and_types = {
             Pixiv.PIXIV_API_DAILY: "daily",
-            Pixiv.PIXIV_API_WEEKLY: "weekly",
-            Pixiv.PIXIV_API_MONTHLY: "monthly",
+            # Pixiv.PIXIV_API_WEEKLY: "weekly",
+            # Pixiv.PIXIV_API_MONTHLY: "monthly",
         }
 
 

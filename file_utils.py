@@ -100,7 +100,8 @@ class FileUtils:
                 'title': image.title,
                 'small_url': image.small_url,
                 'page_url': image.page_url,
-                'big_url': image.big_url
+                'big_url': image.big_url,
+                'tags': image.tags,
             })
 
         # 将图像信息列表写入JSON文件
