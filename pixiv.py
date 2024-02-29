@@ -76,8 +76,8 @@ class Pixiv:
 
         api_urls_and_types = {
             Pixiv.PIXIV_API_DAILY: "daily",
-            # Pixiv.PIXIV_API_WEEKLY: "weekly",
-            # Pixiv.PIXIV_API_MONTHLY: "monthly",
+            Pixiv.PIXIV_API_WEEKLY: "weekly",
+            Pixiv.PIXIV_API_MONTHLY: "monthly",
         }
 
 
