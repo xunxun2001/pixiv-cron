@@ -98,12 +98,15 @@ class FileUtils:
             images_data.append({
                 'rank': image.rank,
                 'title': image.title,
+                'user_name': image.user_name,
                 'small_url': image.small_url,
                 'page_url': image.page_url,
                 'big_url': image.big_url,
                 'tags': image.tags,
+                'rating_count': image.rating_count,
+                'view_count': image.view_count,
             })
 
-        # 将图像信息列表写入JSON文件
+        # todo: 打包发布
         with json_file_path.open('w', encoding='utf-8') as json_file:
             json.dump(images_data, json_file, ensure_ascii=False, indent=4)

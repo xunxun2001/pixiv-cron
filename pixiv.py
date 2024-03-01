@@ -59,10 +59,10 @@ class Pixiv:
             title = image_data['title']
             page_url = f"https://www.pixiv.net/artworks/{image_data['illust_id']}"
             user_name = image_data['user_name']
-            tags = image_data['tags']
+            tags, rating_count, view_count = image_data['tags'], image_data['rating_count'], image_data['view_count']
 
             big_url = self.fetch_big_url(big_url, i + 1, page_url)
-            images_list.append(Image(title, user_name, date, page_url, small_url, big_url, i + 1, tags))
+            images_list.append(Image(title, user_name, date, page_url, small_url, big_url, i + 1, tags, rating_count, view_count))
 
         return images_list
     @staticmethod

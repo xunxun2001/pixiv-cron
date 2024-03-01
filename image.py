@@ -1,5 +1,5 @@
 class Image:
-    def __init__(self, title, user_name, date, page_url, small_url, big_url, rank, tags: list):
+    def __init__(self, title, user_name, date, page_url, small_url, big_url, rank, tags: list, rating_count, view_count):
         self.title = title
         self.user_name = user_name
         self.date = date
@@ -8,6 +8,9 @@ class Image:
         self.big_url = big_url
         self.rank = rank
         self.tags = tags
+        self.rating_count = rating_count
+        self.view_count = view_count
+
     def __str__(self):
         return f"![]({self.small_url}) **#{self.rank}** [{self.title}]({self.page_url}) [Download]({self.big_url})"
 
