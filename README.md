@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-03-07 22:38:39 CST
+Update: 2024-03-08 10:03:25 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,14 +34,14 @@ Update: 2024-03-07 22:38:39 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-03-07 22:40:38 CST
+Update: 2024-03-08 10:05:03 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/19/00/13/116525886_p0_master1200.jpg)<br>**#1** [先輩がうざい後輩の話【228】](https://www.pixiv.net/artworks/116525886)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/19/00/13/116525886_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/02/29/00/00/23/116478177_p0_master1200.jpg)<br>**#2** [💐earth💐](https://www.pixiv.net/artworks/116478177)<br>[Download](https://i.pixiv.re/img-original/img/2024/02/29/00/00/23/116478177_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/00/00/22/116507091_p0_master1200.jpg)<br>**#3** [花火](https://www.pixiv.net/artworks/116507091)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/00/00/22/116507091_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/02/00/00/24/116535516_p0_master1200.jpg)<br>**#4** [earth](https://www.pixiv.net/artworks/116535516)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/02/00/00/24/116535516_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/00/01/28/116507323_p0_master1200.jpg)<br>**#5** [1日ごとにデレが増えてくツンデレデレちゃん](https://www.pixiv.net/artworks/116507323)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/00/01/28/116507323_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/02/29/20/48/03/116499858_p0_master1200.jpg)<br>**#6** [長いネコ](https://www.pixiv.net/artworks/116499858)<br>[Download](https://i.pixiv.re/img-original/img/2024/02/29/20/48/03/116499858_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/02/40/11/116511344_p0_master1200.jpg)<br>**#7** [Xigns](https://www.pixiv.net/artworks/116511344)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/02/40/11/116511344_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/02/01/18/18/116538086_p0_master1200.jpg)<br>**#8** [薬屋のダンジョン](https://www.pixiv.net/artworks/116538086)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/02/01/18/18/116538086_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/02/29/01/46/35/116481271_master1200.jpg)<br>**#9** [葬送の花海 F](https://www.pixiv.net/artworks/116481271)<br>[Download](https://www.pixiv.net/artworks/116481271) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/07/03/19/02/116511465_p0_master1200.jpg)<br>**#10** [アシッド](https://www.pixiv.net/artworks/116511465)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/07/03/19/02/116511465_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/19/12/57/116526272_p0_master1200.jpg)<br>**#11** [焔錦に遊魚](https://www.pixiv.net/artworks/116526272)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/19/12/57/116526272_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/03/42/11/116512112_p0_master1200.jpg)<br>**#12** [무제](https://www.pixiv.net/artworks/116512112)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/03/42/11/116512112_p0.png) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/07/03/19/02/116511465_p0_master1200.jpg)<br>**#10** [アシッド](https://www.pixiv.net/artworks/116511465)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/07/03/19/02/116511465_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/08/06/46/09/116526272_p0_master1200.jpg)<br>**#11** [焔錦に遊魚](https://www.pixiv.net/artworks/116526272)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/08/06/46/09/116526272_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/03/42/11/116512112_p0_master1200.jpg)<br>**#12** [무제](https://www.pixiv.net/artworks/116512112)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/03/42/11/116512112_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/02/29/06/00/09/116484329_p0_master1200.jpg)<br>**#13** [個人メモ：太腿と股間は連動する](https://www.pixiv.net/artworks/116484329)<br>[Download](https://i.pixiv.re/img-original/img/2024/02/29/06/00/09/116484329_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/18/00/37/116524370_p0_master1200.jpg)<br>**#14** [【創作】空気が「読める」新入社員と不愛想な先輩の話61話・中編](https://www.pixiv.net/artworks/116524370)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/18/00/37/116524370_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/17/14/56/116523315_p0_master1200.jpg)<br>**#15** [【創作漫画】魔女がいた街](https://www.pixiv.net/artworks/116523315)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/17/14/56/116523315_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/17/48/45/116524020_p0_master1200.jpg)<br>**#16** [【原神】たまごばっかり食べる心海](https://www.pixiv.net/artworks/116524020)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/17/48/45/116524020_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/20/44/44/116528955_p0_master1200.jpg)<br>**#17** [三冠ウマ娘4名](https://www.pixiv.net/artworks/116528955)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/20/44/44/116528955_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/12/00/12/116518161_p0_master1200.jpg)<br>**#18** [【会社と私生活】パンクな私生活](https://www.pixiv.net/artworks/116518161)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/12/00/12/116518161_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/02/29/00/06/08/116478617_p0_master1200.jpg)<br>**#19** [墓守のウェザエモン](https://www.pixiv.net/artworks/116478617)<br>[Download](https://i.pixiv.re/img-original/img/2024/02/29/00/06/08/116478617_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/12/35/51/116518816_p0_master1200.jpg)<br>**#20** [EXIT](https://www.pixiv.net/artworks/116518816)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/12/35/51/116518816_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/03/01/19/32/36/116526796_p0_master1200.jpg)<br>**#21** [【IF】種自由After](https://www.pixiv.net/artworks/116526796)<br>[Download](https://i.pixiv.re/img-original/img/2024/03/01/19/32/36/116526796_p0.jpg) |
@@ -61,7 +61,7 @@ Update: 2024-03-07 22:40:38 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-03-07 22:42:42 CST
+Update: 2024-03-08 10:06:42 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
