@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-04-15 22:40:33 CST
+Update: 2024-04-16 10:06:27 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -20,7 +20,7 @@ Update: 2024-04-15 22:40:33 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/14/10/23/32/117824032_p0_master1200.jpg)<br>**#19** [ほむら先生はたぶんモテない　まとめ読み](https://www.pixiv.net/artworks/117824032)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/14/10/23/32/117824032_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/07/41/36/117789680_p0_master1200.jpg)<br>**#20** [おいでよ　魔法少女村（不法占拠）35](https://www.pixiv.net/artworks/117789680)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/07/41/36/117789680_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/00/00/14/117781782_p0_master1200.jpg)<br>**#21** [東方LostWord](https://www.pixiv.net/artworks/117781782)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/00/00/14/117781782_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/18/24/32/117802435_p0_master1200.jpg)<br>**#22** [ハイランダー鉄道学園の双子ちゃん](https://www.pixiv.net/artworks/117802435)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/18/24/32/117802435_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/13/40/48/117796157_p0_master1200.jpg)<br>**#23** [commission](https://www.pixiv.net/artworks/117796157)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/13/40/48/117796157_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/00/00/44/117781926_p0_master1200.jpg)<br>**#24** [チェックインからフルスロットル奥さん](https://www.pixiv.net/artworks/117781926)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/00/00/44/117781926_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/12/00/36/117794068_p0_master1200.jpg)<br>**#25** [コスメ男子と男の娘が夢の第一歩を踏み出す話【おとつく再掲】](https://www.pixiv.net/artworks/117794068)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/12/00/36/117794068_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/00/24/37/117782924_p0_master1200.jpg)<br>**#26** [春があふれる](https://www.pixiv.net/artworks/117782924)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/00/24/37/117782924_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/16/24/37/117799455_p0_master1200.jpg)<br>**#27** [摸摸jio](https://www.pixiv.net/artworks/117799455)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/16/24/37/117799455_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/12/25/01/117794570_p0_master1200.jpg)<br>**#28** [pp](https://www.pixiv.net/artworks/117794570)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/12/25/01/117794570_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/17/04/13/117800301_p0_master1200.jpg)<br>**#29** [リムル=テンペストさん](https://www.pixiv.net/artworks/117800301)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/17/04/13/117800301_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/14/04/47/06/117819400_p0_master1200.jpg)<br>**#30** [Shibuna Pharaoh](https://www.pixiv.net/artworks/117819400)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/14/04/47/06/117819400_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/12/25/01/117794570_p0_master1200.jpg)<br>**#28** [pp](https://www.pixiv.net/artworks/117794570)<br>[Download](https://www.pixiv.net/artworks/117794570) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/17/04/13/117800301_p0_master1200.jpg)<br>**#29** [リムル=テンペストさん](https://www.pixiv.net/artworks/117800301)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/17/04/13/117800301_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/14/04/47/06/117819400_p0_master1200.jpg)<br>**#30** [Shibuna Pharaoh](https://www.pixiv.net/artworks/117819400)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/14/04/47/06/117819400_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/00/32/46/117783210_p0_master1200.jpg)<br>**#31** [BLUE ALBUM](https://www.pixiv.net/artworks/117783210)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/00/32/46/117783210_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/00/00/17/117781795_p0_master1200.jpg)<br>**#32** [近視の姉＃155](https://www.pixiv.net/artworks/117781795)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/00/00/17/117781795_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/14/00/06/04/117813679_p0_master1200.jpg)<br>**#33** [春の海](https://www.pixiv.net/artworks/117813679)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/14/00/06/04/117813679_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/14/12/24/55/117826043_p0_master1200.jpg)<br>**#34** [【拷問バイトくん】入れ替わり編更新！](https://www.pixiv.net/artworks/117826043)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/14/12/24/55/117826043_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/16/22/14/117799404_p0_master1200.jpg)<br>**#35** [好きな音](https://www.pixiv.net/artworks/117799404)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/16/22/14/117799404_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/17/05/30/117800325_p0_master1200.jpg)<br>**#36** [コナン色々まとめ](https://www.pixiv.net/artworks/117800325)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/17/05/30/117800325_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/17/57/58/117801584_p0_master1200.jpg)<br>**#37** [ウーシア プネウマ フリーナ💧](https://www.pixiv.net/artworks/117801584)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/17/57/58/117801584_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/16/29/06/117799529_p0_master1200.jpg)<br>**#38** [お返しは甘くないね](https://www.pixiv.net/artworks/117799529)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/16/29/06/117799529_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/13/12/00/01/117793980_p0_master1200.jpg)<br>**#39** [カヨコ](https://www.pixiv.net/artworks/117793980)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/13/12/00/01/117793980_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2024-04-15 22:40:33 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-04-15 22:52:21 CST
+Update: 2024-04-16 10:11:59 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-04-15 22:52:21 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-04-15 23:01:03 CST
+Update: 2024-04-16 10:17:26 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
