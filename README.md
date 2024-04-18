@@ -7,14 +7,14 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-04-18 17:38:32 CST
+Update: 2024-04-18 22:36:37 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/00/00/59/117875739_p0_master1200.jpg)<br>**#1** [CCさくら](https://www.pixiv.net/artworks/117875739)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/00/00/59/117875739_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/14/58/57/117888810_p0_master1200.jpg)<br>**#2** [小さいぐだ子とジャンヌ･オルタ](https://www.pixiv.net/artworks/117888810)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/14/58/57/117888810_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/00/00/30/117875650_p0_master1200.jpg)<br>**#3** [フリーナ](https://www.pixiv.net/artworks/117875650)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/00/00/30/117875650_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/00/36/24/117904473_p0_master1200.jpg)<br>**#4** [💌](https://www.pixiv.net/artworks/117904473)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/00/36/24/117904473_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/12/00/13/117886224_p0_master1200.jpg)<br>**#5** [【会社と私生活】まさかのご近所](https://www.pixiv.net/artworks/117886224)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/12/00/13/117886224_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/09/28/55/117884113_p0_master1200.jpg)<br>**#6** [ちうがくせいおにいちゃん](https://www.pixiv.net/artworks/117884113)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/09/28/55/117884113_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/00/00/25/117903060_p0_master1200.jpg)<br>**#7** [★★★](https://www.pixiv.net/artworks/117903060)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/00/00/25/117903060_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/01/30/02/117878311_p0_master1200.jpg)<br>**#8** [花かんむり](https://www.pixiv.net/artworks/117878311)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/01/30/02/117878311_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/00/00/20/117903036_p0_master1200.jpg)<br>**#9** [ビビデバ](https://www.pixiv.net/artworks/117903036)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/00/00/20/117903036_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/04/30/01/117880691_p0_master1200.jpg)<br>**#10** [れ](https://www.pixiv.net/artworks/117880691)<br>[Download](https://www.pixiv.net/artworks/117880691) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/00/01/33/117875791_p0_master1200.jpg)<br>**#11** [私の魔法の先生は魔法が使えない（続）その20](https://www.pixiv.net/artworks/117875791)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/00/01/33/117875791_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/00/03/49/117875906_p0_master1200.jpg)<br>**#12** [コロコロ](https://www.pixiv.net/artworks/117875906)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/00/03/49/117875906_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/04/30/01/117880691_p0_master1200.jpg)<br>**#10** [れ](https://www.pixiv.net/artworks/117880691)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/04/30/01/117880691_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/00/01/33/117875791_p0_master1200.jpg)<br>**#11** [私の魔法の先生は魔法が使えない（続）その20](https://www.pixiv.net/artworks/117875791)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/00/01/33/117875791_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/00/03/49/117875906_p0_master1200.jpg)<br>**#12** [コロコロ](https://www.pixiv.net/artworks/117875906)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/00/03/49/117875906_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/10/41/12/117912465_p0_master1200.jpg)<br>**#13** [もう触れないキミ44](https://www.pixiv.net/artworks/117912465)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/10/41/12/117912465_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/18/07/12/117892262_p0_master1200.jpg)<br>**#14** [桜](https://www.pixiv.net/artworks/117892262)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/18/07/12/117892262_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/00/00/49/117903152_p0_master1200.jpg)<br>**#15** [幼馴染が久々に再会したらお互い巨乳になってた【121】](https://www.pixiv.net/artworks/117903152)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/00/00/49/117903152_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/00/35/30/117904451_p0_master1200.jpg)<br>**#16** [恋するゼイユ](https://www.pixiv.net/artworks/117904451)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/00/35/30/117904451_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/23/04/30/117928570_p0_master1200.jpg)<br>**#17** [抹茶プリン](https://www.pixiv.net/artworks/117928570)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/23/04/30/117928570_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/22/23/40/117927270_p0_master1200.jpg)<br>**#18** [斧](https://www.pixiv.net/artworks/117927270)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/22/23/40/117927270_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/12/25/25/117903052_p0_master1200.jpg)<br>**#19** [悪役貴族として必要なそれ２](https://www.pixiv.net/artworks/117903052)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/12/25/25/117903052_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/17/01/00/05/117905081_p0_master1200.jpg)<br>**#20** [月下に舞い踊る花](https://www.pixiv.net/artworks/117905081)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/17/01/00/05/117905081_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/19/59/29/117894996_p0_master1200.jpg)<br>**#21** [「もう行かなきゃ…」](https://www.pixiv.net/artworks/117894996)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/19/59/29/117894996_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2024-04-18 17:38:32 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-04-18 17:39:00 CST
+Update: 2024-04-18 22:37:04 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-04-18 17:39:00 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-04-18 17:39:24 CST
+Update: 2024-04-18 22:37:27 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
