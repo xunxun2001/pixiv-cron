@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-04-17 22:36:42 CST
+Update: 2024-04-18 10:04:50 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -24,7 +24,7 @@ Update: 2024-04-17 22:36:42 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/00/00/32/117875658_p0_master1200.jpg)<br>**#31** [巌窟王の最期の一服](https://www.pixiv.net/artworks/117875658)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/00/00/32/117875658_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/01/30/02/117878311_p0_master1200.jpg)<br>**#32** [花かんむり](https://www.pixiv.net/artworks/117878311)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/01/30/02/117878311_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/12/40/07/117886849_p0_master1200.jpg)<br>**#33** [訳アリ心霊マンション　30話](https://www.pixiv.net/artworks/117886849)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/12/40/07/117886849_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/18/02/45/117864741_p0_master1200.jpg)<br>**#34** [店のおでんメニューに謎の煮魚がいる](https://www.pixiv.net/artworks/117864741)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/18/02/45/117864741_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/00/09/47/117848344_p0_master1200.jpg)<br>**#35** [Mew](https://www.pixiv.net/artworks/117848344)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/00/09/47/117848344_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/04/30/01/117880691_p0_master1200.jpg)<br>**#36** [れ](https://www.pixiv.net/artworks/117880691)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/04/30/01/117880691_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/00/46/24/117849599_p0_master1200.jpg)<br>**#37** [カラオケ](https://www.pixiv.net/artworks/117849599)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/00/46/24/117849599_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/01/55/06/117878773_p0_master1200.jpg)<br>**#38** [【ニンゲンの飼い方】『お花見』🌸](https://www.pixiv.net/artworks/117878773)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/01/55/06/117878773_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/00/03/53/117848103_p0_master1200.jpg)<br>**#39** [自分も隙だらけだった奥さん](https://www.pixiv.net/artworks/117848103)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/00/03/53/117848103_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/18/15/38/117865030_p0_master1200.jpg)<br>**#40** [「Trip Trap Train」](https://www.pixiv.net/artworks/117865030)<br>[Download](https://www.pixiv.net/artworks/117865030) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/19/20/01/117866637_p0_master1200.jpg)<br>**#41** [セルマ x 夢追い人](https://www.pixiv.net/artworks/117866637)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/19/20/01/117866637_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/18/00/14/117864587_p0_master1200.jpg)<br>**#42** [黃泉](https://www.pixiv.net/artworks/117864587)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/18/00/14/117864587_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/18/15/38/117865030_p0_master1200.jpg)<br>**#40** [「Trip Trap Train」](https://www.pixiv.net/artworks/117865030)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/18/15/38/117865030_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/19/20/01/117866637_p0_master1200.jpg)<br>**#41** [セルマ x 夢追い人](https://www.pixiv.net/artworks/117866637)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/19/20/01/117866637_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/18/00/14/117864587_p0_master1200.jpg)<br>**#42** [黃泉](https://www.pixiv.net/artworks/117864587)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/18/00/14/117864587_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/16/24/05/117862728_p0_master1200.jpg)<br>**#43** [魔法のことば【葬フリ】](https://www.pixiv.net/artworks/117862728)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/16/24/05/117862728_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/12/30/49/117859334_p0_master1200.jpg)<br>**#44** [oc稿](https://www.pixiv.net/artworks/117859334)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/12/30/49/117859334_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/17/16/45/117863648_p0_master1200.jpg)<br>**#45** [灰原「ｸｼｭ」コナン「わ、わりぃ」](https://www.pixiv.net/artworks/117863648)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/17/16/45/117863648_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/21/17/54/117870151_p0_master1200.jpg)<br>**#46** [🔴cm🔴](https://www.pixiv.net/artworks/117870151)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/21/17/54/117870151_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/18/00/13/117864577_p0_master1200.jpg)<br>**#47** [Skeb(天使)](https://www.pixiv.net/artworks/117864577)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/18/00/13/117864577_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/15/00/00/03/117847603_p0_master1200.jpg)<br>**#48** [ファルザン](https://www.pixiv.net/artworks/117847603)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/15/00/00/03/117847603_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/17/17/41/117891136_p0_master1200.jpg)<br>**#49** [少女終末旅行](https://www.pixiv.net/artworks/117891136)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/17/17/41/117891136_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/16/19/59/29/117894996_p0_master1200.jpg)<br>**#50** [「もう行かなきゃ…」](https://www.pixiv.net/artworks/117894996)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/16/19/59/29/117894996_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2024-04-17 22:36:42 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-04-17 22:37:10 CST
+Update: 2024-04-18 10:05:17 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-04-17 22:37:10 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-04-17 22:37:39 CST
+Update: 2024-04-18 10:05:43 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
