@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-04-27 17:37:36 CST
+Update: 2024-04-27 22:37:09 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -27,14 +27,14 @@ Update: 2024-04-27 17:37:36 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/26/21/22/05/118179345_p0_master1200.jpg)<br>**#40** [HSR 1year](https://www.pixiv.net/artworks/118179345)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/26/21/22/05/118179345_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/25/07/35/42/118138706_p0_master1200.jpg)<br>**#41** [Gamer gf](https://www.pixiv.net/artworks/118138706)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/25/07/35/42/118138706_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/25/00/00/31/118131996_p0_master1200.jpg)<br>**#42** [Half-Vampire Nun](https://www.pixiv.net/artworks/118131996)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/25/00/00/31/118131996_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/25/20/37/24/118151277_p0_master1200.jpg)<br>**#43** [💗cm💗](https://www.pixiv.net/artworks/118151277)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/25/20/37/24/118151277_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/25/00/19/44/118132242_p0_master1200.jpg)<br>**#44** [またも唐揚げ逃してしまった奥さん](https://www.pixiv.net/artworks/118132242)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/25/00/19/44/118132242_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/26/00/32/17/118158803_p0_master1200.jpg)<br>**#45** [白バニーミカ](https://www.pixiv.net/artworks/118158803)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/26/00/32/17/118158803_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/25/17/44/29/118147052_p0_master1200.jpg)<br>**#46** [はち、釉掛けに挑戦](https://www.pixiv.net/artworks/118147052)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/25/17/44/29/118147052_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/26/19/00/09/118175008_p0_master1200.jpg)<br>**#47** [スキンシップの代償](https://www.pixiv.net/artworks/118175008)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/26/19/00/09/118175008_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/26/10/54/03/118166640_p0_master1200.jpg)<br>**#48** [commission](https://www.pixiv.net/artworks/118166640)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/26/10/54/03/118166640_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/26/12/33/04/118168190_p0_master1200.jpg)<br>**#49** [【更新告知】恋する(おとめ)の作り方 82](https://www.pixiv.net/artworks/118168190)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/26/12/33/04/118168190_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/25/00/00/59/118132082_p0_master1200.jpg)<br>**#50** [チリ](https://www.pixiv.net/artworks/118132082)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/25/00/00/59/118132082_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/27/19/33/40/118168190_p0_master1200.jpg)<br>**#49** [【更新告知】恋する(おとめ)の作り方 82](https://www.pixiv.net/artworks/118168190)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/27/19/33/40/118168190_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/04/25/00/00/59/118132082_p0_master1200.jpg)<br>**#50** [チリ](https://www.pixiv.net/artworks/118132082)<br>[Download](https://i.pixiv.re/img-original/img/2024/04/25/00/00/59/118132082_p0.jpg) |
 |      |
 
 
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-04-27 17:38:37 CST
+Update: 2024-04-27 22:37:54 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-04-27 17:38:37 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-04-27 17:39:30 CST
+Update: 2024-04-27 22:38:28 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
