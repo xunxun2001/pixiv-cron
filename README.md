@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-05-04 22:36:52 CST
+Update: 2024-05-05 10:10:47 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2024-05-04 22:36:52 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-05-04 22:37:29 CST
+Update: 2024-05-05 10:11:56 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-05-04 22:37:29 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-05-04 22:37:56 CST
+Update: 2024-05-05 10:13:07 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
