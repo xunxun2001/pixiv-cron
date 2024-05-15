@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-05-15 17:37:54 CST
+Update: 2024-05-15 22:36:58 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -21,7 +21,7 @@ Update: 2024-05-15 17:37:54 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/14/00/27/38/118708172_p0_master1200.jpg)<br>**#22** [贴贴](https://www.pixiv.net/artworks/118708172)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/14/00/27/38/118708172_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/00/02/19/118679611_p0_master1200.jpg)<br>**#23** [無題](https://www.pixiv.net/artworks/118679611)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/00/02/19/118679611_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/15/04/06/118693152_p0_master1200.jpg)<br>**#24** [灰原「ありがと」コナン「あぁ」](https://www.pixiv.net/artworks/118693152)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/15/04/06/118693152_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/14/00/01/17/118707203_p0_master1200.jpg)<br>**#25** [讐理超克](https://www.pixiv.net/artworks/118707203)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/14/00/01/17/118707203_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/00/00/27/118679351_p0_master1200.jpg)<br>**#26** [千織](https://www.pixiv.net/artworks/118679351)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/00/00/27/118679351_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/14/12/35/15/118718247_p0_master1200.jpg)<br>**#27** [訳アリ心霊マンション　31話](https://www.pixiv.net/artworks/118718247)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/14/12/35/15/118718247_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/05/00/04/118685144_p0_master1200.jpg)<br>**#28** [メイド女装②](https://www.pixiv.net/artworks/118685144)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/05/00/04/118685144_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/07/37/30/118686898_p0_master1200.jpg)<br>**#29** [ユーリ](https://www.pixiv.net/artworks/118686898)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/07/37/30/118686898_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/19/00/04/118697605_p0_master1200.jpg)<br>**#30** [クソデカダミ声の甘えんぼ猫を病院に連れていった時の話](https://www.pixiv.net/artworks/118697605)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/19/00/04/118697605_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/14/39/35/118722780_p0_master1200.jpg)<br>**#31** [死神とお嬢さんと日本企業](https://www.pixiv.net/artworks/118722780)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/14/39/35/118722780_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/00/00/24/118679333_p0_master1200.jpg)<br>**#32** [-](https://www.pixiv.net/artworks/118679333)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/00/00/24/118679333_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/14/12/25/06/118718092_p0_master1200.jpg)<br>**#33** [no.2213 『 ヒヨコ 』](https://www.pixiv.net/artworks/118718092)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/14/12/25/06/118718092_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/20/11/27/118722780_p0_master1200.jpg)<br>**#31** [死神とお嬢さんと日本企業](https://www.pixiv.net/artworks/118722780)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/20/11/27/118722780_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/00/00/24/118679333_p0_master1200.jpg)<br>**#32** [-](https://www.pixiv.net/artworks/118679333)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/00/00/24/118679333_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/14/12/25/06/118718092_p0_master1200.jpg)<br>**#33** [no.2213 『 ヒヨコ 』](https://www.pixiv.net/artworks/118718092)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/14/12/25/06/118718092_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/00/00/25/118679344_p0_master1200.jpg)<br>**#34** [天明の涙](https://www.pixiv.net/artworks/118679344)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/00/00/25/118679344_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/14/00/26/04/118708119_p0_master1200.jpg)<br>**#35** [暁](https://www.pixiv.net/artworks/118708119)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/14/00/26/04/118708119_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/14/15/25/01/118720706_p0_master1200.jpg)<br>**#36** [コナン「左にあんじゃねーか」灰原「逆方向に行く様は滑稽ね」](https://www.pixiv.net/artworks/118720706)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/14/15/25/01/118720706_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/00/01/12/118679500_p0_master1200.jpg)<br>**#37** [TIME FLIES](https://www.pixiv.net/artworks/118679500)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/00/01/12/118679500_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/00/15/59/118680206_p0_master1200.jpg)<br>**#38** [在黄金的时刻重逢](https://www.pixiv.net/artworks/118680206)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/00/15/59/118680206_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/04/24/41/118684861_p0_master1200.jpg)<br>**#39** [Nabi](https://www.pixiv.net/artworks/118684861)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/04/24/41/118684861_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/00/00/31/118679382_p0_master1200.jpg)<br>**#40** [♤さんの日常](https://www.pixiv.net/artworks/118679382)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/00/00/31/118679382_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/14/14/18/32/118719752_p0_master1200.jpg)<br>**#41** [おばちぇの一枚絵詰め合わせ](https://www.pixiv.net/artworks/118719752)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/14/14/18/32/118719752_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/13/21/26/10/118701894_p0_master1200.jpg)<br>**#42** [アーキタイプ：ガールズ](https://www.pixiv.net/artworks/118701894)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/13/21/26/10/118701894_p0.png) |
@@ -34,7 +34,7 @@ Update: 2024-05-15 17:37:54 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-05-15 17:38:30 CST
+Update: 2024-05-15 22:37:21 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-05-15 17:38:30 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-05-15 17:39:22 CST
+Update: 2024-05-15 22:37:55 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
