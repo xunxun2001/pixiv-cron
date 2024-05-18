@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-05-17 22:36:48 CST
+Update: 2024-05-18 10:09:33 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -24,7 +24,7 @@ Update: 2024-05-17 22:36:48 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/16/00/25/48/118762782_p0_master1200.jpg)<br>**#31** [フリーナ](https://www.pixiv.net/artworks/118762782)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/16/00/25/48/118762782_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/21/42/15/118756941_p0_master1200.jpg)<br>**#32** [thebackofboys×ノーコピーライトガールコラボ](https://www.pixiv.net/artworks/118756941)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/21/42/15/118756941_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/16/00/03/36/118761972_p0_master1200.jpg)<br>**#33** [葬送まとめ8](https://www.pixiv.net/artworks/118761972)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/16/00/03/36/118761972_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/16/02/50/12/118765738_p0_master1200.jpg)<br>**#34** [💜💙](https://www.pixiv.net/artworks/118765738)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/16/02/50/12/118765738_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/00/00/34/118734053_p0_master1200.jpg)<br>**#35** [⋆   🩸  𝒞𝑒𝓁𝑒𝓈𝓉𝒾𝒶 𝐿𝓊𝒹𝑒𝓃𝒷𝑒𝓇𝑔  🩸  ⋆](https://www.pixiv.net/artworks/118734053)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/00/00/34/118734053_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/00/00/10/118733931_p0_master1200.jpg)<br>**#36** [かわたれ時](https://www.pixiv.net/artworks/118733931)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/00/00/10/118733931_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/00/27/53/118735252_p0_master1200.jpg)<br>**#37** [肉まんを食べる美鈴](https://www.pixiv.net/artworks/118735252)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/00/27/53/118735252_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/16/20/39/44/118782083_p0_master1200.jpg)<br>**#38** [シュタフェル詰め8。](https://www.pixiv.net/artworks/118782083)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/16/20/39/44/118782083_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/01/26/33/118736743_p0_master1200.jpg)<br>**#39** [ピカチュウクレープとナンジャモちゃん](https://www.pixiv.net/artworks/118736743)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/01/26/33/118736743_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/06/37/48/118740563_p0_master1200.jpg)<br>**#40** [先生よわよわシリーズ 58](https://www.pixiv.net/artworks/118740563)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/06/37/48/118740563_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/20/15/39/118754338_p0_master1200.jpg)<br>**#41** [年齢を詐称してるVtuberの猫VSメスガキ系Vtuber](https://www.pixiv.net/artworks/118754338)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/20/15/39/118754338_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/16/14/12/54/118774295_p0_master1200.jpg)<br>**#42** [喫茶あまやどり](https://www.pixiv.net/artworks/118774295)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/16/14/12/54/118774295_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/18/04/01/16/118740563_p0_master1200.jpg)<br>**#40** [先生よわよわシリーズ 58](https://www.pixiv.net/artworks/118740563)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/18/04/01/16/118740563_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/20/15/39/118754338_p0_master1200.jpg)<br>**#41** [年齢を詐称してるVtuberの猫VSメスガキ系Vtuber](https://www.pixiv.net/artworks/118754338)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/20/15/39/118754338_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/16/14/12/54/118774295_p0_master1200.jpg)<br>**#42** [喫茶あまやどり](https://www.pixiv.net/artworks/118774295)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/16/14/12/54/118774295_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/16/00/02/41/118761929_p0_master1200.jpg)<br>**#43** [世界を救った勇者にストーカーされる村娘の話３話](https://www.pixiv.net/artworks/118761929)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/16/00/02/41/118761929_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/20/03/22/118754009_p0_master1200.jpg)<br>**#44** [愛の架け橋](https://www.pixiv.net/artworks/118754009)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/20/03/22/118754009_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/00/00/31/118734045_p0_master1200.jpg)<br>**#45** [🍃](https://www.pixiv.net/artworks/118734045)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/00/00/31/118734045_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/09/51/55/118734097_p0_master1200.jpg)<br>**#46** [曙光](https://www.pixiv.net/artworks/118734097)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/09/51/55/118734097_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/16/11/53/12/118772046_p0_master1200.jpg)<br>**#47** [女装メイドvs男嫌いお嬢様](https://www.pixiv.net/artworks/118772046)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/16/11/53/12/118772046_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/16/21/05/40/118782962_p0_master1200.jpg)<br>**#48** [悪役令嬢が正ヒロインを口説き落とす話。42【創作百合】](https://www.pixiv.net/artworks/118782962)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/16/21/05/40/118782962_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/00/07/59/118734559_p0_master1200.jpg)<br>**#49** [🫧𓆝𓆟𓆜𓆞](https://www.pixiv.net/artworks/118734559)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/00/07/59/118734559_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/05/15/00/00/53/118734137_p0_master1200.jpg)<br>**#50** [無題2](https://www.pixiv.net/artworks/118734137)<br>[Download](https://i.pixiv.re/img-original/img/2024/05/15/00/00/53/118734137_p0.png) |
@@ -34,7 +34,7 @@ Update: 2024-05-17 22:36:48 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-05-17 22:37:13 CST
+Update: 2024-05-18 10:10:14 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-05-17 22:37:13 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-05-17 22:37:36 CST
+Update: 2024-05-18 10:10:45 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
