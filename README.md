@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-07-06 22:37:41 CST
+Update: 2024-07-07 10:25:30 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2024-07-06 22:37:41 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-07-06 22:38:55 CST
+Update: 2024-07-07 10:26:04 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -42,7 +42,7 @@ Update: 2024-07-06 22:38:55 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/29/00/00/36/120060975_p0_master1200.jpg)<br>**#4** [氷花の舞姫](https://www.pixiv.net/artworks/120060975)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/29/00/00/36/120060975_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/29/00/06/17/120061474_p0_master1200.jpg)<br>**#5** [木漏れ日](https://www.pixiv.net/artworks/120061474)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/29/00/06/17/120061474_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/29/00/01/02/120061037_p0_master1200.jpg)<br>**#6** [FGO Fes. 2024：セイバーウォーズパビリオン](https://www.pixiv.net/artworks/120061037)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/29/00/01/02/120061037_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/30/00/01/24/120094511_p0_master1200.jpg)<br>**#7** [奥さんの祖父母にツッコミ所あり過ぎて思わず視線をそらす旦那さん](https://www.pixiv.net/artworks/120094511)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/30/00/01/24/120094511_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/29/11/38/39/120072828_p0_master1200.jpg)<br>**#8** [残された使い魔と魔術師の話。](https://www.pixiv.net/artworks/120072828)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/29/11/38/39/120072828_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/01/11/08/19/120142791_p0_master1200.jpg)<br>**#9** [『狐の窓』続・カナタ編1](https://www.pixiv.net/artworks/120142791)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/01/11/08/19/120142791_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/29/06/00/08/120067916_p0_master1200.jpg)<br>**#10** [個人メモ：指の曲がり方](https://www.pixiv.net/artworks/120067916)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/29/06/00/08/120067916_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/30/00/18/16/120095447_p0_master1200.jpg)<br>**#11** [(ち…近い……)](https://www.pixiv.net/artworks/120095447)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/30/00/18/16/120095447_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/30/19/39/35/120120235_p0_master1200.jpg)<br>**#12** [彼女は恋をした](https://www.pixiv.net/artworks/120120235)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/30/19/39/35/120120235_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/01/21/26/54/120155897_p0_master1200.jpg)<br>**#13** [無題](https://www.pixiv.net/artworks/120155897)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/01/21/26/54/120155897_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/29/00/21/39/120061385_p0_master1200.jpg)<br>**#14** [奥さんのばぁばの「ぜったいれいど」](https://www.pixiv.net/artworks/120061385)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/29/00/21/39/120061385_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/30/16/05/16/120113571_p0_master1200.jpg)<br>**#15** [一生分の星と逃げる](https://www.pixiv.net/artworks/120113571)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/30/16/05/16/120113571_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/01/21/26/54/120155897_p0_master1200.jpg)<br>**#13** [無題](https://www.pixiv.net/artworks/120155897)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/01/21/26/54/120155897_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/07/09/00/02/120061385_p0_master1200.jpg)<br>**#14** [奥さんのばぁばの「ぜったいれいど」](https://www.pixiv.net/artworks/120061385)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/07/09/00/02/120061385_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/30/16/05/16/120113571_p0_master1200.jpg)<br>**#15** [一生分の星と逃げる](https://www.pixiv.net/artworks/120113571)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/30/16/05/16/120113571_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/01/00/37/01/120133501_p0_master1200.jpg)<br>**#16** [ホタル吸い](https://www.pixiv.net/artworks/120133501)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/01/00/37/01/120133501_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/29/18/59/09/120083600_p0_master1200.jpg)<br>**#17** [高飛車ドレイちゃん　まとめ　その3](https://www.pixiv.net/artworks/120083600)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/29/18/59/09/120083600_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/01/22/55/31/120159043_p0_master1200.jpg)<br>**#18** [赤ちゃんルチャブルまとめ④](https://www.pixiv.net/artworks/120159043)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/01/22/55/31/120159043_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/29/07/30/01/120069088_p0_master1200.jpg)<br>**#19** [くそだるチョコレートアイス](https://www.pixiv.net/artworks/120069088)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/29/07/30/01/120069088_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/01/10/24/14/120142155_p0_master1200.jpg)<br>**#20** [👙👙👙👙](https://www.pixiv.net/artworks/120142155)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/01/10/24/14/120142155_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/30/00/03/23/120094701_p0_master1200.jpg)<br>**#21** [踊り子シオンさん](https://www.pixiv.net/artworks/120094701)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/30/00/03/23/120094701_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/30/18/28/48/120117771_p0_master1200.jpg)<br>**#22** [理系が温泉旅館で恋を確かめようとするとこうなる。](https://www.pixiv.net/artworks/120117771)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/30/18/28/48/120117771_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/01/00/01/19/120131711_p0_master1200.jpg)<br>**#23** [acid](https://www.pixiv.net/artworks/120131711)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/01/00/01/19/120131711_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/06/30/00/00/57/120094454_p0_master1200.jpg)<br>**#24** [Revolution](https://www.pixiv.net/artworks/120094454)<br>[Download](https://i.pixiv.re/img-original/img/2024/06/30/00/00/57/120094454_p0.jpg) |
@@ -61,7 +61,7 @@ Update: 2024-07-06 22:38:55 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-07-06 22:40:04 CST
+Update: 2024-07-07 10:26:23 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
