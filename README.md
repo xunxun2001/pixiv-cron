@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-08-23 22:39:50 CST
+Update: 2024-08-24 10:24:27 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -24,7 +24,7 @@ Update: 2024-08-23 22:39:50 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/18/47/57/121700810_p0_master1200.jpg)<br>**#31** [灰原「エッチ」コナン「しまった…」](https://www.pixiv.net/artworks/121700810)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/18/47/57/121700810_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/22/19/51/55/121732142_p0_master1200.jpg)<br>**#32** [オーバーフロー](https://www.pixiv.net/artworks/121732142)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/22/19/51/55/121732142_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/16/37/13/121697647_p0_master1200.jpg)<br>**#33** [「コンティニューするぜ！」](https://www.pixiv.net/artworks/121697647)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/16/37/13/121697647_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/00/24/13/121682547_p0_master1200.jpg)<br>**#34** [アンタそんなんばっか言って 友達いなくなっちゃってんじゃん](https://www.pixiv.net/artworks/121682547)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/00/24/13/121682547_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/22/01/30/01/121714669_p0_master1200.jpg)<br>**#35** [晴れ](https://www.pixiv.net/artworks/121714669)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/22/01/30/01/121714669_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/22/13/47/03/121724867_p0_master1200.jpg)<br>**#36** [ROF-MAO×トランプモチーフ](https://www.pixiv.net/artworks/121724867)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/22/13/47/03/121724867_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/20/36/49/121703912_p0_master1200.jpg)<br>**#37** [🌼cm🌼](https://www.pixiv.net/artworks/121703912)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/20/36/49/121703912_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/22/00/06/59/121712183_p0_master1200.jpg)<br>**#38** [虹夏ちゃん](https://www.pixiv.net/artworks/121712183)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/22/00/06/59/121712183_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/00/13/05/121682197_p0_master1200.jpg)<br>**#39** [xxeixix](https://www.pixiv.net/artworks/121682197)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/00/13/05/121682197_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/12/09/45/121693112_p0_master1200.jpg)<br>**#40** [Waiting For You 💚](https://www.pixiv.net/artworks/121693112)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/12/09/45/121693112_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/22/02/28/27/121715740_p0_master1200.jpg)<br>**#41** [ダウナーウィッチ](https://www.pixiv.net/artworks/121715740)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/22/02/28/27/121715740_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/22/00/11/20/121712360_p0_master1200.jpg)<br>**#42** [妖怪手帳 18](https://www.pixiv.net/artworks/121712360)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/22/00/11/20/121712360_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/12/09/45/121693112_p0_master1200.jpg)<br>**#40** [Waiting For You 💚](https://www.pixiv.net/artworks/121693112)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/12/09/45/121693112_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/24/02/18/14/121715740_p0_master1200.jpg)<br>**#41** [ダウナーウィッチ](https://www.pixiv.net/artworks/121715740)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/24/02/18/14/121715740_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/22/00/11/20/121712360_p0_master1200.jpg)<br>**#42** [妖怪手帳 18](https://www.pixiv.net/artworks/121712360)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/22/00/11/20/121712360_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/08/07/03/121689572_p0_master1200.jpg)<br>**#43** [no title](https://www.pixiv.net/artworks/121689572)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/08/07/03/121689572_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/20/05/57/121703028_p0_master1200.jpg)<br>**#44** [んなっ！](https://www.pixiv.net/artworks/121703028)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/20/05/57/121703028_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/00/57/04/121683496_p0_master1200.jpg)<br>**#45** [アネモネ](https://www.pixiv.net/artworks/121683496)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/00/57/04/121683496_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/00/02/43/121681744_p0_master1200.jpg)<br>**#46** [この姿勢なのか、先生？](https://www.pixiv.net/artworks/121681744)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/00/02/43/121681744_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/00/39/06/121683043_p0_master1200.jpg)<br>**#47** [今日はこれで満足してください](https://www.pixiv.net/artworks/121683043)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/00/39/06/121683043_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/22/00/00/41/121711768_p0_master1200.jpg)<br>**#48** [4日目 浴衣ことね](https://www.pixiv.net/artworks/121711768)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/22/00/00/41/121711768_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/20/08/26/121703087_p0_master1200.jpg)<br>**#49** [どっちかはダメ…♡](https://www.pixiv.net/artworks/121703087)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/20/08/26/121703087_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/21/18/46/11/121700764_p0_master1200.jpg)<br>**#50** [夏のレモン紅茶ちゃん🍋](https://www.pixiv.net/artworks/121700764)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/21/18/46/11/121700764_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2024-08-23 22:39:50 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-08-23 22:40:22 CST
+Update: 2024-08-24 10:24:53 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-08-23 22:40:22 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-08-23 22:41:15 CST
+Update: 2024-08-24 10:25:32 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
