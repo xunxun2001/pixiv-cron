@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-08-24 22:37:52 CST
+Update: 2024-08-25 10:30:36 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2024-08-24 22:37:52 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-08-24 22:38:39 CST
+Update: 2024-08-25 10:31:01 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-08-24 22:38:39 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-08-24 22:39:38 CST
+Update: 2024-08-25 10:31:43 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -79,7 +79,7 @@ Update: 2024-08-24 22:39:38 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/25/00/00/19/120854103_p0_master1200.jpg)<br>**#34** [水着エレン](https://www.pixiv.net/artworks/120854103)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/25/00/00/19/120854103_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/27/23/27/12/120940509_p0_master1200.jpg)<br>**#35** [丝塔莉](https://www.pixiv.net/artworks/120940509)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/27/23/27/12/120940509_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/27/23/00/56/120939663_p0_master1200.jpg)<br>**#36** [ウマ落書きまとめ19](https://www.pixiv.net/artworks/120939663)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/27/23/00/56/120939663_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/27/00/00/21/120910390_p0_master1200.jpg)<br>**#37** [あまいブルアカ　その２１](https://www.pixiv.net/artworks/120910390)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/27/00/00/21/120910390_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/27/19/48/15/120921558_p0_master1200.jpg)<br>**#38** [失敗作の使い魔【奴隷】](https://www.pixiv.net/artworks/120921558)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/27/19/48/15/120921558_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/29/20/59/32/120997299_p0_master1200.jpg)<br>**#39** [異種間創作まとめ①](https://www.pixiv.net/artworks/120997299)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/29/20/59/32/120997299_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/26/00/01/03/120882143_p0_master1200.jpg)<br>**#40** [ELL🦈](https://www.pixiv.net/artworks/120882143)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/26/00/01/03/120882143_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/25/00/00/34/120854170_p0_master1200.jpg)<br>**#41** [C&C全力のご奉仕](https://www.pixiv.net/artworks/120854170)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/25/00/00/34/120854170_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/27/00/00/30/120910420_p0_master1200.jpg)<br>**#42** [エレン・ジョー](https://www.pixiv.net/artworks/120910420)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/27/00/00/30/120910420_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/28/10/33/54/120952210_p0_master1200.jpg)<br>**#43** [無題](https://www.pixiv.net/artworks/120952210)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/28/10/33/54/120952210_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/27/00/00/35/120910432_p0_master1200.jpg)<br>**#44** [ユウキ（オリジナル衣装）　タペストリー予約受付中！](https://www.pixiv.net/artworks/120910432)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/27/00/00/35/120910432_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/26/19/05/18/120901198_p0_master1200.jpg)<br>**#45** [ニヤニヤ教授](https://www.pixiv.net/artworks/120901198)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/26/19/05/18/120901198_p0.png) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/28/10/33/54/120952210_p0_master1200.jpg)<br>**#43** [無題](https://www.pixiv.net/artworks/120952210)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/28/10/33/54/120952210_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/27/00/00/35/120910432_p0_master1200.jpg)<br>**#44** [ユウキ（オリジナル衣装）](https://www.pixiv.net/artworks/120910432)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/27/00/00/35/120910432_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/26/19/05/18/120901198_p0_master1200.jpg)<br>**#45** [ニヤニヤ教授](https://www.pixiv.net/artworks/120901198)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/26/19/05/18/120901198_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/27/00/00/07/120910318_p0_master1200.jpg)<br>**#46** [エレンジョー](https://www.pixiv.net/artworks/120910318)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/27/00/00/07/120910318_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/29/22/29/47/121000353_p0_master1200.jpg)<br>**#47** [教授ちゃん](https://www.pixiv.net/artworks/121000353)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/29/22/29/47/121000353_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/27/19/33/49/120932926_p0_master1200.jpg)<br>**#48** [ニィロウちゃんの新衣装が花の精みたいでめちゃくちゃ可愛い！](https://www.pixiv.net/artworks/120932926)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/27/19/33/49/120932926_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/26/01/16/53/120884484_p0_master1200.jpg)<br>**#49** [「赤ちゃんみたい…」](https://www.pixiv.net/artworks/120884484)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/26/01/16/53/120884484_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/07/29/12/43/16/120987231_p0_master1200.jpg)<br>**#50** [大朱鸢效应犯了](https://www.pixiv.net/artworks/120987231)<br>[Download](https://i.pixiv.re/img-original/img/2024/07/29/12/43/16/120987231_p0.jpg) |
 |      |
