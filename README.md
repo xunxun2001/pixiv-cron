@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-08-27 22:40:18 CST
+Update: 2024-08-28 10:29:10 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -17,7 +17,7 @@ Update: 2024-08-27 22:40:18 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/00/00/28/121801968_p0_master1200.jpg)<br>**#10** [母娘](https://www.pixiv.net/artworks/121801968)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/00/00/28/121801968_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/01/38/44/121805177_p0_master1200.jpg)<br>**#11** [Peyriat](https://www.pixiv.net/artworks/121805177)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/01/38/44/121805177_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/00/16/20/121802859_p0_master1200.jpg)<br>**#12** [生意気クソガキJC](https://www.pixiv.net/artworks/121802859)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/00/16/20/121802859_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/00/06/59/121836803_p0_master1200.jpg)<br>**#13** [ちょん＊台湾個展](https://www.pixiv.net/artworks/121836803)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/00/06/59/121836803_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/00/00/30/121836302_p0_master1200.jpg)<br>**#14** [.](https://www.pixiv.net/artworks/121836302)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/00/00/30/121836302_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/18/58/55/121824928_p0_master1200.jpg)<br>**#15** [ミク](https://www.pixiv.net/artworks/121824928)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/18/58/55/121824928_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/22/02/58/121861381_p0_master1200.jpg)<br>**#16** [百合手ックス](https://www.pixiv.net/artworks/121861381)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/22/02/58/121861381_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/21/07/46/121829378_p0_master1200.jpg)<br>**#17** [人間ドックの結果を見ながら年齢を詐称してるVtuber](https://www.pixiv.net/artworks/121829378)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/21/07/46/121829378_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/18/50/57/121824693_p0_master1200.jpg)<br>**#18** [日記](https://www.pixiv.net/artworks/121824693)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/18/50/57/121824693_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/00/08/40/121802577_p0_master1200.jpg)<br>**#19** [フォフォ吸い](https://www.pixiv.net/artworks/121802577)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/00/08/40/121802577_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/22/28/22/121832660_p0_master1200.jpg)<br>**#20** [ジャニトレ♀④漫画](https://www.pixiv.net/artworks/121832660)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/22/28/22/121832660_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/12/33/38/121848306_p0_master1200.jpg)<br>**#21** [まだまだ夏](https://www.pixiv.net/artworks/121848306)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/12/33/38/121848306_p0.png) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/00/08/40/121802577_p0_master1200.jpg)<br>**#19** [フォフォ吸い](https://www.pixiv.net/artworks/121802577)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/00/08/40/121802577_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/22/28/22/121832660_p0_master1200.jpg)<br>**#20** [ジャニトレ♀④](https://www.pixiv.net/artworks/121832660)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/22/28/22/121832660_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/12/33/38/121848306_p0_master1200.jpg)<br>**#21** [まだまだ夏](https://www.pixiv.net/artworks/121848306)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/12/33/38/121848306_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/14/14/19/121817619_p0_master1200.jpg)<br>**#22** [言葉遊びオーク。](https://www.pixiv.net/artworks/121817619)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/14/14/19/121817619_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/22/25/31/121862084_p0_master1200.jpg)<br>**#23** [七海千秋](https://www.pixiv.net/artworks/121862084)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/22/25/31/121862084_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/01/54/45/121839826_p0_master1200.jpg)<br>**#24** [マトイマル](https://www.pixiv.net/artworks/121839826)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/01/54/45/121839826_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/21/02/56/121859317_p0_master1200.jpg)<br>**#25** [お殿様と年齢を詐称してるVtuber](https://www.pixiv.net/artworks/121859317)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/21/02/56/121859317_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/00/01/01/121801927_p0_master1200.jpg)<br>**#26** [7日目 浴衣手毬](https://www.pixiv.net/artworks/121801927)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/00/01/01/121801927_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/18/05/07/121854322_p0_master1200.jpg)<br>**#27** [SCP-2295「パッチワークのハートがあるクマ」](https://www.pixiv.net/artworks/121854322)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/18/05/07/121854322_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/06/17/16/121809016_p0_master1200.jpg)<br>**#28** [葉草・白葉ブラシ03](https://www.pixiv.net/artworks/121809016)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/06/17/16/121809016_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/25/00/05/04/121802401_p0_master1200.jpg)<br>**#29** [博麗霊夢さん](https://www.pixiv.net/artworks/121802401)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/25/00/05/04/121802401_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/08/26/19/00/29/121855665_p0_master1200.jpg)<br>**#30** [【書籍化】あきらかに年齢を詐称している女子高生VTuber](https://www.pixiv.net/artworks/121855665)<br>[Download](https://i.pixiv.re/img-original/img/2024/08/26/19/00/29/121855665_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2024-08-27 22:40:18 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-08-27 22:41:42 CST
+Update: 2024-08-28 10:30:24 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-08-27 22:41:42 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-08-27 22:42:29 CST
+Update: 2024-08-28 10:31:30 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
