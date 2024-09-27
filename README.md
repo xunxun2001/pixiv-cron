@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-09-27 17:39:36 CST
+Update: 2024-09-27 22:41:22 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -23,7 +23,7 @@ Update: 2024-09-27 17:39:36 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/10/27/30/122780464_p0_master1200.jpg)<br>**#28** [【通販予約開始】新刊DL販売、通販予約について](https://www.pixiv.net/artworks/122780464)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/10/27/30/122780464_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/25/01/25/40/122747091_p0_master1200.jpg)<br>**#29** [SUMMER！](https://www.pixiv.net/artworks/122747091)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/25/01/25/40/122747091_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/21/31/28/122793296_p0_master1200.jpg)<br>**#30** [秋のカカちよ](https://www.pixiv.net/artworks/122793296)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/21/31/28/122793296_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/00/20/122771080_p0_master1200.jpg)<br>**#31** [キサキ](https://www.pixiv.net/artworks/122771080)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/00/20/122771080_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/25/12/05/34/122755189_p0_master1200.jpg)<br>**#32** [彦雲まとめ](https://www.pixiv.net/artworks/122755189)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/25/12/05/34/122755189_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/00/59/122771232_p0_master1200.jpg)<br>**#33** [パイスラ](https://www.pixiv.net/artworks/122771232)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/00/59/122771232_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/25/20/48/58/122764767_p0_master1200.jpg)<br>**#34** [cm](https://www.pixiv.net/artworks/122764767)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/25/20/48/58/122764767_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/11/47/122771785_p0_master1200.jpg)<br>**#35** [古畑任三郎](https://www.pixiv.net/artworks/122771785)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/11/47/122771785_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/25/18/43/54/122761518_p0_master1200.jpg)<br>**#36** [【FGO】星の海](https://www.pixiv.net/artworks/122761518)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/25/18/43/54/122761518_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/00/23/122771097_p0_master1200.jpg)<br>**#37** [先生~準備OKですよ](https://www.pixiv.net/artworks/122771097)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/00/23/122771097_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/25/09/122772227_p0_master1200.jpg)<br>**#38** [単行本『幼馴染BIGLOVE』本日発売です！](https://www.pixiv.net/artworks/122772227)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/25/09/122772227_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/13/05/122771834_p0_master1200.jpg)<br>**#39** [Skeb💙](https://www.pixiv.net/artworks/122771834)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/13/05/122771834_p0.png) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/00/23/122771097_p0_master1200.jpg)<br>**#37** [先生~準備OKですよ](https://www.pixiv.net/artworks/122771097)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/00/23/122771097_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/27/21/20/19/122772227_p0_master1200.jpg)<br>**#38** [単行本『幼馴染BIGLOVE』本日発売です！](https://www.pixiv.net/artworks/122772227)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/27/21/20/19/122772227_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/13/05/122771834_p0_master1200.jpg)<br>**#39** [Skeb💙](https://www.pixiv.net/artworks/122771834)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/13/05/122771834_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/00/11/122771031_p0_master1200.jpg)<br>**#40** [ゲーマー銀狼](https://www.pixiv.net/artworks/122771031)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/00/11/122771031_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/25/13/42/10/122756451_p0_master1200.jpg)<br>**#41** [♡♡♡](https://www.pixiv.net/artworks/122756451)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/25/13/42/10/122756451_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/00/19/49/122772057_p0_master1200.jpg)<br>**#42** [ミクさんとリンさん](https://www.pixiv.net/artworks/122772057)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/00/19/49/122772057_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/25/17/01/22/122759313_p0_master1200.jpg)<br>**#43** [色々と見誤っているマシュマロ系女子高生【4】](https://www.pixiv.net/artworks/122759313)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/25/17/01/22/122759313_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/25/00/00/32/122744514_p0_master1200.jpg)<br>**#44** [教授ちゃん](https://www.pixiv.net/artworks/122744514)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/25/00/00/32/122744514_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/26/19/34/23/122789875_p0_master1200.jpg)<br>**#45** [【小春と湊】熱量](https://www.pixiv.net/artworks/122789875)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/26/19/34/23/122789875_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/27/11/06/17/122786508_p0_master1200.jpg)<br>**#46** [これからだんだん幸せになっていく怖い女上司114](https://www.pixiv.net/artworks/122786508)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/27/11/06/17/122786508_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/25/18/52/30/122761695_p0_master1200.jpg)<br>**#47** [体育祭ガール](https://www.pixiv.net/artworks/122761695)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/25/18/52/30/122761695_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/09/25/00/22/02/122745399_p0_master1200.jpg)<br>**#48** [やってくれましたわね...](https://www.pixiv.net/artworks/122745399)<br>[Download](https://i.pixiv.re/img-original/img/2024/09/25/00/22/02/122745399_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2024-09-27 17:39:36 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-09-27 17:40:14 CST
+Update: 2024-09-27 22:42:03 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-09-27 17:40:14 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-09-27 17:40:54 CST
+Update: 2024-09-27 22:42:43 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
