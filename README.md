@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-10-15 22:41:38 CST
+Update: 2024-10-16 10:41:27 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -24,7 +24,7 @@ Update: 2024-10-15 22:41:38 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/14/22/18/54/123336450_p0_master1200.jpg)<br>**#31** [暁山中心まとめ](https://www.pixiv.net/artworks/123336450)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/14/22/18/54/123336450_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/13/02/07/123287513_p0_master1200.jpg)<br>**#32** [無題](https://www.pixiv.net/artworks/123287513)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/13/02/07/123287513_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/00/06/14/123273653_p0_master1200.jpg)<br>**#33** [HBD Furina💙](https://www.pixiv.net/artworks/123273653)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/00/06/14/123273653_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/16/01/27/123291496_p0_master1200.jpg)<br>**#34** [化けの花](https://www.pixiv.net/artworks/123291496)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/16/01/27/123291496_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/14/16/24/46/123325147_p0_master1200.jpg)<br>**#35** [朝あるある](https://www.pixiv.net/artworks/123325147)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/14/16/24/46/123325147_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/16/54/05/123292728_p0_master1200.jpg)<br>**#36** [秋の風物詩。](https://www.pixiv.net/artworks/123292728)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/16/54/05/123292728_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/14/11/14/00/123318577_p0_master1200.jpg)<br>**#37** [ニンゲンの飼い方『モヂミ』](https://www.pixiv.net/artworks/123318577)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/14/11/14/00/123318577_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/16/45/47/123292521_p0_master1200.jpg)<br>**#38** [暁山瑞希](https://www.pixiv.net/artworks/123292521)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/16/45/47/123292521_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/09/10/55/123282803_p0_master1200.jpg)<br>**#39** [no title](https://www.pixiv.net/artworks/123282803)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/09/10/55/123282803_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/01/00/02/123275487_p0_master1200.jpg)<br>**#40** [フリーナ生誕祭2024](https://www.pixiv.net/artworks/123275487)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/01/00/02/123275487_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/18/10/50/123294820_p0_master1200.jpg)<br>**#41** [デンセツさんの引率【書き下ろし分】](https://www.pixiv.net/artworks/123294820)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/18/10/50/123294820_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/18/39/55/123295620_p0_master1200.jpg)<br>**#42** [Trimming/トリミング](https://www.pixiv.net/artworks/123295620)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/18/39/55/123295620_p0.png) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/01/00/02/123275487_p0_master1200.jpg)<br>**#40** [フリーナ生誕祭2024](https://www.pixiv.net/artworks/123275487)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/01/00/02/123275487_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/18/10/50/123294820_p0_master1200.jpg)<br>**#41** [デンセツさんの引率【書き下ろし分】](https://www.pixiv.net/artworks/123294820)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/18/10/50/123294820_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/16/09/20/54/123295620_p0_master1200.jpg)<br>**#42** [Trimming/トリミング](https://www.pixiv.net/artworks/123295620)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/16/09/20/54/123295620_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/00/00/03/123273001_p0_master1200.jpg)<br>**#43** [HAPPY BIRTHDAY](https://www.pixiv.net/artworks/123273001)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/00/00/03/123273001_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/00/00/37/123273173_p0_master1200.jpg)<br>**#44** [misa](https://www.pixiv.net/artworks/123273173)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/00/00/37/123273173_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/00/02/26/123273406_p0_master1200.jpg)<br>**#45** [奥さん、キレた!!【カラー版】](https://www.pixiv.net/artworks/123273406)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/00/02/26/123273406_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/00/01/05/123273252_p0_master1200.jpg)<br>**#46** [第十一回秋季例大祭のお品書き🌷](https://www.pixiv.net/artworks/123273252)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/00/01/05/123273252_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/00/05/40/123273627_p0_master1200.jpg)<br>**#47** [あの日差しは遠くへ](https://www.pixiv.net/artworks/123273627)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/00/05/40/123273627_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/22/15/15/123302999_p0_master1200.jpg)<br>**#48** [ワンピまとめ](https://www.pixiv.net/artworks/123302999)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/13/22/15/15/123302999_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/13/21/48/49/123301922_master1200.jpg)<br>**#49** [いい人生を🎂](https://www.pixiv.net/artworks/123301922)<br>[Download](https://www.pixiv.net/artworks/123301922) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/14/00/42/49/123308761_p0_master1200.jpg)<br>**#50** [♡](https://www.pixiv.net/artworks/123308761)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/14/00/42/49/123308761_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2024-10-15 22:41:38 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-10-15 22:42:15 CST
+Update: 2024-10-16 10:41:53 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-10-15 22:42:15 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-10-15 22:42:47 CST
+Update: 2024-10-16 10:42:17 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
