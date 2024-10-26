@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-10-26 17:37:28 CST
+Update: 2024-10-26 22:39:01 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2024-10-26 17:37:28 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-10-26 17:37:59 CST
+Update: 2024-10-26 22:40:10 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -46,7 +46,7 @@ Update: 2024-10-26 17:37:59 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/19/11/00/57/123469771_p0_master1200.jpg)<br>**#16** [仁義なき生徒会【14】](https://www.pixiv.net/artworks/123469771)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/19/11/00/57/123469771_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/20/32/40/123519253_p0_master1200.jpg)<br>**#17** [奏とニゴカイ(とまふゆ)](https://www.pixiv.net/artworks/123519253)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/20/32/40/123519253_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/19/21/30/04/123486169_p0_master1200.jpg)<br>**#18** [化けの花](https://www.pixiv.net/artworks/123486169)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/19/21/30/04/123486169_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/21/22/01/10/123510075_p0_master1200.jpg)<br>**#19** [蛍ちゃん](https://www.pixiv.net/artworks/123510075)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/21/22/01/10/123510075_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/15/57/55/123510753_p0_master1200.jpg)<br>**#20** [イラストもろもろ](https://www.pixiv.net/artworks/123510753)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/15/57/55/123510753_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/00/01/01/123491961_p0_master1200.jpg)<br>**#21** [長離](https://www.pixiv.net/artworks/123491961)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/00/01/01/123491961_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/10/58/34/123503888_p0_master1200.jpg)<br>**#22** [夕呱2](https://www.pixiv.net/artworks/123503888)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/10/58/34/123503888_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/00/23/24/123493136_p0_master1200.jpg)<br>**#23** [무제](https://www.pixiv.net/artworks/123493136)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/00/23/24/123493136_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/12/01/43/123505398_p0_master1200.jpg)<br>**#24** [初音ミク、身長２m](https://www.pixiv.net/artworks/123505398)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/12/01/43/123505398_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/00/04/25/123492294_p0_master1200.jpg)<br>**#25** [2人だけの終末旅行](https://www.pixiv.net/artworks/123492294)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/00/04/25/123492294_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/19/18/10/17/123479587_p0_master1200.jpg)<br>**#26** [ネイルに釘付けJK蛍💅](https://www.pixiv.net/artworks/123479587)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/19/18/10/17/123479587_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/11/58/47/123505198_p0_master1200.jpg)<br>**#27** [オーバーロードLOG](https://www.pixiv.net/artworks/123505198)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/11/58/47/123505198_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/00/04/25/123492294_p0_master1200.jpg)<br>**#25** [2人だけの終末旅行](https://www.pixiv.net/artworks/123492294)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/00/04/25/123492294_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/19/18/10/17/123479587_p0_master1200.jpg)<br>**#26** [ネイルに釘付けJK蛍💅](https://www.pixiv.net/artworks/123479587)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/19/18/10/17/123479587_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/11/58/47/123505198_p0_master1200.jpg)<br>**#27** [【オバロ】至高の四十一人LOG](https://www.pixiv.net/artworks/123505198)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/11/58/47/123505198_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/00/01/43/123492052_p0_master1200.jpg)<br>**#28** [skeb](https://www.pixiv.net/artworks/123492052)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/00/01/43/123492052_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/19/00/03/35/123458571_p0_master1200.jpg)<br>**#29** [バ美肉おじいちゃんとやべーやつ](https://www.pixiv.net/artworks/123458571)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/19/00/03/35/123458571_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/19/17/55/41/123479007_p0_master1200.jpg)<br>**#30** [荊棘の道は何処へ](https://www.pixiv.net/artworks/123479007)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/19/17/55/41/123479007_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/14/47/02/123509078_p0_master1200.jpg)<br>**#31** [ゼイアオまとめ４](https://www.pixiv.net/artworks/123509078)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/14/47/02/123509078_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/19/06/00/08/123465297_p0_master1200.jpg)<br>**#32** [個人メモ：指関節部の体表具合の描き分け](https://www.pixiv.net/artworks/123465297)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/19/06/00/08/123465297_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/00/00/07/123491751_p0_master1200.jpg)<br>**#33** [ルーシー](https://www.pixiv.net/artworks/123491751)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/00/00/07/123491751_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/00/00/55/123491938_p0_master1200.jpg)<br>**#34** [アコ(長い髪)](https://www.pixiv.net/artworks/123491938)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/00/00/55/123491938_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/06/00/13/123499273_p0_master1200.jpg)<br>**#35** [手描き風斜線ブラシ2種セット](https://www.pixiv.net/artworks/123499273)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/06/00/13/123499273_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/10/20/22/32/50/123524155_p0_master1200.jpg)<br>**#36** [忘れられない](https://www.pixiv.net/artworks/123524155)<br>[Download](https://i.pixiv.re/img-original/img/2024/10/20/22/32/50/123524155_p0.jpg) |
@@ -61,7 +61,7 @@ Update: 2024-10-26 17:37:59 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-10-26 17:38:26 CST
+Update: 2024-10-26 22:41:16 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
