@@ -7,13 +7,13 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-12-03 22:43:10 CST
+Update: 2024-12-04 10:51:47 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/00/09/53/124783411_p0_master1200.jpg)<br>**#1** [お父様](https://www.pixiv.net/artworks/124783411)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/00/09/53/124783411_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/02/00/00/55/124818547_p0_master1200.jpg)<br>**#2** [DAISY DUCK](https://www.pixiv.net/artworks/124818547)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/02/00/00/55/124818547_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/19/44/01/124808471_p0_master1200.jpg)<br>**#3** [デコレート](https://www.pixiv.net/artworks/124808471)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/19/44/01/124808471_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/00/05/45/124783166_p0_master1200.jpg)<br>**#4** [【創作】氷属性男子とクールな同僚女子54](https://www.pixiv.net/artworks/124783166)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/00/05/45/124783166_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/14/12/26/124799347_p0_master1200.jpg)<br>**#5** [Carmine🌹](https://www.pixiv.net/artworks/124799347)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/14/12/26/124799347_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/00/04/18/124783056_p0_master1200.jpg)<br>**#6** [🩵志乃と恋重版御礼🩷](https://www.pixiv.net/artworks/124783056)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/00/04/18/124783056_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/02/00/00/11/124818347_p0_master1200.jpg)<br>**#7** [バ美肉おじいちゃんの沼](https://www.pixiv.net/artworks/124818347)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/02/00/00/11/124818347_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/10/15/47/124794142_p0_master1200.jpg)<br>**#8** [桜田ハネ](https://www.pixiv.net/artworks/124794142)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/10/15/47/124794142_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/02/08/53/30/124827159_p0_master1200.jpg)<br>**#9** [二刀流好き女神さま。](https://www.pixiv.net/artworks/124827159)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/02/08/53/30/124827159_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/02/00/00/11/124818347_p0_master1200.jpg)<br>**#7** [バ美肉おじいちゃんの沼](https://www.pixiv.net/artworks/124818347)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/02/00/00/11/124818347_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/10/15/47/124794142_p0_master1200.jpg)<br>**#8** [桜田ハネ](https://www.pixiv.net/artworks/124794142)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/10/15/47/124794142_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/04/04/19/08/124827159_p0_master1200.jpg)<br>**#9** [二刀流好き女神さま。](https://www.pixiv.net/artworks/124827159)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/04/04/19/08/124827159_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/00/08/27/124783343_p0_master1200.jpg)<br>**#10** [彼女のお誕生日と砕けたスナック菓子の味](https://www.pixiv.net/artworks/124783343)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/00/08/27/124783343_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/01/28/15/124786079_p0_master1200.jpg)<br>**#11** [- NIKI -](https://www.pixiv.net/artworks/124786079)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/01/28/15/124786079_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/04/30/02/124789172_p0_master1200.jpg)<br>**#12** [れ](https://www.pixiv.net/artworks/124789172)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/04/30/02/124789172_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/22/59/27/124815948_p0_master1200.jpg)<br>**#13** [良くないと思う年齢を詐称してるVtuber](https://www.pixiv.net/artworks/124815948)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/22/59/27/124815948_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/02/13/07/124785881_p0_master1200.jpg)<br>**#14** [Blooming](https://www.pixiv.net/artworks/124785881)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/02/13/07/124785881_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/02/20/19/56/124839573_p0_master1200.jpg)<br>**#15** [無題](https://www.pixiv.net/artworks/124839573)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/02/20/19/56/124839573_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/02/22/50/53/124844633_p0_master1200.jpg)<br>**#16** [肉まん](https://www.pixiv.net/artworks/124844633)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/02/22/50/53/124844633_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/01/18/04/06/124805348_p0_master1200.jpg)<br>**#17** [阮梅x大黑塔](https://www.pixiv.net/artworks/124805348)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/01/18/04/06/124805348_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/02/21/15/15/124841391_p0_master1200.jpg)<br>**#18** [運動強度と年齢を詐称してるVtuber](https://www.pixiv.net/artworks/124841391)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/02/21/15/15/124841391_p0.png) |
@@ -34,7 +34,7 @@ Update: 2024-12-03 22:43:10 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-12-03 22:44:37 CST
+Update: 2024-12-04 10:53:15 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-12-03 22:44:37 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-12-03 22:45:52 CST
+Update: 2024-12-04 10:54:30 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
