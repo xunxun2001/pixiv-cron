@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-12-05 22:43:40 CST
+Update: 2024-12-06 10:51:05 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,13 +34,13 @@ Update: 2024-12-05 22:43:40 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-12-05 22:44:02 CST
+Update: 2024-12-06 10:52:06 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/00/00/17/124719109_p0_master1200.jpg)<br>**#1** [みんなのりりむちゃん](https://www.pixiv.net/artworks/124719109)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/00/00/17/124719109_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/00/00/27/124719171_p0_master1200.jpg)<br>**#2** [【創作】合コンに行ったら女がいなかった話５８](https://www.pixiv.net/artworks/124719171)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/00/00/27/124719171_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/30/00/00/20/124748280_p0_master1200.jpg)<br>**#3** [葉加瀬さん3D新衣装](https://www.pixiv.net/artworks/124748280)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/30/00/00/20/124748280_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/28/00/00/48/124691127_p0_master1200.jpg)<br>**#4** [MINNIE MOUSE](https://www.pixiv.net/artworks/124691127)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/28/00/00/48/124691127_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/00/05/09/124719551_p0_master1200.jpg)<br>**#5** [寒くなってきたね…](https://www.pixiv.net/artworks/124719551)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/00/05/09/124719551_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/07/30/01/124726532_p0_master1200.jpg)<br>**#6** [読書の時間](https://www.pixiv.net/artworks/124726532)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/07/30/01/124726532_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/30/00/00/47/124748386_p0_master1200.jpg)<br>**#7** [DONALD DUCK](https://www.pixiv.net/artworks/124748386)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/30/00/00/47/124748386_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/12/00/12/124729977_p0_master1200.jpg)<br>**#8** [【会社と私生活】丸くなった？](https://www.pixiv.net/artworks/124729977)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/12/00/12/124729977_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/09/38/33/124726178_p0_master1200.jpg)<br>**#9** [勇者パーティが次回作でモブ化したりNPCキャラになってるの好き。](https://www.pixiv.net/artworks/124726178)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/09/38/33/124726178_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/30/00/00/47/124748386_p0_master1200.jpg)<br>**#7** [DONALD DUCK](https://www.pixiv.net/artworks/124748386)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/30/00/00/47/124748386_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/06/05/16/41/124729977_p0_master1200.jpg)<br>**#8** [【会社と私生活】丸くなった？](https://www.pixiv.net/artworks/124729977)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/06/05/16/41/124729977_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/09/38/33/124726178_p0_master1200.jpg)<br>**#9** [勇者パーティが次回作でモブ化したりNPCキャラになってるの好き。](https://www.pixiv.net/artworks/124726178)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/09/38/33/124726178_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/12/43/21/124730680_p0_master1200.jpg)<br>**#10** [昔と今](https://www.pixiv.net/artworks/124730680)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/12/43/21/124730680_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/00/00/01/124719003_p0_master1200.jpg)<br>**#11** [Summer vibes](https://www.pixiv.net/artworks/124719003)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/00/00/01/124719003_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/00/15/15/124719914_p0_master1200.jpg)<br>**#12** [イチョウ](https://www.pixiv.net/artworks/124719914)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/00/15/15/124719914_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/00/00/24/124719150_p0_master1200.jpg)<br>**#13** [ブラン](https://www.pixiv.net/artworks/124719150)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/00/00/24/124719150_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/00/00/29/124719182_p0_master1200.jpg)<br>**#14** [シャドウアーマー（メダロット）](https://www.pixiv.net/artworks/124719182)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/00/00/29/124719182_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/28/02/48/14/124695394_p0_master1200.jpg)<br>**#15** [ミステリーハウス・クラフターズ](https://www.pixiv.net/artworks/124695394)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/28/02/48/14/124695394_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/15/58/39/124733642_p0_master1200.jpg)<br>**#16** [ついログ67【ぐだエレ】](https://www.pixiv.net/artworks/124733642)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/15/58/39/124733642_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/29/08/46/06/124727459_p0_master1200.jpg)<br>**#17** [ちょっと違う](https://www.pixiv.net/artworks/124727459)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/29/08/46/06/124727459_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/11/28/21/40/18/124714244_p0_master1200.jpg)<br>**#18** [魔法少女課](https://www.pixiv.net/artworks/124714244)<br>[Download](https://i.pixiv.re/img-original/img/2024/11/28/21/40/18/124714244_p0.jpg) |
@@ -61,7 +61,7 @@ Update: 2024-12-05 22:44:02 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-12-05 22:44:43 CST
+Update: 2024-12-06 10:53:25 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
