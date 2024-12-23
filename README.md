@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2024-12-22 22:38:50 CST
+Update: 2024-12-23 10:40:59 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -27,14 +27,14 @@ Update: 2024-12-22 22:38:50 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/21/00/03/25/125368475_p0_master1200.jpg)<br>**#40** [妖怪手帳 30](https://www.pixiv.net/artworks/125368475)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/21/00/03/25/125368475_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/20/00/30/01/125341022_p0_master1200.jpg)<br>**#41** [2024年クリスマス](https://www.pixiv.net/artworks/125341022)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/20/00/30/01/125341022_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/20/17/55/40/125356544_p0_master1200.jpg)<br>**#42** [ヴィクトリア家政一同、ご指名をお待ちしております。](https://www.pixiv.net/artworks/125356544)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/20/17/55/40/125356544_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/20/01/47/31/125342886_p0_master1200.jpg)<br>**#43** [霊砂🎨_差分](https://www.pixiv.net/artworks/125342886)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/20/01/47/31/125342886_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/21/21/19/24/125394265_p0_master1200.jpg)<br>**#44** [案件で年齢を詐称してるVtuber](https://www.pixiv.net/artworks/125394265)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/21/21/19/24/125394265_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/21/01/19/03/125370902_p0_master1200.jpg)<br>**#45** [紅美鈴](https://www.pixiv.net/artworks/125370902)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/21/01/19/03/125370902_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/20/21/29/42/125362941_p0_master1200.jpg)<br>**#46** [♧cm♧](https://www.pixiv.net/artworks/125362941)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/20/21/29/42/125362941_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/20/00/00/08/125339602_p0_master1200.jpg)<br>**#47** [サンタサクラコ](https://www.pixiv.net/artworks/125339602)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/20/00/00/08/125339602_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/21/02/43/29/125372538_p0_master1200.jpg)<br>**#48** [Love×Holic](https://www.pixiv.net/artworks/125372538)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/21/02/43/29/125372538_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/20/20/16/50/125360713_p0_master1200.jpg)<br>**#49** [期間限定再録「空の世界で希う」](https://www.pixiv.net/artworks/125360713)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/20/20/16/50/125360713_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/20/00/00/57/125339792_p0_master1200.jpg)<br>**#50** [🦎ユパンキの廻焔 -キィニチ見聞任務より-](https://www.pixiv.net/artworks/125339792)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/20/00/00/57/125339792_p0.jpg) |
-|      |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2024/12/20/20/16/50/125360713_p0_master1200.jpg)<br>**#49** [期間限定再録「空の世界で希う」](https://www.pixiv.net/artworks/125360713)<br>[Download](https://i.pixiv.re/img-original/img/2024/12/20/20/16/50/125360713_p0.jpg) |
+|      |      |
 
 
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2024-12-22 22:40:45 CST
+Update: 2024-12-23 10:42:58 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2024-12-22 22:40:45 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2024-12-22 22:42:26 CST
+Update: 2024-12-23 10:44:59 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
