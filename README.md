@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-01-05 22:39:23 CST
+Update: 2025-01-06 10:42:11 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -26,7 +26,7 @@ Update: 2025-01-05 22:39:23 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/20/51/37/125865331_p0_master1200.jpg)<br>**#37** [🪓cm🪓](https://www.pixiv.net/artworks/125865331)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/20/51/37/125865331_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/04/08/00/07/125881308_p0_master1200.jpg)<br>**#38** [ノア　「・・・・先生にだけ見せちゃいます」](https://www.pixiv.net/artworks/125881308)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/04/08/00/07/125881308_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/04/00/00/10/125872436_p0_master1200.jpg)<br>**#39** [キャンバスサイズ](https://www.pixiv.net/artworks/125872436)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/04/00/00/10/125872436_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/00/00/09/125838104_p0_master1200.jpg)<br>**#40** [星見雅](https://www.pixiv.net/artworks/125838104)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/00/00/09/125838104_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/20/36/28/125864869_p0_master1200.jpg)<br>**#41** [末広がりを願う](https://www.pixiv.net/artworks/125864869)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/20/36/28/125864869_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/00/00/22/125838173_p0_master1200.jpg)<br>**#42** [無題](https://www.pixiv.net/artworks/125838173)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/00/00/22/125838173_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/04/12/00/16/125885578_p0_master1200.jpg)<br>**#43** [カコやく単行本2巻＆サイン会お知らせ](https://www.pixiv.net/artworks/125885578)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/04/12/00/16/125885578_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/06/48/02/125845931_p0_master1200.jpg)<br>**#44** [Dream of Mirror Sea](https://www.pixiv.net/artworks/125845931)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/06/48/02/125845931_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/04/15/32/58/125890332_p0_master1200.jpg)<br>**#45** [💙💚🩵🍬CANDY FOREST🍭💚🩵💙](https://www.pixiv.net/artworks/125890332)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/04/15/32/58/125890332_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/04/00/00/24/125872513_p0_master1200.jpg)<br>**#46** [謹賀新年](https://www.pixiv.net/artworks/125872513)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/04/00/00/24/125872513_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/23/11/26/125870556_p0_master1200.jpg)<br>**#47** [辛辣](https://www.pixiv.net/artworks/125870556)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/23/11/26/125870556_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/00/36/26/125839843_p0_master1200.jpg)<br>**#48** [カエルと諏訪子](https://www.pixiv.net/artworks/125839843)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/00/36/26/125839843_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/04/00/00/24/125872513_p0_master1200.jpg)<br>**#46** [謹賀新年🌕](https://www.pixiv.net/artworks/125872513)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/04/00/00/24/125872513_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/23/11/26/125870556_p0_master1200.jpg)<br>**#47** [辛辣](https://www.pixiv.net/artworks/125870556)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/23/11/26/125870556_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/00/36/26/125839843_p0_master1200.jpg)<br>**#48** [カエルと諏訪子](https://www.pixiv.net/artworks/125839843)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/00/36/26/125839843_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/00/29/57/125839584_p0_master1200.jpg)<br>**#49** [Fauna](https://www.pixiv.net/artworks/125839584)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/00/29/57/125839584_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/03/17/04/14/125858347_p0_master1200.jpg)<br>**#50** [[FANBOX] らくがきまとめ](https://www.pixiv.net/artworks/125858347)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/03/17/04/14/125858347_p0.png) |
 |      |
 
@@ -34,7 +34,7 @@ Update: 2025-01-05 22:39:23 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-01-05 22:41:56 CST
+Update: 2025-01-06 10:42:56 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-01-05 22:41:56 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-01-05 22:44:38 CST
+Update: 2025-01-06 10:43:39 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
