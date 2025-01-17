@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-01-16 22:40:45 CST
+Update: 2025-01-17 10:32:52 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2025-01-16 22:40:45 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-01-16 22:42:25 CST
+Update: 2025-01-17 10:33:49 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-01-16 22:42:25 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-01-16 22:44:00 CST
+Update: 2025-01-17 10:34:38 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
