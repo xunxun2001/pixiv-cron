@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-01-28 17:39:42 CST
+Update: 2025-01-28 22:40:40 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2025-01-28 17:39:42 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-01-28 17:41:18 CST
+Update: 2025-01-28 22:41:24 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -49,7 +49,7 @@ Update: 2025-01-28 17:41:18 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/17/50/27/126463211_p0_master1200.jpg)<br>**#25** [椿飴🍭](https://www.pixiv.net/artworks/126463211)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/17/50/27/126463211_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/21/00/10/126468964_p0_master1200.jpg)<br>**#26** [闇バイト](https://www.pixiv.net/artworks/126468964)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/21/00/10/126468964_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/01/11/31/126448171_p0_master1200.jpg)<br>**#27** [健全催眠術トレーニングおじさん](https://www.pixiv.net/artworks/126448171)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/01/11/31/126448171_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/21/00/04/46/126415493_p0_master1200.jpg)<br>**#28** [サプライズな奥さん](https://www.pixiv.net/artworks/126415493)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/21/00/04/46/126415493_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/21/00/00/30/126415568_p0_master1200.jpg)<br>**#29** [OC](https://www.pixiv.net/artworks/126415568)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/21/00/00/30/126415568_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/01/40/26/126448829_p0_master1200.jpg)<br>**#30** [わしの焼き鳥](https://www.pixiv.net/artworks/126448829)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/01/40/26/126448829_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/00/30/03/126446952_p0_master1200.jpg)<br>**#31** [おやつの時間](https://www.pixiv.net/artworks/126446952)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/00/30/03/126446952_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/17/24/40/126462645_p0_master1200.jpg)<br>**#32** [アストラ](https://www.pixiv.net/artworks/126462645)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/17/24/40/126462645_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/00/00/22/126445595_p0_master1200.jpg)<br>**#33** [🐍👑🐍](https://www.pixiv.net/artworks/126445595)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/00/00/22/126445595_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/23/56/14/126475411_p0_master1200.jpg)<br>**#34** [Tofu commission](https://www.pixiv.net/artworks/126475411)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/23/56/14/126475411_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/00/00/15/126445556_p0_master1200.jpg)<br>**#35** [♥](https://www.pixiv.net/artworks/126445556)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/00/00/15/126445556_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/12/19/51/126457570_p0_master1200.jpg)<br>**#36** [すたすた](https://www.pixiv.net/artworks/126457570)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/12/19/51/126457570_p0.png) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/23/56/14/126475411_p0_master1200.jpg)<br>**#34** [Tofu commission](https://www.pixiv.net/artworks/126475411)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/23/56/14/126475411_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/28/20/34/12/126445556_p0_master1200.jpg)<br>**#35** [♥](https://www.pixiv.net/artworks/126445556)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/28/20/34/12/126445556_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/12/19/51/126457570_p0_master1200.jpg)<br>**#36** [すたすた](https://www.pixiv.net/artworks/126457570)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/12/19/51/126457570_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/21/06/10/126469253_p0_master1200.jpg)<br>**#37** [医神／アスクレピオス](https://www.pixiv.net/artworks/126469253)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/21/06/10/126469253_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/23/14/09/28/126447841_p0_master1200.jpg)<br>**#38** [01-ⅩⅩⅠ / SR-ⅩⅩⅠ](https://www.pixiv.net/artworks/126447841)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/23/14/09/28/126447841_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/00/07/08/126446131_p0_master1200.jpg)<br>**#39** [男子高校生の日常パロディー](https://www.pixiv.net/artworks/126446131)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/00/07/08/126446131_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/00/14/02/126446426_p0_master1200.jpg)<br>**#40** [無題](https://www.pixiv.net/artworks/126446426)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/00/14/02/126446426_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/21/21/14/01/126439502_p0_master1200.jpg)<br>**#41** [ほどほどに年齢を詐称してるVtuber](https://www.pixiv.net/artworks/126439502)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/21/21/14/01/126439502_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/01/23/06/126448419_p0_master1200.jpg)<br>**#42** [読書](https://www.pixiv.net/artworks/126448419)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/01/23/06/126448419_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/21/10/34/32/126425991_p0_master1200.jpg)<br>**#43** [【ニンガブ】謎の黒いガブリアス②](https://www.pixiv.net/artworks/126425991)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/21/10/34/32/126425991_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/00/00/18/126445573_p0_master1200.jpg)<br>**#44** [【お仕事】 ホロ新春ゲーム祭2025](https://www.pixiv.net/artworks/126445573)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/00/00/18/126445573_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/01/22/19/35/30/126466177_p0_master1200.jpg)<br>**#45** [プラズマ](https://www.pixiv.net/artworks/126466177)<br>[Download](https://i.pixiv.re/img-original/img/2025/01/22/19/35/30/126466177_p0.jpg) |
@@ -61,7 +61,7 @@ Update: 2025-01-28 17:41:18 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-01-28 17:42:31 CST
+Update: 2025-01-28 22:41:54 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
