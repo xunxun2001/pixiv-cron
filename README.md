@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-02-23 22:40:44 CST
+Update: 2025-02-24 10:42:48 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -27,14 +27,14 @@ Update: 2025-02-23 22:40:44 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/22/20/01/20/127515497_p0_master1200.jpg)<br>**#40** [きままにクロネコボックス](https://www.pixiv.net/artworks/127515497)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/22/20/01/20/127515497_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/21/12/47/02/127468141_p0_master1200.jpg)<br>**#41** [2024.11commission](https://www.pixiv.net/artworks/127468141)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/21/12/47/02/127468141_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/21/20/03/41/127478311_p0_master1200.jpg)<br>**#42** [梦见月瑞希](https://www.pixiv.net/artworks/127478311)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/21/20/03/41/127478311_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/22/00/00/20/127487084_p0_master1200.jpg)<br>**#43** [春が来て、僕らはひとりで生きていく](https://www.pixiv.net/artworks/127487084)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/22/00/00/20/127487084_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/22/20/46/33/127517196_p0_master1200.jpg)<br>**#44** [kokomi birthday](https://www.pixiv.net/artworks/127517196)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/22/20/46/33/127517196_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/21/20/00/08/127478038_p0_master1200.jpg)<br>**#45** [雪の日](https://www.pixiv.net/artworks/127478038)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/21/20/00/08/127478038_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/22/00/03/05/127487513_p0_master1200.jpg)<br>**#46** [【只野工業高校の日常】猫の日](https://www.pixiv.net/artworks/127487513)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/22/00/03/05/127487513_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/21/00/00/38/127455244_p0_master1200.jpg)<br>**#47** [💖](https://www.pixiv.net/artworks/127455244)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/21/00/00/38/127455244_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/22/21/00/42/127517842_p0_master1200.jpg)<br>**#48** [SCPをざっくり紹介324](https://www.pixiv.net/artworks/127517842)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/22/21/00/42/127517842_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/22/00/30/01/127488834_p0_master1200.jpg)<br>**#49** [むげんのチケット](https://www.pixiv.net/artworks/127488834)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/22/00/30/01/127488834_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/23/23/04/47/127516065_p0_master1200.jpg)<br>**#50** [スフィンクスお兄さん](https://www.pixiv.net/artworks/127516065)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/23/23/04/47/127516065_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/22/00/30/01/127488834_p0_master1200.jpg)<br>**#49** [むげんのチケット](https://www.pixiv.net/artworks/127488834)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/22/00/30/01/127488834_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/02/24/01/41/27/127516065_p0_master1200.jpg)<br>**#50** [スフィンクスお兄さん](https://www.pixiv.net/artworks/127516065)<br>[Download](https://i.pixiv.re/img-original/img/2025/02/24/01/41/27/127516065_p0.jpg) |
 |      |
 
 
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-02-23 22:42:46 CST
+Update: 2025-02-24 10:44:42 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-02-23 22:42:46 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-02-23 22:45:16 CST
+Update: 2025-02-24 10:46:18 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
