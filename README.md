@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-03-20 17:41:54 CST
+Update: 2025-03-20 22:46:34 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -26,7 +26,7 @@ Update: 2025-03-20 17:41:54 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/00/03/09/128327596_p0_master1200.jpg)<br>**#37** [ふくよか的ワードに厳しい奥さん【カラー版】](https://www.pixiv.net/artworks/128327596)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/00/03/09/128327596_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/19/00/04/57/128360200_p0_master1200.jpg)<br>**#38** [フリーレンさん](https://www.pixiv.net/artworks/128360200)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/19/00/04/57/128360200_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/10/56/31/128338784_p0_master1200.jpg)<br>**#39** [倉本さんは可愛いですわ35](https://www.pixiv.net/artworks/128338784)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/10/56/31/128338784_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/00/07/19/128327870_p0_master1200.jpg)<br>**#40** [Mari](https://www.pixiv.net/artworks/128327870)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/00/07/19/128327870_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/20/01/55/128350665_p0_master1200.jpg)<br>**#41** [葬送まとめ11](https://www.pixiv.net/artworks/128350665)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/20/01/55/128350665_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/17/00/42/128345446_p0_master1200.jpg)<br>**#42** [我的孩子，要学弹钢琴吗~](https://www.pixiv.net/artworks/128345446)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/17/00/42/128345446_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/19/08/56/05/128361364_p0_master1200.jpg)<br>**#43** [斉Ψろぐ５](https://www.pixiv.net/artworks/128361364)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/19/08/56/05/128361364_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/20/08/48/128350889_p0_master1200.jpg)<br>**#44** [ショタ穹くん](https://www.pixiv.net/artworks/128350889)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/20/08/48/128350889_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/17/11/24/128345663_p0_master1200.jpg)<br>**#45** [ひとりで反省](https://www.pixiv.net/artworks/128345663)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/17/11/24/128345663_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/20/04/05/26/128363976_p0_master1200.jpg)<br>**#46** [ヴラド・グリム新章](https://www.pixiv.net/artworks/128363976)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/20/04/05/26/128363976_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/19/14/31/14/128375285_p0_master1200.jpg)<br>**#47** [少女飛行](https://www.pixiv.net/artworks/128375285)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/19/14/31/14/128375285_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/00/21/06/128328405_p0_master1200.jpg)<br>**#48** [ソラ](https://www.pixiv.net/artworks/128328405)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/00/21/06/128328405_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/20/23/18/59/128363976_p0_master1200.jpg)<br>**#46** [ヴラド・グリム新章](https://www.pixiv.net/artworks/128363976)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/20/23/18/59/128363976_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/19/14/31/14/128375285_p0_master1200.jpg)<br>**#47** [少女飛行](https://www.pixiv.net/artworks/128375285)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/19/14/31/14/128375285_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/00/21/06/128328405_p0_master1200.jpg)<br>**#48** [ソラ](https://www.pixiv.net/artworks/128328405)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/00/21/06/128328405_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/19/00/12/00/128360533_p0_master1200.jpg)<br>**#49** [skeb](https://www.pixiv.net/artworks/128360533)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/19/00/12/00/128360533_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/18/20/26/42/128351392_p0_master1200.jpg)<br>**#50** [おでかけガール](https://www.pixiv.net/artworks/128351392)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/18/20/26/42/128351392_p0.png) |
 |      |
 
@@ -34,7 +34,7 @@ Update: 2025-03-20 17:41:54 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-03-20 17:42:53 CST
+Update: 2025-03-20 22:49:05 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-03-20 17:42:53 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-03-20 17:44:34 CST
+Update: 2025-03-20 22:51:43 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
