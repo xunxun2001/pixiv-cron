@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-04-07 17:43:11 CST
+Update: 2025-04-07 22:44:35 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2025-04-07 17:43:11 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-04-07 17:44:59 CST
+Update: 2025-04-07 22:45:15 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-04-07 17:44:59 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-04-07 17:46:30 CST
+Update: 2025-04-07 22:45:44 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -73,7 +73,7 @@ Update: 2025-04-07 17:46:30 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/09/58/49/128056263_p0_master1200.jpg)<br>**#16** [アイちゃんの誕生日を全身全霊祝ってあげたい](https://www.pixiv.net/artworks/128056263)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/09/58/49/128056263_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/12/00/30/32/128113366_p0_master1200.jpg)<br>**#17** [ハローキティ](https://www.pixiv.net/artworks/128113366)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/12/00/30/32/128113366_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/09/10/42/33/128016240_p0_master1200.jpg)<br>**#18** [miku](https://www.pixiv.net/artworks/128016240)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/09/10/42/33/128016240_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/10/00/02/128056476_p0_master1200.jpg)<br>**#19** [怨仇](https://www.pixiv.net/artworks/128056476)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/10/00/02/128056476_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/09/02/00/59/128007332_p0_master1200.jpg)<br>**#20** [生徒があまりにも生意気ですが、美少女なので許す！](https://www.pixiv.net/artworks/128007332)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/09/02/00/59/128007332_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/13/34/40/128060121_p0_master1200.jpg)<br>**#21** [アーモンド](https://www.pixiv.net/artworks/128060121)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/13/34/40/128060121_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/00/00/22/128045025_p0_master1200.jpg)<br>**#22** [お客さんが魔法少女](https://www.pixiv.net/artworks/128045025)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/00/00/22/128045025_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/21/49/08/128073204_p0_master1200.jpg)<br>**#23** [雅努斯 婚纱](https://www.pixiv.net/artworks/128073204)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/21/49/08/128073204_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/01/01/17/128046296_p0_master1200.jpg)<br>**#24** [🥺](https://www.pixiv.net/artworks/128046296)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/01/01/17/128046296_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/12/00/29/30/128113285_p0_master1200.jpg)<br>**#25** [覗きがバレた！](https://www.pixiv.net/artworks/128113285)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/12/00/29/30/128113285_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/09/18/30/36/128029847_p0_master1200.jpg)<br>**#26** [长离](https://www.pixiv.net/artworks/128029847)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/09/18/30/36/128029847_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/11/00/00/17/128078646_p0_master1200.jpg)<br>**#27** [プラナ](https://www.pixiv.net/artworks/128078646)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/11/00/00/17/128078646_p0.png) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/12/00/29/30/128113285_p0_master1200.jpg)<br>**#25** [覗きがバレた！](https://www.pixiv.net/artworks/128113285)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/12/00/29/30/128113285_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/09/18/30/36/128029847_p0_master1200.jpg)<br>**#26** [Changli](https://www.pixiv.net/artworks/128029847)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/09/18/30/36/128029847_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/11/00/00/17/128078646_p0_master1200.jpg)<br>**#27** [プラナ](https://www.pixiv.net/artworks/128078646)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/11/00/00/17/128078646_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/08/23/40/05/128001872_p0_master1200.jpg)<br>**#28** [トレモでコンボ練習積んできたフリーナ様🎮](https://www.pixiv.net/artworks/128001872)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/08/23/40/05/128001872_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/00/00/53/128045147_p0_master1200.jpg)<br>**#29** [異世界に行ったら謎の生物に可愛がられた話　60話](https://www.pixiv.net/artworks/128045147)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/00/00/53/128045147_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/15/01/13/34/128069984_p0_master1200.jpg)<br>**#30** [アクルビキス本【期間限定公開】※終了しました](https://www.pixiv.net/artworks/128069984)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/15/01/13/34/128069984_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/02/22/58/128049963_p0_master1200.jpg)<br>**#31** [Maria Marionette](https://www.pixiv.net/artworks/128049963)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/02/22/58/128049963_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/12/18/47/128058762_p0_master1200.jpg)<br>**#32** [ニヤニヤ教授](https://www.pixiv.net/artworks/128058762)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/12/18/47/128058762_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/00/05/25/128045564_p0_master1200.jpg)<br>**#33** [アーモンドアイ](https://www.pixiv.net/artworks/128045564)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/00/05/25/128045564_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/10/00/00/13/128044980_p0_master1200.jpg)<br>**#34** [ぴょんぴょん佑芽ちゃん！✨](https://www.pixiv.net/artworks/128044980)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/10/00/00/13/128044980_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/09/01/03/34/128005847_p0_master1200.jpg)<br>**#35** [Blossoms in Ruins](https://www.pixiv.net/artworks/128005847)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/09/01/03/34/128005847_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/03/11/18/11/32/128098836_p0_master1200.jpg)<br>**#36** [D: Killer Wife D:キラーワイフ](https://www.pixiv.net/artworks/128098836)<br>[Download](https://i.pixiv.re/img-original/img/2025/03/11/18/11/32/128098836_p0.jpg) |
