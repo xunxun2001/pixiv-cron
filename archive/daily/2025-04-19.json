@@ -87,7 +87,8 @@
         "page_url": "https://www.pixiv.net/artworks/129423193",
         "big_url": "https://i.pixiv.re/img-original/img/2025/04/18/07/30/02/129423193_p0.jpg",
         "tags": [
-            "食べ物"
+            "食べ物",
+            "朝食"
         ],
         "rating_count": 1149,
         "view_count": 8768
@@ -180,7 +181,6 @@
             "悪のボス",
             "臨機応変",
             "それも私だ",
-            "自らの敗北も計算の内",
             "ATフィールド"
         ],
         "rating_count": 1627,
@@ -765,7 +765,7 @@
     },
     {
         "rank": 42,
-        "title": "お題箱姫",
+        "title": "直死のお題箱",
         "user_name": "ポテトルス",
         "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/04/18/19/24/26/129437425_p0_master1200.jpg",
         "page_url": "https://www.pixiv.net/artworks/129437425",
