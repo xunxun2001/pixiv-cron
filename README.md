@@ -7,12 +7,12 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-05-21 22:47:54 CST
+Update: 2025-05-22 11:01:05 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/00/00/09/130563065_p0_master1200.jpg)<br>**#1** [キス攻撃だーっ！](https://www.pixiv.net/artworks/130563065)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/00/00/09/130563065_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/03/03/23/130568884_p0_master1200.jpg)<br>**#2** [常服流萤](https://www.pixiv.net/artworks/130568884)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/03/03/23/130568884_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/20/00/00/11/130597598_p0_master1200.jpg)<br>**#3** [忍野忍](https://www.pixiv.net/artworks/130597598)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/20/00/00/11/130597598_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/20/00/23/37/130598883_p0_master1200.jpg)<br>**#4** [無題](https://www.pixiv.net/artworks/130598883)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/20/00/23/37/130598883_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/22/06/31/130592955_p0_master1200.jpg)<br>**#5** [小話まとめ（2）](https://www.pixiv.net/artworks/130592955)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/22/06/31/130592955_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/00/00/15/130563116_p0_master1200.jpg)<br>**#6** [アリス](https://www.pixiv.net/artworks/130563116)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/00/00/15/130563116_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/20/00/23/37/130598883_p0_master1200.jpg)<br>**#4** [無題](https://www.pixiv.net/artworks/130598883)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/20/00/23/37/130598883_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/22/11/27/55/130592955_p0_master1200.jpg)<br>**#5** [小話まとめ（2）](https://www.pixiv.net/artworks/130592955)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/22/11/27/55/130592955_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/00/00/15/130563116_p0_master1200.jpg)<br>**#6** [アリス](https://www.pixiv.net/artworks/130563116)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/00/00/15/130563116_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/00/30/05/130564742_p0_master1200.jpg)<br>**#7** [ひつじがいっぴき](https://www.pixiv.net/artworks/130564742)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/00/30/05/130564742_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/21/07/17/130590523_p0_master1200.jpg)<br>**#8** [年齢を詐称してるVtuberと友人達のVlogコンプラ篇](https://www.pixiv.net/artworks/130590523)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/21/07/17/130590523_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/20/06/03/12/130605507_p0_master1200.jpg)<br>**#9** [道化師](https://www.pixiv.net/artworks/130605507)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/20/06/03/12/130605507_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/17/12/56/130582730_p0_master1200.jpg)<br>**#10** [｢……………？｣](https://www.pixiv.net/artworks/130582730)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/17/12/56/130582730_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/00/46/05/130565388_p0_master1200.jpg)<br>**#11** [day46](https://www.pixiv.net/artworks/130565388)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/00/46/05/130565388_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/06/30/37/130571632_p0_master1200.jpg)<br>**#12** [一夜限りのユキズリマン　その46](https://www.pixiv.net/artworks/130571632)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/06/30/37/130571632_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/17/03/30/130582508_p0_master1200.jpg)<br>**#13** [ついログ71【ぐだエレ】](https://www.pixiv.net/artworks/130582508)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/17/03/30/130582508_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/19/22/01/51/130592767_p0_master1200.jpg)<br>**#14** [Alban Knoxさん誕生日2025](https://www.pixiv.net/artworks/130592767)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/19/22/01/51/130592767_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/05/20/06/00/07/130605416_p0_master1200.jpg)<br>**#15** [個人メモ：曲げた腕の比率](https://www.pixiv.net/artworks/130605416)<br>[Download](https://i.pixiv.re/img-original/img/2025/05/20/06/00/07/130605416_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2025-05-21 22:47:54 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-05-21 22:50:14 CST
+Update: 2025-05-22 11:02:06 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-05-21 22:50:14 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-05-21 22:52:40 CST
+Update: 2025-05-22 11:03:22 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
