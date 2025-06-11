@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-06-10 22:48:11 CST
+Update: 2025-06-11 11:09:10 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -15,7 +15,7 @@ Update: 2025-06-10 22:48:11 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/09/06/29/14/131350651_p0_master1200.jpg)<br>**#4** [<Bounds/>](https://www.pixiv.net/artworks/131350651)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/09/06/29/14/131350651_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/09/00/00/09/131341543_p0_master1200.jpg)<br>**#5** [復讐者](https://www.pixiv.net/artworks/131341543)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/09/00/00/09/131341543_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/12/00/52/131300120_p0_master1200.jpg)<br>**#6** [Summer Play](https://www.pixiv.net/artworks/131300120)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/12/00/52/131300120_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/21/30/41/131333809_p0_master1200.jpg)<br>**#7** [no.2222 『 ニャチホコ 』](https://www.pixiv.net/artworks/131333809)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/21/30/41/131333809_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/21/20/37/131333308_p0_master1200.jpg)<br>**#8** [薄めな年齢を詐称してるVtuber](https://www.pixiv.net/artworks/131333308)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/21/20/37/131333308_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/23/32/40/131339989_p0_master1200.jpg)<br>**#9** [一夜限りのユキズリマン　その55](https://www.pixiv.net/artworks/131339989)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/23/32/40/131339989_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/11/40/01/131312458_p0_master1200.jpg)<br>**#10** [おいでよ　魔法少女村（不法占拠）67](https://www.pixiv.net/artworks/131312458)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/11/40/01/131312458_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/00/40/58/131298826_p0_master1200.jpg)<br>**#11** [6月ルーミア](https://www.pixiv.net/artworks/131298826)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/00/40/58/131298826_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/09/18/23/25/131364558_p0_master1200.jpg)<br>**#12** [【会社と私生活】ロックの日](https://www.pixiv.net/artworks/131364558)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/09/18/23/25/131364558_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/09/00/00/11/131341555_p0_master1200.jpg)<br>**#13** [「master x master」](https://www.pixiv.net/artworks/131341555)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/09/00/00/11/131341555_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/01/07/50/131299854_p0_master1200.jpg)<br>**#14** [【web再録】バーチャルサスペンス劇場　崖之縁](https://www.pixiv.net/artworks/131299854)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/01/07/50/131299854_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/00/02/07/131296990_p0_master1200.jpg)<br>**#15** [₊˚✩](https://www.pixiv.net/artworks/131296990)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/00/02/07/131296990_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/09/00/00/11/131341555_p0_master1200.jpg)<br>**#13** [「master x master」](https://www.pixiv.net/artworks/131341555)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/09/00/00/11/131341555_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/01/07/50/131299854_p0_master1200.jpg)<br>**#14** [【web再録】バーチャルサスペンス劇場　崖ノ縁](https://www.pixiv.net/artworks/131299854)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/01/07/50/131299854_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/00/02/07/131296990_p0_master1200.jpg)<br>**#15** [₊˚✩](https://www.pixiv.net/artworks/131296990)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/00/02/07/131296990_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/09/20/22/36/131369046_p0_master1200.jpg)<br>**#16** [落涙の翼の好きなところ①](https://www.pixiv.net/artworks/131369046)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/09/20/22/36/131369046_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/21/50/27/131334730_p0_master1200.jpg)<br>**#17** [小春日和](https://www.pixiv.net/artworks/131334730)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/21/50/27/131334730_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/00/00/06/131296536_p0_master1200.jpg)<br>**#18** [フリーナ](https://www.pixiv.net/artworks/131296536)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/00/00/06/131296536_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/09/21/08/07/131371054_p0_master1200.jpg)<br>**#19** [叫びながら年齢を詐称してるVtuber](https://www.pixiv.net/artworks/131371054)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/09/21/08/07/131371054_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/22/26/14/131336598_p0_master1200.jpg)<br>**#20** [リーグ挑戦1-7](https://www.pixiv.net/artworks/131336598)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/22/26/14/131336598_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/09/00/30/13/131343426_p0_master1200.jpg)<br>**#21** [❀](https://www.pixiv.net/artworks/131343426)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/09/00/30/13/131343426_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/09/25/20/131309105_p0_master1200.jpg)<br>**#22** [ズキューンキッス](https://www.pixiv.net/artworks/131309105)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/09/25/20/131309105_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/00/00/25/131296682_p0_master1200.jpg)<br>**#23** [【クルスタ】ジュエリー(究明)](https://www.pixiv.net/artworks/131296682)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/00/00/25/131296682_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/06/08/12/03/31/131313347_p0_master1200.jpg)<br>**#24** [灰原「嬉しい？私に勝てて」コナン「言ってろよ」](https://www.pixiv.net/artworks/131313347)<br>[Download](https://i.pixiv.re/img-original/img/2025/06/08/12/03/31/131313347_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2025-06-10 22:48:11 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-06-10 22:51:19 CST
+Update: 2025-06-11 11:11:49 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-06-10 22:51:19 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-06-10 22:53:55 CST
+Update: 2025-06-11 11:14:18 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
