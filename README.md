@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-08-09 22:44:50 CST
+Update: 2025-08-10 11:24:17 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2025-08-09 22:44:50 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-08-09 22:47:11 CST
+Update: 2025-08-10 11:26:05 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-08-09 22:47:11 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-08-09 22:49:49 CST
+Update: 2025-08-10 11:28:41 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -71,7 +71,7 @@ Update: 2025-08-09 22:49:49 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/00/00/15/132584165_p0_master1200.jpg)<br>**#10** [☆](https://www.pixiv.net/artworks/132584165)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/00/00/15/132584165_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/02/12/06/41/132584225_p0_master1200.jpg)<br>**#11** [弟子との距離が近すぎるイーシェン師匠](https://www.pixiv.net/artworks/132584225)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/02/12/06/41/132584225_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/10/12/50/12/132526182_p0_master1200.jpg)<br>**#12** [イブキ議長とアツい夏を過ごしたい！！！！](https://www.pixiv.net/artworks/132526182)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/10/12/50/12/132526182_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/12/37/14/132600973_p0_master1200.jpg)<br>**#13** [バニー](https://www.pixiv.net/artworks/132600973)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/12/37/14/132600973_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/18/59/44/132611998_p0_master1200.jpg)<br>**#14** [エレグ](https://www.pixiv.net/artworks/132611998)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/18/59/44/132611998_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/11/00/00/04/132547468_p0_master1200.jpg)<br>**#15** [朝のキス](https://www.pixiv.net/artworks/132547468)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/11/00/00/04/132547468_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/06/12/35/31/132630751_p0_master1200.jpg)<br>**#16** [BA log 06](https://www.pixiv.net/artworks/132630751)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/06/12/35/31/132630751_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/00/00/31/132584268_p0_master1200.jpg)<br>**#17** [OC](https://www.pixiv.net/artworks/132584268)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/00/00/31/132584268_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/01/02/34/132587088_p0_master1200.jpg)<br>**#18** [乱破🎨_差分](https://www.pixiv.net/artworks/132587088)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/01/02/34/132587088_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/10/41/31/132597926_p0_master1200.jpg)<br>**#19** [ナズナちゃん](https://www.pixiv.net/artworks/132597926)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/10/41/31/132597926_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/09/23/46/29/132511266_p0_master1200.jpg)<br>**#20** [👁ロノヴァちゃんえちえち👁](https://www.pixiv.net/artworks/132511266)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/09/23/46/29/132511266_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/10/18/09/52/132533131_p0_master1200.jpg)<br>**#21** [彼氏の愛が重すぎる⑤　【創作BL】](https://www.pixiv.net/artworks/132533131)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/10/18/09/52/132533131_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/10/41/31/132597926_p0_master1200.jpg)<br>**#19** [ナズナちゃん](https://www.pixiv.net/artworks/132597926)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/10/41/31/132597926_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/09/23/48/15/132511266_p0_master1200.jpg)<br>**#20** [👁ロノヴァちゃんえちえち👁](https://www.pixiv.net/artworks/132511266)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/09/23/48/15/132511266_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/10/18/09/52/132533131_p0_master1200.jpg)<br>**#21** [彼氏の愛が重すぎる⑤　【創作BL】](https://www.pixiv.net/artworks/132533131)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/10/18/09/52/132533131_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/10/00/02/00/132511575_p0_master1200.jpg)<br>**#22** [Rio](https://www.pixiv.net/artworks/132511575)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/10/00/02/00/132511575_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/13/11/00/10/132639754_p0_master1200.jpg)<br>**#23** [シロコテラーと先生、バイトと雨（全10枚・漫画付き）](https://www.pixiv.net/artworks/132639754)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/13/11/00/10/132639754_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/11/51/09/132599549_p0_master1200.jpg)<br>**#24** [战斗剧情后的夏日活动 summer event](https://www.pixiv.net/artworks/132599549)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/11/51/09/132599549_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/10/36/30/132597836_p0_master1200.jpg)<br>**#25** [じいさんばあさん若返る【201】](https://www.pixiv.net/artworks/132597836)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/10/36/30/132597836_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/13/00/00/26/132625302_p0_master1200.jpg)<br>**#26** [うざっ…](https://www.pixiv.net/artworks/132625302)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/13/00/00/26/132625302_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/13/35/33/132602426_p0_master1200.jpg)<br>**#27** [🥕](https://www.pixiv.net/artworks/132602426)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/13/35/33/132602426_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/00/30/01/132585800_p0_master1200.jpg)<br>**#28** [Ringelblume](https://www.pixiv.net/artworks/132585800)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/00/30/01/132585800_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/10/00/30/03/132512739_p0_master1200.jpg)<br>**#29** [浅羽](https://www.pixiv.net/artworks/132512739)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/10/00/30/03/132512739_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/12/17/48/56/132609430_p0_master1200.jpg)<br>**#30** [ハウデン・リーウ](https://www.pixiv.net/artworks/132609430)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/12/17/48/56/132609430_p0.jpg) |
