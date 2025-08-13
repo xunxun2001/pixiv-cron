@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-08-13 17:48:08 CST
+Update: 2025-08-13 22:49:17 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -22,7 +22,7 @@ Update: 2025-08-13 17:48:08 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/12/00/00/06/133772567_p0_master1200.jpg)<br>**#25** [💛](https://www.pixiv.net/artworks/133772567)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/12/00/00/06/133772567_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/00/00/43/133730451_p0_master1200.jpg)<br>**#26** [【ウマ娘】ウマ娘漫画まとめ166【漫画3枚+イラスト1枚】](https://www.pixiv.net/artworks/133730451)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/00/00/43/133730451_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/12/47/08/133747569_p0_master1200.jpg)<br>**#27** [聖剣](https://www.pixiv.net/artworks/133747569)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/12/47/08/133747569_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/12/13/23/57/133790040_p0_master1200.jpg)<br>**#28** [復讐者](https://www.pixiv.net/artworks/133790040)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/12/13/23/57/133790040_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/07/38/55/133740519_p0_master1200.jpg)<br>**#29** [戦場の糧](https://www.pixiv.net/artworks/133740519)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/07/38/55/133740519_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/20/24/57/133762535_p0_master1200.jpg)<br>**#30** [【小春と湊】無抵抗](https://www.pixiv.net/artworks/133762535)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/20/24/57/133762535_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/12/18/35/45/133798093_p0_master1200.jpg)<br>**#31** [教会で夏コミ原稿を脱稿して修道士の少年を怖がらせましょう！](https://www.pixiv.net/artworks/133798093)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/12/18/35/45/133798093_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/00/59/03/133733146_p0_master1200.jpg)<br>**#32** [塊スキル](https://www.pixiv.net/artworks/133733146)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/00/59/03/133733146_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/13/01/48/133747977_p0_master1200.jpg)<br>**#33** [葬華](https://www.pixiv.net/artworks/133747977)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/13/01/48/133747977_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/12/00/08/15/133773307_p0_master1200.jpg)<br>**#34** [おにまいまひろちゃん](https://www.pixiv.net/artworks/133773307)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/12/00/08/15/133773307_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/14/14/57/133749927_p0_master1200.jpg)<br>**#35** [kiss](https://www.pixiv.net/artworks/133749927)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/14/14/57/133749927_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/12/00/07/57/133773296_p0_master1200.jpg)<br>**#36** [オンバーン　騎乗装備](https://www.pixiv.net/artworks/133773296)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/12/00/07/57/133773296_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/12/00/08/15/133773307_p0_master1200.jpg)<br>**#34** [おにまいまひろちゃん](https://www.pixiv.net/artworks/133773307)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/12/00/08/15/133773307_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/14/14/57/133749927_p0_master1200.jpg)<br>**#35** [kiss](https://www.pixiv.net/artworks/133749927)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/14/14/57/133749927_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/13/22/21/52/133773296_p0_master1200.jpg)<br>**#36** [オンバーン　騎乗装備](https://www.pixiv.net/artworks/133773296)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/13/22/21/52/133773296_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/00/03/05/133730796_p0_master1200.jpg)<br>**#37** [うたた寝な奥さん【カラー版】](https://www.pixiv.net/artworks/133730796)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/00/03/05/133730796_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/17/17/42/133755096_p0_master1200.jpg)<br>**#38** [子羊教団　まとめ　５](https://www.pixiv.net/artworks/133755096)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/17/17/42/133755096_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/19/50/04/133760833_p0_master1200.jpg)<br>**#39** [厚底ガール](https://www.pixiv.net/artworks/133760833)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/19/50/04/133760833_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/02/36/16/133735783_p0_master1200.jpg)<br>**#40** [射手座 - Sagittarius](https://www.pixiv.net/artworks/133735783)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/02/36/16/133735783_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/12/00/00/12/133772626_p0_master1200.jpg)<br>**#41** [酔い潰れインドラ様ともっとヤバいやつ](https://www.pixiv.net/artworks/133772626)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/12/00/00/12/133772626_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/00/10/51/133731205_p0_master1200.jpg)<br>**#42** [C106新刊『Les Fleurs』](https://www.pixiv.net/artworks/133731205)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/00/10/51/133731205_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/12/19/02/51/133799246_p0_master1200.jpg)<br>**#43** [ミファーの日記](https://www.pixiv.net/artworks/133799246)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/12/19/02/51/133799246_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/20/42/39/133763309_p0_master1200.jpg)<br>**#44** [グランドランサー記念](https://www.pixiv.net/artworks/133763309)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/20/42/39/133763309_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/11/00/06/00/133730985_p0_master1200.jpg)<br>**#45** [不愛想な隠れ巨乳ボーイッシュ彼女と海デート](https://www.pixiv.net/artworks/133730985)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/11/00/06/00/133730985_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2025-08-13 17:48:08 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-08-13 17:49:39 CST
+Update: 2025-08-13 22:51:41 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-08-13 17:49:39 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-08-13 17:51:24 CST
+Update: 2025-08-13 22:54:03 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
