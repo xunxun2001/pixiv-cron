@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-08-21 17:44:09 CST
+Update: 2025-08-21 22:46:00 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -25,7 +25,7 @@ Update: 2025-08-21 17:44:09 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/20/11/00/02/134106206_p0_master1200.jpg)<br>**#34** [友達なので通い妻してくれるダウナーギャルちゃん](https://www.pixiv.net/artworks/134106206)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/20/11/00/02/134106206_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/20/00/49/38/134095477_p0_master1200.jpg)<br>**#35** [メタナイトxウィリー（エアライダー）](https://www.pixiv.net/artworks/134095477)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/20/00/49/38/134095477_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/20/23/04/29/134127932_p0_master1200.jpg)<br>**#36** [✒️◻️～](https://www.pixiv.net/artworks/134127932)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/20/23/04/29/134127932_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/20/02/00/04/134097538_p0_master1200.jpg)<br>**#37** [会わせてあげたかった](https://www.pixiv.net/artworks/134097538)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/20/02/00/04/134097538_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/19/55/09/134082405_p0_master1200.jpg)<br>**#38** [フルジップデニムガール](https://www.pixiv.net/artworks/134082405)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/19/55/09/134082405_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/01/46/13/134060207_p0_master1200.jpg)<br>**#39** [4 Phainon](https://www.pixiv.net/artworks/134060207)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/01/46/13/134060207_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/01/15/34/134059422_p0_master1200.jpg)<br>**#40** [🚊](https://www.pixiv.net/artworks/134059422)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/01/15/34/134059422_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/01/00/24/134058950_p0_master1200.jpg)<br>**#41** [記念の日](https://www.pixiv.net/artworks/134058950)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/01/00/24/134058950_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/13/54/48/134072824_p0_master1200.jpg)<br>**#42** [あつ森実況エンドカード](https://www.pixiv.net/artworks/134072824)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/13/54/48/134072824_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/01/06/38/134059062_p0_master1200.jpg)<br>**#43** [甘露寺蜜璃の隊服](https://www.pixiv.net/artworks/134059062)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/01/06/38/134059062_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/22/43/28/134089726_p0_master1200.jpg)<br>**#44** [ワイルドハントリオ](https://www.pixiv.net/artworks/134089726)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/22/43/28/134089726_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/20/22/06/50/134125319_p0_master1200.jpg)<br>**#45** [無題](https://www.pixiv.net/artworks/134125319)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/20/22/06/50/134125319_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/21/19/35/13/134059062_p0_master1200.jpg)<br>**#43** [甘露寺蜜璃の隊服](https://www.pixiv.net/artworks/134059062)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/21/19/35/13/134059062_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/22/43/28/134089726_p0_master1200.jpg)<br>**#44** [ワイルドハントリオ](https://www.pixiv.net/artworks/134089726)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/22/43/28/134089726_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/20/22/06/50/134125319_p0_master1200.jpg)<br>**#45** [無題](https://www.pixiv.net/artworks/134125319)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/20/22/06/50/134125319_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/20/16/37/48/134113235_p0_master1200.jpg)<br>**#46** [電人転生おじさん](https://www.pixiv.net/artworks/134113235)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/20/16/37/48/134113235_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/17/08/16/134076997_p0_master1200.jpg)<br>**#47** [テト](https://www.pixiv.net/artworks/134076997)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/17/08/16/134076997_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/20/20/06/15/134119970_p0_master1200.jpg)<br>**#48** [アナーキー・ストッキング](https://www.pixiv.net/artworks/134119970)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/20/20/06/15/134119970_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/20/58/00/134084902_p0_master1200.jpg)<br>**#49** [マキナとチハルの距離感](https://www.pixiv.net/artworks/134084902)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/20/58/00/134084902_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/19/09/20/22/134067578_p0_master1200.jpg)<br>**#50** [Hysilens](https://www.pixiv.net/artworks/134067578)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/19/09/20/22/134067578_p0.jpg) |
 |      |
@@ -34,7 +34,7 @@ Update: 2025-08-21 17:44:09 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-08-21 17:45:21 CST
+Update: 2025-08-21 22:47:33 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-08-21 17:45:21 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-08-21 17:47:26 CST
+Update: 2025-08-21 22:49:45 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
