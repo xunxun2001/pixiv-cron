@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-08-24 22:40:37 CST
+Update: 2025-08-25 11:04:36 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2025-08-24 22:40:37 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-08-24 22:41:03 CST
+Update: 2025-08-25 11:05:27 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,12 +61,12 @@ Update: 2025-08-24 22:41:03 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-08-24 22:41:38 CST
+Update: 2025-08-25 11:06:30 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/00/00/25/133150988_p0_master1200.jpg)<br>**#1** [チェリーポップ](https://www.pixiv.net/artworks/133150988)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/00/00/25/133150988_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/12/05/16/133167048_p0_master1200.jpg)<br>**#2** [サフェル](https://www.pixiv.net/artworks/133167048)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/12/05/16/133167048_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/12/18/38/49/133154058_p0_master1200.jpg)<br>**#3** [Spring Missive](https://www.pixiv.net/artworks/133154058)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/12/18/38/49/133154058_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/00/00/22/133150972_p0_master1200.jpg)<br>**#4** [Saber](https://www.pixiv.net/artworks/133150972)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/00/00/22/133150972_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/12/28/40/133167675_p0_master1200.jpg)<br>**#5** [ブルアカ新イベ、ネタバレなしで感想語るならこれ](https://www.pixiv.net/artworks/133167675)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/12/28/40/133167675_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/26/19/50/01/133140011_p0_master1200.jpg)<br>**#6** [インドラ様まとめ](https://www.pixiv.net/artworks/133140011)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/26/19/50/01/133140011_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/00/00/22/133150972_p0_master1200.jpg)<br>**#4** [Saber](https://www.pixiv.net/artworks/133150972)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/00/00/22/133150972_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/12/28/40/133167675_p0_master1200.jpg)<br>**#5** [ブルアカ新イベ、ネタバレなしで感想語るならこれ](https://www.pixiv.net/artworks/133167675)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/12/28/40/133167675_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/26/19/50/01/133140011_p0_master1200.jpg)<br>**#6** [インドラ様まとめ](https://www.pixiv.net/artworks/133140011)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/26/19/50/01/133140011_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/00/00/59/133151133_p0_master1200.jpg)<br>**#7** [「これでシンメトリー…ですわね？」](https://www.pixiv.net/artworks/133151133)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/00/00/59/133151133_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/00/00/36/133151051_p0_master1200.jpg)<br>**#8** [先生〜💙 こっちこっち〜！](https://www.pixiv.net/artworks/133151051)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/00/00/36/133151051_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/28/01/34/08/133197061_p0_master1200.jpg)<br>**#9** [ナギサ](https://www.pixiv.net/artworks/133197061)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/28/01/34/08/133197061_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/25/00/00/14/133074585_p0_master1200.jpg)<br>**#10** [【創作】合コンに行ったら女がいなかった話６６](https://www.pixiv.net/artworks/133074585)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/25/00/00/14/133074585_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/00/00/05/133150819_p0_master1200.jpg)<br>**#11** [初音ミクゲーム](https://www.pixiv.net/artworks/133150819)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/00/00/05/133150819_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/00/31/35/133152664_p0_master1200.jpg)<br>**#12** [どっちも良すぎる👙](https://www.pixiv.net/artworks/133152664)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/00/31/35/133152664_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/12/05/37/133167060_p0_master1200.jpg)<br>**#13** [カンナ…舐めて…！](https://www.pixiv.net/artworks/133167060)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/12/05/37/133167060_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/02/39/02/133156199_p0_master1200.jpg)<br>**#14** [スタレ絵まとめ6](https://www.pixiv.net/artworks/133156199)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/02/39/02/133156199_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/07/27/19/49/25/133181729_p0_master1200.jpg)<br>**#15** [自炊ギャル](https://www.pixiv.net/artworks/133181729)<br>[Download](https://i.pixiv.re/img-original/img/2025/07/27/19/49/25/133181729_p0.png) |
