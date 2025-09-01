@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-08-31 22:40:27 CST
+Update: 2025-09-01 11:10:08 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2025-08-31 22:40:27 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-08-31 22:42:12 CST
+Update: 2025-09-01 11:11:09 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,13 +61,13 @@ Update: 2025-08-31 22:42:12 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-08-31 22:44:13 CST
+Update: 2025-09-01 11:12:47 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/16/00/04/133440877_p0_master1200.jpg)<br>**#1** [水着エロフ❤DMMスクラッチ開催中](https://www.pixiv.net/artworks/133440877)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/16/00/04/133440877_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/00/10/16/133418453_p0_master1200.jpg)<br>**#2** [夏](https://www.pixiv.net/artworks/133418453)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/00/10/16/133418453_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/02/00/30/03/133377800_p0_master1200.jpg)<br>**#3** [∞](https://www.pixiv.net/artworks/133377800)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/02/00/30/03/133377800_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/00/01/09/133417824_p0_master1200.jpg)<br>**#4** [Astra Yao](https://www.pixiv.net/artworks/133417824)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/00/01/09/133417824_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/16/24/18/133441572_p0_master1200.jpg)<br>**#5** [なのか…](https://www.pixiv.net/artworks/133441572)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/16/24/18/133441572_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/23/33/49/133459735_p0_master1200.jpg)<br>**#6** [무제](https://www.pixiv.net/artworks/133459735)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/23/33/49/133459735_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/10/00/05/133431065_p0_master1200.jpg)<br>**#7** [嫌パン10周年記念イラスト展](https://www.pixiv.net/artworks/133431065)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/10/00/05/133431065_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/00/00/04/133417430_p0_master1200.jpg)<br>**#8** [ファンタズムーン抱き枕カバー](https://www.pixiv.net/artworks/133417430)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/00/00/04/133417430_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/00/04/20/133418146_p0_master1200.jpg)<br>**#9** [miku](https://www.pixiv.net/artworks/133418146)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/00/04/20/133418146_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/10/00/05/133431065_p0_master1200.jpg)<br>**#7** [嫌パン10周年記念イラスト展](https://www.pixiv.net/artworks/133431065)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/10/00/05/133431065_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/00/00/04/133417430_p0_master1200.jpg)<br>**#8** [ファンタズムーン抱き枕カバー](https://www.pixiv.net/artworks/133417430)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/00/00/04/133417430_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/01/02/11/47/133418146_p0_master1200.jpg)<br>**#9** [miku](https://www.pixiv.net/artworks/133418146)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/01/02/11/47/133418146_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/00/00/28/133417650_p0_master1200.jpg)<br>**#10** [失われた深淵 セイバー Alter　アルトリア・ペンドラゴン](https://www.pixiv.net/artworks/133417650)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/00/00/28/133417650_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/00/01/02/133417799_p0_master1200.jpg)<br>**#11** [競泳水着シオンさん](https://www.pixiv.net/artworks/133417799)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/00/01/02/133417799_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/00/00/15/133417542_p0_master1200.jpg)<br>**#12** [Vacance](https://www.pixiv.net/artworks/133417542)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/00/00/15/133417542_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/02/00/00/18/133376054_p0_master1200.jpg)<br>**#13** [Acacia](https://www.pixiv.net/artworks/133376054)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/02/00/00/18/133376054_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/16/34/38/133441704_p0_master1200.jpg)<br>**#14** [百合園セイア（水着）](https://www.pixiv.net/artworks/133441704)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/16/34/38/133441704_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/00/31/32/133419385_p0_master1200.jpg)<br>**#15** [🩵志乃と恋1重版御礼🩷](https://www.pixiv.net/artworks/133419385)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/00/31/32/133419385_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/02/29/57/133423099_p0_master1200.jpg)<br>**#16** [江美お姉ちゃん](https://www.pixiv.net/artworks/133423099)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/02/29/57/133423099_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/16/00/04/133440876_p0_master1200.jpg)<br>**#17** [英霊祝装『駒姫』](https://www.pixiv.net/artworks/133440876)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/16/00/04/133440876_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/03/06/31/44/133427028_p0_master1200.jpg)<br>**#18** [At Summer Camp (Year 2)](https://www.pixiv.net/artworks/133427028)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/03/06/31/44/133427028_p0.png) |
