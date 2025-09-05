@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-09-04 22:44:04 CST
+Update: 2025-09-05 10:46:22 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,14 +34,14 @@ Update: 2025-09-04 22:44:04 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-09-04 22:45:38 CST
+Update: 2025-09-05 10:47:37 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/00/00/17/134439659_p0_master1200.jpg)<br>**#1** [【創作】合コンに行ったら女がいなかった話６７](https://www.pixiv.net/artworks/134439659)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/00/00/17/134439659_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/07/30/02/134449126_p0_master1200.jpg)<br>**#2** [終わるのか夏](https://www.pixiv.net/artworks/134449126)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/07/30/02/134449126_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/28/00/04/14/134403764_p0_master1200.jpg)<br>**#3** [お父様](https://www.pixiv.net/artworks/134403764)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/28/00/04/14/134403764_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/00/00/06/134439552_p0_master1200.jpg)<br>**#4** [初海](https://www.pixiv.net/artworks/134439552)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/00/00/06/134439552_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/28/19/32/33/134428012_p0_master1200.jpg)<br>**#5** [ウパとヌオのいる暮らし](https://www.pixiv.net/artworks/134428012)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/28/19/32/33/134428012_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/28/20/02/38/134429377_p0_master1200.jpg)<br>**#6** [最愛人生ランナー](https://www.pixiv.net/artworks/134429377)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/28/20/02/38/134429377_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/03/58/44/134446178_p0_master1200.jpg)<br>**#7** [The Great Farewell](https://www.pixiv.net/artworks/134446178)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/03/58/44/134446178_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/30/11/00/06/134492056_p0_master1200.jpg)<br>**#8** [じいさんばあさん若返る【204】](https://www.pixiv.net/artworks/134492056)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/30/11/00/06/134492056_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/30/00/00/17/134477460_p0_master1200.jpg)<br>**#9** [金銀ビキニ](https://www.pixiv.net/artworks/134477460)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/30/00/00/17/134477460_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/30/00/01/28/134477717_p0_master1200.jpg)<br>**#10** [黑胶碟片miku](https://www.pixiv.net/artworks/134477717)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/30/00/01/28/134477717_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/00/01/55/134439950_p0_master1200.jpg)<br>**#11** [3000年封印されし邪龍ちゃんと友達になりました６話](https://www.pixiv.net/artworks/134439950)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/00/01/55/134439950_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/21/08/28/134469561_p0_master1200.jpg)<br>**#12** [子供銀行で年齢を詐称してるVtuber](https://www.pixiv.net/artworks/134469561)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/21/08/28/134469561_p0.png) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/30/00/01/28/134477717_p0_master1200.jpg)<br>**#10** [黑胶碟片miku](https://www.pixiv.net/artworks/134477717)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/30/00/01/28/134477717_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/09/54/19/134439950_p0_master1200.jpg)<br>**#11** [3000年封印されし邪龍ちゃんと友達になりました６話（冒頭4p）](https://www.pixiv.net/artworks/134439950)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/09/54/19/134439950_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/21/08/28/134469561_p0_master1200.jpg)<br>**#12** [子供銀行で年齢を詐称してるVtuber](https://www.pixiv.net/artworks/134469561)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/21/08/28/134469561_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/07/04/25/134448757_p0_master1200.jpg)<br>**#13** [黒風飛弾](https://www.pixiv.net/artworks/134448757)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/07/04/25/134448757_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/00/04/54/134440158_p0_master1200.jpg)<br>**#14** [中野あずにゃん](https://www.pixiv.net/artworks/134440158)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/00/04/54/134440158_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/28/00/00/05/134403182_p0_master1200.jpg)<br>**#15** [ミク大きな眠り](https://www.pixiv.net/artworks/134403182)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/28/00/00/05/134403182_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/00/40/01/134441567_p0_master1200.jpg)<br>**#16** [【ウマ娘】ウマ娘漫画まとめ169【漫画3枚+イラスト3枚】](https://www.pixiv.net/artworks/134441567)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/00/40/01/134441567_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/30/00/00/13/134477424_p0_master1200.jpg)<br>**#17** [絆の火弦](https://www.pixiv.net/artworks/134477424)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/30/00/00/13/134477424_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/09/47/49/134451385_p0_master1200.jpg)<br>**#18** [流転する運命。](https://www.pixiv.net/artworks/134451385)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/09/47/49/134451385_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/01/50/23/134443668_p0_master1200.jpg)<br>**#19** [メガルチャブル](https://www.pixiv.net/artworks/134443668)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/01/50/23/134443668_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/17/23/14/134460689_p0_master1200.jpg)<br>**#20** [魔が差した](https://www.pixiv.net/artworks/134460689)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/17/23/14/134460689_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/08/29/00/46/46/134441788_p0_master1200.jpg)<br>**#21** [フローヴァ](https://www.pixiv.net/artworks/134441788)<br>[Download](https://i.pixiv.re/img-original/img/2025/08/29/00/46/46/134441788_p0.jpg) |
@@ -61,7 +61,7 @@ Update: 2025-09-04 22:45:38 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-09-04 22:47:06 CST
+Update: 2025-09-05 10:48:42 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
