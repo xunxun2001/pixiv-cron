@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-09-06 22:37:52 CST
+Update: 2025-09-07 10:50:15 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -18,7 +18,7 @@ Update: 2025-09-06 22:37:52 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/09/06/40/134727320_p0_master1200.jpg)<br>**#13** [ついログ73【ぐだエレ】](https://www.pixiv.net/artworks/134727320)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/09/06/40/134727320_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/12/04/05/134730463_p0_master1200.jpg)<br>**#14** [そうかな…そうかも…](https://www.pixiv.net/artworks/134730463)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/12/04/05/134730463_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/04/00/01/17/134681935_p0_master1200.jpg)<br>**#15** [フェチを抑えられない奥さん](https://www.pixiv.net/artworks/134681935)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/04/00/01/17/134681935_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/04/13/57/39/134697778_p0_master1200.jpg)<br>**#16** [Dress Code Error](https://www.pixiv.net/artworks/134697778)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/04/13/57/39/134697778_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/00/00/10/134716928_p0_master1200.jpg)<br>**#17** [人体実験](https://www.pixiv.net/artworks/134716928)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/00/00/10/134716928_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/04/13/59/19/134697803_p0_master1200.jpg)<br>**#18** [シード](https://www.pixiv.net/artworks/134697803)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/04/13/59/19/134697803_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/04/05/12/00/134689025_p0_master1200.jpg)<br>**#19** [咲夜](https://www.pixiv.net/artworks/134689025)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/04/05/12/00/134689025_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/04/20/58/08/134709151_p0_master1200.jpg)<br>**#20** [挑発](https://www.pixiv.net/artworks/134709151)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/04/20/58/08/134709151_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/04/07/30/02/134691024_p0_master1200.jpg)<br>**#21** [死守](https://www.pixiv.net/artworks/134691024)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/04/07/30/02/134691024_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/04/18/17/17/134703435_p0_master1200.jpg)<br>**#22** [ナンパ。](https://www.pixiv.net/artworks/134703435)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/04/18/17/17/134703435_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/09/51/40/134727941_p0_master1200.jpg)<br>**#23** [ReGLOSS- solo album-RIRIKA](https://www.pixiv.net/artworks/134727941)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/09/51/40/134727941_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/06/44/34/134725187_p0_master1200.jpg)<br>**#24** [【新刊サンプル&部数アンケート】親しき仲にも礼儀あり！](https://www.pixiv.net/artworks/134725187)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/06/44/34/134725187_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/07/03/34/08/134703435_p0_master1200.jpg)<br>**#22** [ナンパ。](https://www.pixiv.net/artworks/134703435)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/07/03/34/08/134703435_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/09/51/40/134727941_p0_master1200.jpg)<br>**#23** [ReGLOSS- solo album-RIRIKA](https://www.pixiv.net/artworks/134727941)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/09/51/40/134727941_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/06/44/34/134725187_p0_master1200.jpg)<br>**#24** [【新刊サンプル&部数アンケート】親しき仲にも礼儀あり！](https://www.pixiv.net/artworks/134725187)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/06/44/34/134725187_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/21/27/48/134746350_p0_master1200.jpg)<br>**#25** [開き直って年齢を詐称してるVtuber](https://www.pixiv.net/artworks/134746350)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/21/27/48/134746350_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/04/02/08/01/134686250_p0_master1200.jpg)<br>**#26** [王様カモノハシ](https://www.pixiv.net/artworks/134686250)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/04/02/08/01/134686250_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/07/11/38/134725619_p0_master1200.jpg)<br>**#27** [色違いイーユイ](https://www.pixiv.net/artworks/134725619)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/07/11/38/134725619_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/18/49/51/134739937_p0_master1200.jpg)<br>**#28** [和の色のグラデーションヘッドホンはクールに決まる。](https://www.pixiv.net/artworks/134739937)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/18/49/51/134739937_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/04/00/00/12/134681692_p0_master1200.jpg)<br>**#29** [黎明](https://www.pixiv.net/artworks/134681692)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/04/00/00/12/134681692_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/18/51/59/134740001_p0_master1200.jpg)<br>**#30** [守](https://www.pixiv.net/artworks/134740001)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/18/51/59/134740001_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/19/08/45/134740749_p0_master1200.jpg)<br>**#31** [【限定】忏悔](https://www.pixiv.net/artworks/134740749)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/19/08/45/134740749_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/07/02/08/134725476_p0_master1200.jpg)<br>**#32** [尚書霊](https://www.pixiv.net/artworks/134725476)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/07/02/08/134725476_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/05/00/00/09/134716922_p0_master1200.jpg)<br>**#33** [オルペウス（胸部改修型）](https://www.pixiv.net/artworks/134716922)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/05/00/00/09/134716922_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2025-09-06 22:37:52 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-09-06 22:38:16 CST
+Update: 2025-09-07 10:51:56 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-09-06 22:38:16 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-09-06 22:38:43 CST
+Update: 2025-09-07 10:53:39 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
