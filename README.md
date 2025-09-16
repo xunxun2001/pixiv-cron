@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-09-15 22:41:13 CST
+Update: 2025-09-16 10:43:04 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -25,7 +25,7 @@ Update: 2025-09-15 22:41:13 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/14/00/30/03/135064912_p0_master1200.jpg)<br>**#34** [澪と浅羽](https://www.pixiv.net/artworks/135064912)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/14/00/30/03/135064912_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/11/39/01/135036821_p0_master1200.jpg)<br>**#35** [无题](https://www.pixiv.net/artworks/135036821)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/11/39/01/135036821_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/01/00/01/135024716_p0_master1200.jpg)<br>**#36** [Hakuho](https://www.pixiv.net/artworks/135024716)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/01/00/01/135024716_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/14/20/56/19/135098124_p0_master1200.jpg)<br>**#37** [どっち？🦌](https://www.pixiv.net/artworks/135098124)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/14/20/56/19/135098124_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/12/00/06/135037464_p0_master1200.jpg)<br>**#38** [誕モエ～](https://www.pixiv.net/artworks/135037464)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/12/00/06/135037464_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/22/48/15/135059856_p0_master1200.jpg)<br>**#39** [攻めたお題](https://www.pixiv.net/artworks/135059856)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/22/48/15/135059856_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/05/04/06/135029514_p0_master1200.jpg)<br>**#40** [Wedding](https://www.pixiv.net/artworks/135029514)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/05/04/06/135029514_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/16/55/19/135045481_p0_master1200.jpg)<br>**#41** [コラボ動画。](https://www.pixiv.net/artworks/135045481)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/16/55/19/135045481_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/21/00/21/135054843_p0_master1200.jpg)<br>**#42** [SCPをざっくり紹介338](https://www.pixiv.net/artworks/135054843)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/21/00/21/135054843_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/01/57/34/135026383_p0_master1200.jpg)<br>**#43** [シード](https://www.pixiv.net/artworks/135026383)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/01/57/34/135026383_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/14/07/44/135040849_p0_master1200.jpg)<br>**#44** [満開をまとう君](https://www.pixiv.net/artworks/135040849)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/14/07/44/135040849_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/14/18/00/13/135090530_p0_master1200.jpg)<br>**#45** [引き続き最終回原稿中です！](https://www.pixiv.net/artworks/135090530)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/14/18/00/13/135090530_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/01/57/34/135026383_p0_master1200.jpg)<br>**#43** [シード](https://www.pixiv.net/artworks/135026383)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/01/57/34/135026383_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/16/00/48/18/135040849_p0_master1200.jpg)<br>**#44** [満開をまとう君](https://www.pixiv.net/artworks/135040849)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/16/00/48/18/135040849_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/14/18/00/13/135090530_p0_master1200.jpg)<br>**#45** [引き続き最終回原稿中です！](https://www.pixiv.net/artworks/135090530)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/14/18/00/13/135090530_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/00/01/35/135022344_p0_master1200.jpg)<br>**#46** [【自主製作】月歌の始まり 第369話](https://www.pixiv.net/artworks/135022344)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/00/01/35/135022344_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/20/07/41/135052558_p0_master1200.jpg)<br>**#47** [🩷️💙🖤🤍](https://www.pixiv.net/artworks/135052558)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/20/07/41/135052558_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/14/00/01/51/135063596_p0_master1200.jpg)<br>**#48** [レーシングシオンさん](https://www.pixiv.net/artworks/135063596)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/14/00/01/51/135063596_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/16/44/31/135045192_p0_master1200.jpg)<br>**#49** [【Request】丰川祥子](https://www.pixiv.net/artworks/135045192)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/16/44/31/135045192_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/13/16/15/15/135044408_p0_master1200.jpg)<br>**#50** [いちゃいのとんでけ〜](https://www.pixiv.net/artworks/135044408)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/13/16/15/15/135044408_p0.jpg) |
 |      |
@@ -34,7 +34,7 @@ Update: 2025-09-15 22:41:13 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-09-15 22:41:41 CST
+Update: 2025-09-16 10:43:59 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-09-15 22:41:41 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-09-15 22:42:11 CST
+Update: 2025-09-16 10:45:10 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
