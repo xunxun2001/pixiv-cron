@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-09-22 22:44:30 CST
+Update: 2025-09-23 10:44:33 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -22,7 +22,7 @@ Update: 2025-09-22 22:44:30 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/21/42/32/135333503_p0_master1200.jpg)<br>**#25** [見ないで 理解してたでしょう？](https://www.pixiv.net/artworks/135333503)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/21/42/32/135333503_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/21/00/00/19/135339680_p0_master1200.jpg)<br>**#26** [リバースブルーxリバースエンド](https://www.pixiv.net/artworks/135339680)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/21/00/00/19/135339680_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/21/23/37/135332657_p0_master1200.jpg)<br>**#27** [Tea party](https://www.pixiv.net/artworks/135332657)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/21/23/37/135332657_p0.jpg) |
 | ![](https://s.pximg.net/common/images/limit_unviewable_s.png)<br>**#28** [](https://www.pixiv.net/artworks/135325179)<br>[Download](https://s.pximg.net/common/images/limit_unviewable_s.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/22/51/37/135336643_p0_master1200.jpg)<br>**#29** [ポッピングミおじさん](https://www.pixiv.net/artworks/135336643)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/22/51/37/135336643_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/21/01/02/18/135342793_p0_master1200.jpg)<br>**#30** [Oracle's Legacy](https://www.pixiv.net/artworks/135342793)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/21/01/02/18/135342793_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/21/01/30/07/135343683_p0_master1200.jpg)<br>**#31** [Heritage Rite](https://www.pixiv.net/artworks/135343683)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/21/01/30/07/135343683_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/21/11/28/30/135355654_p0_master1200.jpg)<br>**#32** [もちさんの願い](https://www.pixiv.net/artworks/135355654)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/21/11/28/30/135355654_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/21/00/30/06/135341494_p0_master1200.jpg)<br>**#33** [rep:E.H](https://www.pixiv.net/artworks/135341494)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/21/00/30/06/135341494_p0.png) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/00/24/55/135298653_p0_master1200.jpg)<br>**#34** [ぷぃてぃちゃん❣️😾](https://www.pixiv.net/artworks/135298653)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/00/24/55/135298653_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/00/00/11/135297062_p0_master1200.jpg)<br>**#35** [しすたーてんしちゃん](https://www.pixiv.net/artworks/135297062)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/00/00/11/135297062_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/21/00/16/04/135340840_p0_master1200.jpg)<br>**#36** [メガゲッコウガ](https://www.pixiv.net/artworks/135340840)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/21/00/16/04/135340840_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/00/24/55/135298653_p0_master1200.jpg)<br>**#34** [ぷぃてぃちゃん❣️😾](https://www.pixiv.net/artworks/135298653)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/00/24/55/135298653_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/00/00/11/135297062_p0_master1200.jpg)<br>**#35** [無題](https://www.pixiv.net/artworks/135297062)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/00/00/11/135297062_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/21/00/16/04/135340840_p0_master1200.jpg)<br>**#36** [メガゲッコウガ](https://www.pixiv.net/artworks/135340840)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/21/00/16/04/135340840_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/00/03/24/135297541_p0_master1200.jpg)<br>**#37** [Diving](https://www.pixiv.net/artworks/135297541)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/00/03/24/135297541_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/12/36/00/135314366_p0_master1200.jpg)<br>**#38** [蒼炎ノ銀狐](https://www.pixiv.net/artworks/135314366)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/12/36/00/135314366_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/00/04/08/135297603_p0_master1200.jpg)<br>**#39** [Fateログ 9](https://www.pixiv.net/artworks/135297603)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/00/04/08/135297603_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/01/17/32/135300622_p0_master1200.jpg)<br>**#40** [IRIS OUT](https://www.pixiv.net/artworks/135300622)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/01/17/32/135300622_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/18/36/02/135325346_p0_master1200.jpg)<br>**#41** [ほんとうはね](https://www.pixiv.net/artworks/135325346)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/18/36/02/135325346_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/22/44/24/135336330_p0_master1200.jpg)<br>**#42** [天使に逢えたから](https://www.pixiv.net/artworks/135336330)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/22/44/24/135336330_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/00/20/17/135298442_p0_master1200.jpg)<br>**#43** [夏の最後の日](https://www.pixiv.net/artworks/135298442)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/00/20/17/135298442_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/00/10/42/135298019_p0_master1200.jpg)<br>**#44** [Rosmontis](https://www.pixiv.net/artworks/135298019)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/00/10/42/135298019_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/09/20/16/52/25/135321504_p0_master1200.jpg)<br>**#45** [スマブラの凄さを知った](https://www.pixiv.net/artworks/135321504)<br>[Download](https://i.pixiv.re/img-original/img/2025/09/20/16/52/25/135321504_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2025-09-22 22:44:30 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-09-22 22:45:06 CST
+Update: 2025-09-23 10:45:55 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-09-22 22:45:06 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-09-22 22:45:40 CST
+Update: 2025-09-23 10:47:35 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
