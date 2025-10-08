@@ -7,14 +7,14 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-10-07 22:46:01 CST
+Update: 2025-10-08 10:44:49 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/00/00/15/135881572_p0_master1200.jpg)<br>**#1** [初心にかえって初期衣装を描いてみた①](https://www.pixiv.net/artworks/135881572)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/00/00/15/135881572_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/00/00/16/135926656_p0_master1200.jpg)<br>**#2** [傀儡遊戯](https://www.pixiv.net/artworks/135926656)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/00/00/16/135926656_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/20/30/02/135954929_p0_master1200.jpg)<br>**#3** [月見団子](https://www.pixiv.net/artworks/135954929)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/20/30/02/135954929_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/17/06/54/135907693_p0_master1200.jpg)<br>**#4** [安全第一](https://www.pixiv.net/artworks/135907693)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/17/06/54/135907693_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/03/23/59/135888483_p0_master1200.jpg)<br>**#5** [デンレゼ　彼氏全肯定彼女編（ただのバカップル）](https://www.pixiv.net/artworks/135888483)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/03/23/59/135888483_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/15/46/13/135945870_p0_master1200.jpg)<br>**#6** [ｆ二周目クリア記念](https://www.pixiv.net/artworks/135945870)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/15/46/13/135945870_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/01/35/52/135885209_p0_master1200.jpg)<br>**#7** [Night of Crows](https://www.pixiv.net/artworks/135885209)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/01/35/52/135885209_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/21/07/25/135918054_p0_master1200.jpg)<br>**#8** [しわしわな年齢を詐称してるVtuber](https://www.pixiv.net/artworks/135918054)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/21/07/25/135918054_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/12/58/04/135900519_p0_master1200.jpg)<br>**#9** [五周年贺图！](https://www.pixiv.net/artworks/135900519)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/12/58/04/135900519_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/00/15/59/135882787_p0_master1200.jpg)<br>**#10** [Bon appétit!](https://www.pixiv.net/artworks/135882787)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/00/15/59/135882787_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/00/09/17/135927458_p0_master1200.jpg)<br>**#11** [幼なじみに告白する話](https://www.pixiv.net/artworks/135927458)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/00/09/17/135927458_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/00/00/29/135881665_p0_master1200.jpg)<br>**#12** [⚙傀儡ちゃん(サンドローネ) 練習](https://www.pixiv.net/artworks/135881665)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/00/00/29/135881665_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/00/15/59/135882787_p0_master1200.jpg)<br>**#10** [Bon appétit!](https://www.pixiv.net/artworks/135882787)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/00/15/59/135882787_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/00/09/17/135927458_p0_master1200.jpg)<br>**#11** [幼なじみに告白する話](https://www.pixiv.net/artworks/135927458)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/00/09/17/135927458_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/08/09/54/50/135881665_p0_master1200.jpg)<br>**#12** [⚙傀儡ちゃん(サンドローネ) 練習](https://www.pixiv.net/artworks/135881665)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/08/09/54/50/135881665_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/11/08/21/135940482_p0_master1200.jpg)<br>**#13** [【新・ニンゲンの飼い方2】　第３話『プレゼント』](https://www.pixiv.net/artworks/135940482)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/11/08/21/135940482_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/20/57/21/135956042_p0_master1200.jpg)<br>**#14** [他人がゲームしてるのを見ると年齢を詐称してるVtuber](https://www.pixiv.net/artworks/135956042)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/20/57/21/135956042_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/20/49/08/135916895_p0_master1200.jpg)<br>**#15** [ビームくん詰め③](https://www.pixiv.net/artworks/135916895)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/20/49/08/135916895_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/18/34/12/135911035_p0_master1200.jpg)<br>**#16** [デンレゼまとめ](https://www.pixiv.net/artworks/135911035)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/18/34/12/135911035_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/00/08/28/135882380_p0_master1200.jpg)<br>**#17** [メイド 猫メル！](https://www.pixiv.net/artworks/135882380)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/00/08/28/135882380_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/00/01/47/135881893_p0_master1200.jpg)<br>**#18** [奥さんの祖父母とたわむれる旦那さん【カラー版】](https://www.pixiv.net/artworks/135881893)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/00/01/47/135881893_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/16/22/47/135946710_p0_master1200.jpg)<br>**#19** [ギャレさん家族](https://www.pixiv.net/artworks/135946710)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/16/22/47/135946710_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/12/19/14/135941990_p0_master1200.jpg)<br>**#20** [ゼッタイユルサナイカマキリ〜職場編〜](https://www.pixiv.net/artworks/135941990)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/12/19/14/135941990_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/05/01/44/59/135886206_p0_master1200.jpg)<br>**#21** [ツイスターゲームの悪魔と戦うアキと天使の悪魔](https://www.pixiv.net/artworks/135886206)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/05/01/44/59/135886206_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2025-10-07 22:46:01 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-10-07 22:47:37 CST
+Update: 2025-10-08 10:45:34 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-10-07 22:47:37 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-10-07 22:49:17 CST
+Update: 2025-10-08 10:46:17 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
