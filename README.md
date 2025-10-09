@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-10-08 22:46:06 CST
+Update: 2025-10-09 10:47:25 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -24,7 +24,7 @@ Update: 2025-10-08 22:46:06 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/07/18/59/26/135988790_p0_master1200.jpg)<br>**#31** [藤堂くんとチョコアイスと競馬大勝利人斬りマン](https://www.pixiv.net/artworks/135988790)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/07/18/59/26/135988790_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/00/18/12/135927867_p0_master1200.jpg)<br>**#32** [【自主製作】月歌の始まり 第372話](https://www.pixiv.net/artworks/135927867)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/00/18/12/135927867_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/00/03/03/135927088_p0_master1200.jpg)<br>**#33** [145回がい子4コマ「インタビューを受けることもある」](https://www.pixiv.net/artworks/135927088)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/00/03/03/135927088_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/15/44/23/135945836_p0_master1200.jpg)<br>**#34** [「あ……またホクロ増えてる…。」](https://www.pixiv.net/artworks/135945836)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/15/44/23/135945836_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/00/05/16/135927248_p0_master1200.jpg)<br>**#35** [奥さんと会話のクセが強すぎるお父さん【カラー版】](https://www.pixiv.net/artworks/135927248)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/00/05/16/135927248_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/18/32/33/135950449_p0_master1200.jpg)<br>**#36** [勝利の斧](https://www.pixiv.net/artworks/135950449)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/18/32/33/135950449_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/16/30/03/135946884_p0_master1200.jpg)<br>**#37** [EmmaLlama様live2Dイラスト](https://www.pixiv.net/artworks/135946884)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/16/30/03/135946884_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/13/20/17/135943161_p0_master1200.jpg)<br>**#38** [中秋节快乐🥮](https://www.pixiv.net/artworks/135943161)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/13/20/17/135943161_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/10/42/27/135940078_p0_master1200.jpg)<br>**#39** [デンレゼ　謎の男さんの受難編](https://www.pixiv.net/artworks/135940078)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/10/42/27/135940078_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/08/04/15/07/135987382_p0_master1200.jpg)<br>**#40** [松本透はゴリラ妻とプリティ娘とツンデレ息子を愛しすぎてる⑰](https://www.pixiv.net/artworks/135987382)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/08/04/15/07/135987382_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/17/43/38/135948689_p0_master1200.jpg)<br>**#41** [もう触れないキミ80](https://www.pixiv.net/artworks/135948689)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/17/43/38/135948689_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/07/01/03/59/135967666_p0_master1200.jpg)<br>**#42** [さとこい](https://www.pixiv.net/artworks/135967666)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/07/01/03/59/135967666_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/09/07/09/40/135987382_p0_master1200.jpg)<br>**#40** [松本透はゴリラ妻とプリティ娘とツンデレ息子を愛しすぎてる⑰](https://www.pixiv.net/artworks/135987382)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/09/07/09/40/135987382_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/17/43/38/135948689_p0_master1200.jpg)<br>**#41** [もう触れないキミ80](https://www.pixiv.net/artworks/135948689)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/17/43/38/135948689_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/07/01/03/59/135967666_p0_master1200.jpg)<br>**#42** [さとこい](https://www.pixiv.net/artworks/135967666)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/07/01/03/59/135967666_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/21/11/06/135956861_p0_master1200.jpg)<br>**#43** [眼鏡を外すと](https://www.pixiv.net/artworks/135956861)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/21/11/06/135956861_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/00/00/14/135926641_p0_master1200.jpg)<br>**#44** [新刊『Decoration』　表紙イラスト](https://www.pixiv.net/artworks/135926641)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/00/00/14/135926641_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/13/38/17/135943525_p0_master1200.jpg)<br>**#45** [黎創](https://www.pixiv.net/artworks/135943525)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/13/38/17/135943525_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/14/14/21/135944224_p0_master1200.jpg)<br>**#46** [無題](https://www.pixiv.net/artworks/135944224)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/14/14/21/135944224_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/12/52/44/135942648_p0_master1200.jpg)<br>**#47** [16 タリン](https://www.pixiv.net/artworks/135942648)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/12/52/44/135942648_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/18/55/13/135951100_p0_master1200.jpg)<br>**#48** [キミたち会社と違いすぎない！？](https://www.pixiv.net/artworks/135951100)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/18/55/13/135951100_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/06/04/23/48/135933867_p0_master1200.jpg)<br>**#49** [独占](https://www.pixiv.net/artworks/135933867)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/06/04/23/48/135933867_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/07/20/18/56/135991804_p0_master1200.jpg)<br>**#50** [💜cm🖤](https://www.pixiv.net/artworks/135991804)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/07/20/18/56/135991804_p0.png) |
@@ -34,7 +34,7 @@ Update: 2025-10-08 22:46:06 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-10-08 22:47:19 CST
+Update: 2025-10-09 10:48:11 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-10-08 22:47:19 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-10-08 22:48:50 CST
+Update: 2025-10-09 10:49:03 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
