@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-10-13 22:44:51 CST
+Update: 2025-10-14 10:47:47 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -23,7 +23,7 @@ Update: 2025-10-13 22:44:51 CST
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/10/57/23/136128774_p0_master1200.jpg)<br>**#28** [学校を知らなさすぎて母国流の回答になっちゃうレゼ](https://www.pixiv.net/artworks/136128774)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/10/57/23/136128774_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/15/04/37/136135348_p0_master1200.jpg)<br>**#29** [とらわれの人とメリーさん。](https://www.pixiv.net/artworks/136135348)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/15/04/37/136135348_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/17/54/53/136140212_p0_master1200.jpg)<br>**#30** [幸せな足元🐈🐾](https://www.pixiv.net/artworks/136140212)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/17/54/53/136140212_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/13/23/52/136132609_p0_master1200.jpg)<br>**#31** [カンザリン](https://www.pixiv.net/artworks/136132609)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/13/23/52/136132609_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/12/08/38/136130766_p0_master1200.jpg)<br>**#32** [无题](https://www.pixiv.net/artworks/136130766)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/12/08/38/136130766_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/21/00/31/136147945_p0_master1200.jpg)<br>**#33** [SCPをざっくり紹介340](https://www.pixiv.net/artworks/136147945)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/21/00/31/136147945_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/12/01/06/48/136159613_p0_master1200.jpg)<br>**#34** [Pastel Flower](https://www.pixiv.net/artworks/136159613)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/12/01/06/48/136159613_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/12/00/00/15/136156397_p0_master1200.jpg)<br>**#35** [サンドローネちゃんかわいい](https://www.pixiv.net/artworks/136156397)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/12/00/00/15/136156397_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/19/37/48/136144390_p0_master1200.jpg)<br>**#36** [蜘蛛の恩返し](https://www.pixiv.net/artworks/136144390)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/19/37/48/136144390_p0.jpg) |
-| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/12/40/10/136131563_p0_master1200.jpg)<br>**#37** [rio](https://www.pixiv.net/artworks/136131563)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/12/40/10/136131563_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/00/07/26/136115092_p0_master1200.jpg)<br>**#38** [【自主製作】月歌の始まり 第373話](https://www.pixiv.net/artworks/136115092)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/00/07/26/136115092_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/12/09/58/16/136169908_p0_master1200.jpg)<br>**#39** [【商業BL】単行本+書店特典のお知らせ](https://www.pixiv.net/artworks/136169908)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/12/09/58/16/136169908_p0.jpg) |
+| ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/12/40/10/136131563_p0_master1200.jpg)<br>**#37** [rio](https://www.pixiv.net/artworks/136131563)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/12/40/10/136131563_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/00/07/26/136115092_p0_master1200.jpg)<br>**#38** [【自主製作】月歌の始まり 第373話](https://www.pixiv.net/artworks/136115092)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/00/07/26/136115092_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/12/09/58/16/136169908_p0_master1200.jpg)<br>**#39** [【商業BL】単行本+書店特典のお知らせ【10/14追記】](https://www.pixiv.net/artworks/136169908)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/12/09/58/16/136169908_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/01/07/28/136117553_p0_master1200.jpg)<br>**#40** [テトの日遅刻してごめんね可愛いよ](https://www.pixiv.net/artworks/136117553)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/01/07/28/136117553_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/15/34/35/136136093_p0_master1200.jpg)<br>**#41** [ちょっと休憩](https://www.pixiv.net/artworks/136136093)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/15/34/35/136136093_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/21/55/12/136150496_p0_master1200.jpg)<br>**#42** [プロセカ5周年！](https://www.pixiv.net/artworks/136150496)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/21/55/12/136150496_p0.png) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/00/00/11/136114298_p0_master1200.jpg)<br>**#43** [白鳳](https://www.pixiv.net/artworks/136114298)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/00/00/11/136114298_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/17/13/58/136138962_p0_master1200.jpg)<br>**#44** [ハロウィンリッチ](https://www.pixiv.net/artworks/136138962)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/17/13/58/136138962_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/12/15/32/31/136174747_p0_master1200.jpg)<br>**#45** [呜呜，老师，外面好可怕](https://www.pixiv.net/artworks/136174747)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/12/15/32/31/136174747_p0.jpg) |
 | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/12/12/25/13/136173925_p0_master1200.jpg)<br>**#46** [跳舞](https://www.pixiv.net/artworks/136173925)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/12/12/25/13/136173925_p0.jpg) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/11/00/05/35/136114969_p0_master1200.jpg)<br>**#47** [「あの、着替えたいんだけど…」](https://www.pixiv.net/artworks/136114969)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/11/00/05/35/136114969_p0.png) | ![](https://i.pixiv.re/c/240x480/img-master/img/2025/10/12/04/21/39/136164099_p0_master1200.jpg)<br>**#48** [メガマフォクシー](https://www.pixiv.net/artworks/136164099)<br>[Download](https://i.pixiv.re/img-original/img/2025/10/12/04/21/39/136164099_p0.jpg) |
@@ -34,7 +34,7 @@ Update: 2025-10-13 22:44:51 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-10-13 22:46:12 CST
+Update: 2025-10-14 10:48:39 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-10-13 22:46:12 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-10-13 22:47:25 CST
+Update: 2025-10-14 10:49:39 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
