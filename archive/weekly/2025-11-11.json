@@ -1,75 +1,6 @@
 [
     {
         "rank": 1,
-        "title": "水鏡と月の歌",
-        "user_name": "torino",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/00/17/137067746_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137067746",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/00/00/17/137067746_p0.jpg",
-        "tags": [
-            "原神",
-            "GenshinImpact",
-            "コロンビーナ(原神)",
-            "columbina",
-            "足",
-            "瞑目"
-        ],
-        "rating_count": 10382,
-        "view_count": 68372
-    },
-    {
-        "rank": 2,
-        "title": "画中画中画中画中画",
-        "user_name": "kieed",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/00/14/137067732_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137067732",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/00/00/14/137067732_p0.jpg",
-        "tags": [
-            "重音テト",
-            "VOCALOID5000users入り",
-            "画中画"
-        ],
-        "rating_count": 6097,
-        "view_count": 27346
-    },
-    {
-        "rank": 3,
-        "title": "ハロウィン大遅刻🎃",
-        "user_name": "しろまんた",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/21/04/49/137095402_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137095402",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/21/04/49/137095402_p0.jpg",
-        "tags": [
-            "先輩がうざい後輩の話",
-            "五十嵐双葉",
-            "デンジャラス・ビースト",
-            "ハロウィン",
-            "ももぷく",
-            "その胸は平坦であった",
-            "涙目",
-            "平たい胸族",
-            "ケモミミ"
-        ],
-        "rating_count": 4387,
-        "view_count": 57665
-    },
-    {
-        "rank": 4,
-        "title": "綺麗に描いてね",
-        "user_name": "ふに・無9",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/23/29/35/137066374_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137066374",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/23/29/35/137066374_p0.png",
-        "tags": [
-            "オリジナル",
-            "女の子",
-            "メイド"
-        ],
-        "rating_count": 3280,
-        "view_count": 43252
-    },
-    {
-        "rank": 5,
         "title": "【void】Cyrene",
         "user_name": "void_0",
         "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/00/06/137103134_p0_master1200.jpg",
@@ -87,11 +18,46 @@
             "ソックス足裏",
             "pixivHalloweenEffect"
         ],
-        "rating_count": 6238,
-        "view_count": 35186
+        "rating_count": 6459,
+        "view_count": 36799
     },
     {
-        "rank": 6,
+        "rank": 2,
+        "title": "光の帳（とばり）",
+        "user_name": "スコッティ",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/00/14/137103193_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137103193",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/00/14/137103193_p0.jpg",
+        "tags": [
+            "キュレネ",
+            "崩壊スターレイル",
+            "ピンク髪",
+            "崩壊:スターレイル10000users入り",
+            "紫目"
+        ],
+        "rating_count": 8555,
+        "view_count": 48357
+    },
+    {
+        "rank": 3,
+        "title": "水鏡と月の歌",
+        "user_name": "torino",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/00/17/137067746_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137067746",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/00/00/17/137067746_p0.jpg",
+        "tags": [
+            "原神",
+            "GenshinImpact",
+            "コロンビーナ(原神)",
+            "columbina",
+            "足",
+            "瞑目"
+        ],
+        "rating_count": 10567,
+        "view_count": 70170
+    },
+    {
+        "rank": 4,
         "title": "ZA",
         "user_name": "ニナハチ(にじゅ)",
         "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/08/11/29/137113207_p0_master1200.jpg",
@@ -101,13 +67,501 @@
             "LEGENDSZ-A",
             "ポケモン人間絵",
             "ポケモン1000users入り",
-            "集合絵"
+            "集合絵",
+            "ポケモン3000users入り"
         ],
-        "rating_count": 2281,
-        "view_count": 38891
+        "rating_count": 2420,
+        "view_count": 40044
+    },
+    {
+        "rank": 5,
+        "title": "画中画中画中画中画",
+        "user_name": "kieed",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/00/14/137067732_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137067732",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/00/00/14/137067732_p0.jpg",
+        "tags": [
+            "重音テト",
+            "VOCALOID5000users入り",
+            "画中画"
+        ],
+        "rating_count": 6282,
+        "view_count": 28283
+    },
+    {
+        "rank": 6,
+        "title": "Cyrene",
+        "user_name": "jwijaya_art",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/13/35/24/137118896_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137118896",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/13/35/24/137118896_p0.jpg",
+        "tags": [
+            "HonkaiStarRail",
+            "Cyrene",
+            "崩壊スターレイル",
+            "キュレネ",
+            "ピンク髪",
+            "編み上げサンダル",
+            "ミュリオン",
+            "崩壊:スターレイル5000users入り",
+            "幼児化"
+        ],
+        "rating_count": 3261,
+        "view_count": 13319
     },
     {
         "rank": 7,
+        "title": "₴ɇɇ ¥ȫȕ ₮ȫ₥ȫⱤⱤȫẃ ▓▒░",
+        "user_name": "Datsha",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/15/40/59/137121204_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137121204",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/15/40/59/137121204_p0.png",
+        "tags": [
+            "崩壊スターレイル",
+            "キュレネ",
+            "HonkaiStarRail",
+            "Cyrene",
+            "女の子",
+            "少女",
+            "崩壊:スターレイル5000users入り"
+        ],
+        "rating_count": 4607,
+        "view_count": 18945
+    },
+    {
+        "rank": 8,
+        "title": "ZAログ",
+        "user_name": "海棠深月",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/21/27/50/137131893_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137131893",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/21/27/50/137131893_p0.png",
+        "tags": [
+            "キョウヤ(トレーナー)",
+            "タウニー(トレーナー)",
+            "キョウタウ",
+            "LEGENDSZ-A",
+            "セイカ(トレーナー)",
+            "チコリータ",
+            "カイリュー",
+            "漫画",
+            "ポケモン1000users入り"
+        ],
+        "rating_count": 1438,
+        "view_count": 33508
+    },
+    {
+        "rank": 9,
+        "title": "一夜限りのユキズリマン　その57",
+        "user_name": "ハミタ",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/48/02/137105441_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137105441",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/48/02/137105441_p0.png",
+        "tags": [
+            "漫画",
+            "衝撃のラスト",
+            "結婚は人生の墓場",
+            "お墓で眠るほど金ないけど",
+            "ヒモ男",
+            "失職",
+            "ヒモマン",
+            "ユキズリマン",
+            "一夜限りのユキズリマン"
+        ],
+        "rating_count": 2423,
+        "view_count": 63440
+    },
+    {
+        "rank": 10,
+        "title": "初心にかえって初期衣装を描いてみた③",
+        "user_name": "Sa-fu",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/00/12/137103178_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137103178",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/00/12/137103178_p0.jpg",
+        "tags": [
+            "MEIKO",
+            "VOCALOID",
+            "プロセカ",
+            "ビビバスメイコ",
+            "投稿時間に愛しかない",
+            "懐かしき想い出",
+            "投稿時間に愛を感じる"
+        ],
+        "rating_count": 1326,
+        "view_count": 10233
+    },
+    {
+        "rank": 11,
+        "title": "ハロウィン大遅刻🎃",
+        "user_name": "しろまんた",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/21/04/49/137095402_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137095402",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/21/04/49/137095402_p0.jpg",
+        "tags": [
+            "先輩がうざい後輩の話",
+            "五十嵐双葉",
+            "デンジャラス・ビースト",
+            "ハロウィン",
+            "ももぷく",
+            "その胸は平坦であった",
+            "涙目",
+            "平たい胸族",
+            "ケモミミ"
+        ],
+        "rating_count": 4424,
+        "view_count": 58666
+    },
+    {
+        "rank": 12,
+        "title": "カズサ",
+        "user_name": "ほうき星",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/00/15/137067735_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137067735",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/00/00/15/137067735_p0.jpg",
+        "tags": [
+            "ブルーアーカイブ",
+            "杏山カズサ",
+            "女の子",
+            "ブルアカ",
+            "水着",
+            "裸足",
+            "猫耳",
+            "セーラー服",
+            "インナーカラー"
+        ],
+        "rating_count": 7438,
+        "view_count": 32973
+    },
+    {
+        "rank": 13,
+        "title": "サキュバスランジェリー",
+        "user_name": "そらなにいろ",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/05/15/29/137110262_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137110262",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/05/15/29/137110262_p0.png",
+        "tags": [
+            "エルフ",
+            "エロフ",
+            "スケベボディ",
+            "ランジェリー",
+            "サキュバス",
+            "ぱんつ",
+            "爆乳",
+            "翼",
+            "パールショーツ",
+            "白ニーソックス"
+        ],
+        "rating_count": 6206,
+        "view_count": 33684
+    },
+    {
+        "rank": 14,
+        "title": "キュレネ",
+        "user_name": "ｼｪﾘｰ",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/17/51/47/137159281_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137159281",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/17/51/47/137159281_p0.png",
+        "tags": [
+            "崩壊スターレイル",
+            "HonkaiStarRail",
+            "キュレネ",
+            "Cyrene",
+            "崩壊:スターレイル1000users入り"
+        ],
+        "rating_count": 1409,
+        "view_count": 7861
+    },
+    {
+        "rank": 15,
+        "title": "空気が「読める」中堅社員と眠い一日の話",
+        "user_name": "鳥原習",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/18/14/00/137160181_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137160181",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/18/14/00/137160181_p0.jpg",
+        "tags": [
+            "漫画",
+            "創作男女",
+            "社会人",
+            "はよ結婚しろ",
+            "寝ろ",
+            "ぴこっ",
+            "式場が来い"
+        ],
+        "rating_count": 5148,
+        "view_count": 83560
+    },
+    {
+        "rank": 16,
+        "title": "デンレゼ",
+        "user_name": "シュラ",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/10/02/55/137114969_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137114969",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/10/02/55/137114969_p0.png",
+        "tags": [
+            "デンレゼ",
+            "チェンソーマン",
+            "レゼ",
+            "デンジ",
+            "デンジ(チェンソーマン)",
+            "denji",
+            "reze",
+            "chainsawman",
+            "チェンソーマン1000users入り",
+            "ハートサイン"
+        ],
+        "rating_count": 912,
+        "view_count": 6934
+    },
+    {
+        "rank": 17,
+        "title": "🤍🤍",
+        "user_name": "エコ",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/16/24/15/137121031_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137121031",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/16/24/15/137121031_p0.jpg",
+        "tags": [
+            "ブルーアーカイブ",
+            "ブルアカ",
+            "BlueArchive",
+            "竜華キサキ",
+            "ロリ",
+            "貧乳",
+            "キサキ",
+            "ふともも",
+            "花嫁",
+            "おへそ"
+        ],
+        "rating_count": 3079,
+        "view_count": 17154
+    },
+    {
+        "rank": 18,
+        "title": "ラーメンの後は年齢を詐称してるVtuber",
+        "user_name": "なまず",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/21/41/15/137132462_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137132462",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/21/41/15/137132462_p0.png",
+        "tags": [
+            "漫画",
+            "バーチャルYouTuber",
+            "VTuber",
+            "星空バアド",
+            "アヘ顔",
+            "ヤニカス",
+            "血糖値スパイク",
+            "煙草盆",
+            "華美な⋯文化⋯?",
+            "有識者が解説してる裏でラリってんじゃねえぞ"
+        ],
+        "rating_count": 1718,
+        "view_count": 59206
+    },
+    {
+        "rank": 19,
+        "title": "昔涟",
+        "user_name": "鱼鹅BABA",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/16/48/25/137122498_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137122498",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/16/48/25/137122498_p0.jpg",
+        "tags": [
+            "女孩子",
+            "崩坏星穹铁道",
+            "崩坏星穹铁道昔涟",
+            "キュレネ",
+            "崩壊:スターレイル1000users入り"
+        ],
+        "rating_count": 1660,
+        "view_count": 6537
+    },
+    {
+        "rank": 20,
+        "title": "タイトートイズ初音ミクコラボ",
+        "user_name": "寺田てら",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/12/29/04/137152766_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137152766",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/12/29/04/137152766_p0.png",
+        "tags": [
+            "初音ミク",
+            "hatsunemiku",
+            "miku",
+            "タイトー",
+            "ミク",
+            "VOCALOID"
+        ],
+        "rating_count": 1574,
+        "view_count": 11140
+    },
+    {
+        "rank": 21,
+        "title": "キュレネ🌌",
+        "user_name": "BINA",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/12/31/47/137117805_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137117805",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/12/31/47/137117805_p0.jpg",
+        "tags": [
+            "HonkaiStaiRail",
+            "Cyrene",
+            "キュレネ",
+            "崩壊:スターレイル1000users入り"
+        ],
+        "rating_count": 1031,
+        "view_count": 3699
+    },
+    {
+        "rank": 22,
+        "title": "メガペンドラーモチーフの騎士（ポケモン）",
+        "user_name": "SukeP（すけぴー）",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/21/36/22/137132287_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137132287",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/21/36/22/137132287_p0.jpg",
+        "tags": [
+            "ペンドラー",
+            "メガペンドラー",
+            "騎士",
+            "ポケモン",
+            "ポケットモンスター",
+            "厚塗り",
+            "LEGENDSZ-A",
+            "メガシンカ"
+        ],
+        "rating_count": 616,
+        "view_count": 6329
+    },
+    {
+        "rank": 23,
+        "title": "フライングベスト2",
+        "user_name": "寺田てら",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/12/35/58/137152926_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137152926",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/12/35/58/137152926_p0.jpg",
+        "tags": [
+            "ナナヲアカリ",
+            "フライングベスト",
+            "nanawoakari",
+            "ガーリーポップ☆"
+        ],
+        "rating_count": 1357,
+        "view_count": 12875
+    },
+    {
+        "rank": 24,
+        "title": "ユカハル主従関係",
+        "user_name": "高梨りんご＠fanbox",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/20/12/52/137093370_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137093370",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/20/12/52/137093370_p0.jpg",
+        "tags": [
+            "ポケモンレジェンズZA",
+            "ユカリ(トレーナー)",
+            "ハルジオ(トレーナー)",
+            "ユカハル",
+            "ポケモン1000users入り"
+        ],
+        "rating_count": 1293,
+        "view_count": 18400
+    },
+    {
+        "rank": 25,
+        "title": "キュレネ",
+        "user_name": "knmoca",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/13/52/17/137119170_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137119170",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/13/52/17/137119170_p0.png",
+        "tags": [
+            "キュレネ",
+            "HonkaiStarRail",
+            "崩壊スターレイル",
+            "崩坏星穹铁道",
+            "昔涟",
+            "cyrene",
+            "ミュリオン",
+            "崩壊:スターレイル1000users入り"
+        ],
+        "rating_count": 882,
+        "view_count": 4211
+    },
+    {
+        "rank": 26,
+        "title": "アニラン2026ノミネート推薦のお願い",
+        "user_name": "立葵",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/20/43/48/137129964_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137129964",
+        "big_url": "https://www.pixiv.net/artworks/137129964",
+        "tags": [
+            "うごイラ",
+            "善良な不良高校生の日常",
+            "オリジナル"
+        ],
+        "rating_count": 1180,
+        "view_count": 27174
+    },
+    {
+        "rank": 27,
+        "title": "【ZZZ】 - イドリー -🦑",
+        "user_name": "Kiriko",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/10/32/10/137115462_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137115462",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/10/32/10/137115462_p0.png",
+        "tags": [
+            "ZenlessZoneZero",
+            "ゼンレスゾーンゼロ",
+            "绝区零",
+            "イドリー",
+            "魅惑のふともも",
+            "巨乳",
+            "パンツ",
+            "魅惑の谷間",
+            "おっぱい",
+            "ゼンゼロ"
+        ],
+        "rating_count": 3755,
+        "view_count": 24844
+    },
+    {
+        "rank": 28,
+        "title": "本気出すとやり込みがすごい奥さん【カラー版】",
+        "user_name": "ぎばちゃん",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/00/06/137103132_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137103132",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/00/06/137103132_p0.jpg",
+        "tags": [
+            "漫画",
+            "オリジナル",
+            "創作",
+            "お茶目な奥さんとの日常茶番事",
+            "茶山沙穂",
+            "奥さん",
+            "目がハート",
+            "事後",
+            "ゆうべはおたのしみまくりましたね",
+            "延長戦確定"
+        ],
+        "rating_count": 2225,
+        "view_count": 64819
+    },
+    {
+        "rank": 29,
+        "title": "王女カシオペア",
+        "user_name": "上山道郎",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/17/42/52/137123823_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137123823",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/17/42/52/137123823_p0.jpg",
+        "tags": [
+            "秘密戦隊ゴレンジャー",
+            "令嬢化",
+            "スーパー戦隊",
+            "勝てる気がしない",
+            "ひとりゴレンジャーハリケーン",
+            "もうこいつ一人でいいんじゃないかな",
+            "つよつよ令嬢シリーズ",
+            "カシオペア",
+            "原点にして頂点",
+            "負ける気がしない"
+        ],
+        "rating_count": 894,
+        "view_count": 15975
+    },
+    {
+        "rank": 30,
         "title": "海賊令嬢グレイス・ゴーカイヌ",
         "user_name": "上山道郎",
         "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/15/34/30/137085386_p0_master1200.jpg",
@@ -125,33 +579,52 @@
             "ゴーカイイエロー",
             "グレイス・オーヴェルヌ"
         ],
-        "rating_count": 1481,
-        "view_count": 20378
+        "rating_count": 1499,
+        "view_count": 20746
     },
     {
-        "rank": 8,
-        "title": "【FGO】長尾景虎とぐだ子の漫画",
-        "user_name": "BirdHatter",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/16/21/55/137049127_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137049127",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/16/21/55/137049127_p0.png",
+        "rank": 31,
+        "title": "能力を得る虎。",
+        "user_name": "カコミスル",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/01/36/137103471_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137103471",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/01/36/137103471_p0.jpg",
         "tags": [
-            "漫画",
-            "FGO",
-            "長尾景虎(Fate)",
-            "上杉謙信(Fate)",
-            "ぐだ子",
-            "溶岩水泳部",
-            "Fate/GO1000users入り",
-            "玉藻の前(Fate)",
-            "百合",
-            "虎ぐだ♀"
+            "虎ぶる",
+            "李徴",
+            "袁傪",
+            "キラークイーン",
+            "シアーハートアタック",
+            "バイツァ・ダスト",
+            "ダイヤモンドは砕けない",
+            "吉良吉影",
+            "虎吉影",
+            "山月記"
         ],
-        "rating_count": 4248,
-        "view_count": 89059
+        "rating_count": 1548,
+        "view_count": 45365
     },
     {
-        "rank": 9,
+        "rank": 32,
+        "title": "桜羽エマ",
+        "user_name": "令时焥夏KiriAINa",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/01/07/03/137106063_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137106063",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/01/07/03/137106063_p0.jpg",
+        "tags": [
+            "魔法少女ノ魔女裁判",
+            "樱羽艾玛",
+            "桜羽エマ",
+            "女の子",
+            "魔法少女",
+            "可爱",
+            "AIart"
+        ],
+        "rating_count": 856,
+        "view_count": 4652
+    },
+    {
+        "rank": 33,
         "title": "個人メモ：フカンの胴体",
         "user_name": "漫画素材工房",
         "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/06/00/18/137075590_p0_master1200.jpg",
@@ -166,571 +639,89 @@
             "胴体",
             "フカン"
         ],
-        "rating_count": 1172,
-        "view_count": 15790
-    },
-    {
-        "rank": 10,
-        "title": "🫶",
-        "user_name": "谜溶MELT",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/20/54/00/137094784_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137094784",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/20/54/00/137094784_p0.jpg",
-        "tags": [
-            "HonkaiStarRail",
-            "スターレイル",
-            "崩坏星穹铁道",
-            "March7th",
-            "Stelle",
-            "danheng",
-            "三月なのか",
-            "崩壊:スターレイル1000users入り"
-        ],
-        "rating_count": 1083,
-        "view_count": 4825
-    },
-    {
-        "rank": 11,
-        "title": "Cyrene",
-        "user_name": "jwijaya_art",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/13/35/24/137118896_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137118896",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/13/35/24/137118896_p0.jpg",
-        "tags": [
-            "HonkaiStarRail",
-            "Cyrene",
-            "崩壊スターレイル",
-            "キュレネ",
-            "ピンク髪",
-            "編み上げサンダル",
-            "ミュリオン",
-            "崩壊:スターレイル5000users入り",
-            "幼児化"
-        ],
-        "rating_count": 3029,
-        "view_count": 12281
-    },
-    {
-        "rank": 12,
-        "title": "ヤバ企画に巻き込まれる年齢を詐称してるVtuberと友人Vtub",
-        "user_name": "なまず",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/21/22/59/137096116_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137096116",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/21/22/59/137096116_p0.png",
-        "tags": [
-            "漫画",
-            "バーチャルYouTuber",
-            "VTuber",
-            "星空バアド",
-            "語来ジュウシ",
-            "逆縞サバ",
-            "不寝ギロウ",
-            "夢の国チキンレース参加者",
-            "こんなクソ企画で心理戦みてえな事してんじゃねえ",
-            "ﾊﾊｯ"
-        ],
-        "rating_count": 1972,
-        "view_count": 65757
-    },
-    {
-        "rank": 13,
-        "title": "デンレゼ　彼女と魔女の再会編",
-        "user_name": "KO-KI",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/16/53/44/137050001_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137050001",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/16/53/44/137050001_p0.jpg",
-        "tags": [
-            "チェンソーマン",
-            "レゼ",
-            "ナユタ(チェンソーマン)",
-            "デンレゼ",
-            "チェンソーマン1000users入り"
-        ],
-        "rating_count": 1785,
-        "view_count": 36401
-    },
-    {
-        "rank": 14,
-        "title": "カズサ",
-        "user_name": "ほうき星",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/00/15/137067735_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137067735",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/00/00/15/137067735_p0.jpg",
-        "tags": [
-            "ブルーアーカイブ",
-            "杏山カズサ",
-            "女の子",
-            "ブルアカ",
-            "水着",
-            "裸足",
-            "猫耳",
-            "セーラー服",
-            "インナーカラー"
-        ],
-        "rating_count": 7266,
-        "view_count": 31923
-    },
-    {
-        "rank": 15,
-        "title": "光の帳（とばり）",
-        "user_name": "スコッティ",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/00/14/137103193_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137103193",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/00/14/137103193_p0.jpg",
-        "tags": [
-            "キュレネ",
-            "崩壊スターレイル",
-            "ピンク髪",
-            "崩壊:スターレイル10000users入り",
-            "紫目"
-        ],
-        "rating_count": 8339,
-        "view_count": 46892
-    },
-    {
-        "rank": 16,
-        "title": "バ美肉おじいちゃんとローションカーリング",
-        "user_name": "魔木",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/00/01/17/137026134_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137026134",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/00/01/17/137026134_p0.jpg",
-        "tags": [
-            "漫画",
-            "オリジナル",
-            "オリジナル漫画",
-            "創作漫画",
-            "コメディ",
-            "VTuber",
-            "またしても何も知らない天使さん",
-            "バラエティで鳴っちゃ行けない音した!"
-        ],
-        "rating_count": 3566,
-        "view_count": 80890
-    },
-    {
-        "rank": 17,
-        "title": "04[Early]",
-        "user_name": "neco",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/00/30/04/137027610_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137027610",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/00/30/04/137027610_p0.png",
-        "tags": [
-            "重兵装型女子高生",
-            "ツインテ",
-            "白发",
-            "パーカー",
-            "スニーカー",
-            "白タイツ"
-        ],
-        "rating_count": 2496,
-        "view_count": 21521
-    },
-    {
-        "rank": 18,
-        "title": "🌙サンドローネ、ほっぺにクルムカケついてる。",
-        "user_name": "🍓北原朋萌｡",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/17/08/17/137025934_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137025934",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/17/08/17/137025934_p0.jpg",
-        "tags": [
-            "原神",
-            "GenshinImpact",
-            "傀儡(原神)",
-            "Sandrone",
-            "Columbina",
-            "コロンビーナ(原神)",
-            "サンドローネ(原神)",
-            "桑多涅",
-            "哥伦比娅",
-            "百合"
-        ],
-        "rating_count": 2222,
-        "view_count": 21531
-    },
-    {
-        "rank": 19,
-        "title": "天使みたい",
-        "user_name": "ふに・無9",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/23/42/51/137066927_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137066927",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/23/42/51/137066927_p0.png",
-        "tags": [
-            "オリジナル",
-            "女の子",
-            "天使",
-            "悪魔"
-        ],
-        "rating_count": 1744,
-        "view_count": 32934
-    },
-    {
-        "rank": 20,
-        "title": "初心にかえって初期衣装を描いてみた③",
-        "user_name": "Sa-fu",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/00/12/137103178_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137103178",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/00/12/137103178_p0.jpg",
-        "tags": [
-            "MEIKO",
-            "VOCALOID",
-            "プロセカ",
-            "ビビバスメイコ",
-            "投稿時間に愛しかない",
-            "懐かしき想い出",
-            "投稿時間に愛を感じる"
-        ],
-        "rating_count": 1301,
-        "view_count": 9905
-    },
-    {
-        "rank": 21,
-        "title": "Dangerously",
-        "user_name": "Domi",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/00/09/137067706_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137067706",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/00/00/09/137067706_p0.jpg",
-        "tags": [
-            "女の子",
-            "ゼンレスゾーンゼロ",
-            "ゼンゼロ",
-            "エレン・ジョー",
-            "リン(ゼンゼロ)",
-            "ゼンゼロ1000users入り"
-        ],
-        "rating_count": 2015,
-        "view_count": 9879
-    },
-    {
-        "rank": 22,
-        "title": "ZAログ",
-        "user_name": "海棠深月",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/21/27/50/137131893_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137131893",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/21/27/50/137131893_p0.png",
-        "tags": [
-            "キョウヤ(トレーナー)",
-            "タウニー(トレーナー)",
-            "キョウタウ",
-            "LEGENDSZ-A",
-            "セイカ(トレーナー)",
-            "チコリータ",
-            "カイリュー",
-            "漫画",
-            "ポケモン1000users入り"
-        ],
-        "rating_count": 1227,
-        "view_count": 29642
-    },
-    {
-        "rank": 23,
-        "title": "【ブラ猫⑧部 猫ブラザーズ編】 4話目",
-        "user_name": "清水めりぃ@単行本販売中",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/19/00/21/137090598_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137090598",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/19/00/21/137090598_p0.jpg",
-        "tags": [
-            "漫画",
-            "オリジナル",
-            "猫漫画",
-            "創作",
-            "4コマ",
-            "ブラック企業の社員が猫になって人生が変わった話",
-            "猫になったモフ田くんの漫画",
-            "web",
-            "頭のいいアホ",
-            "黒歴史"
-        ],
-        "rating_count": 2582,
-        "view_count": 40761
-    },
-    {
-        "rank": 24,
-        "title": "船長のタイツ",
-        "user_name": "TEDDY",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/19/21/55/137091383_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137091383",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/19/21/55/137091383_p0.jpg",
-        "tags": [
-            "マリンのお宝",
-            "マリン船長",
-            "タイツ",
-            "宝鐘マリン",
-            "バーチャルYouTuber",
-            "伏臥",
-            "お楽しみボディー",
-            "赤髪",
-            "笑顔",
-            "ミーム"
-        ],
-        "rating_count": 6354,
-        "view_count": 45295
-    },
-    {
-        "rank": 25,
-        "title": "🩵🪼",
-        "user_name": "こーやふ",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/00/00/20/137025905_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137025905",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/00/00/20/137025905_p0.jpg",
-        "tags": [
-            "オリジナル",
-            "女の子",
-            "バルーンワンピ",
-            "セーラーワンピ",
-            "バルーンスカート",
-            "水面",
-            "オリジナル1000users入り",
-            "白发",
-            "寝そべり",
-            "腿"
-        ],
-        "rating_count": 2389,
-        "view_count": 13324
-    },
-    {
-        "rank": 26,
-        "title": "「かっ、奏～！ こっち向いてぇ～！❤️」",
-        "user_name": "かしみんと",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/00/12/49/137026894_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137026894",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/00/12/49/137026894_p0.png",
-        "tags": [
-            "プロジェクトセカイ",
-            "プロセカ",
-            "25時、ナイトコードで。",
-            "東雲絵名",
-            "暁山瑞希",
-            "宵崎奏",
-            "ほどけぬ明日に手を伸ばして"
-        ],
-        "rating_count": 1239,
-        "view_count": 13415
-    },
-    {
-        "rank": 27,
-        "title": "ユカハル主従関係",
-        "user_name": "高梨りんご＠fanbox",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/20/12/52/137093370_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137093370",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/20/12/52/137093370_p0.jpg",
-        "tags": [
-            "ポケモンレジェンズZA",
-            "ユカリ(トレーナー)",
-            "ハルジオ(トレーナー)",
-            "ユカハル",
-            "ポケモン1000users入り"
-        ],
-        "rating_count": 1218,
-        "view_count": 17592
-    },
-    {
-        "rank": 28,
-        "title": "メガジジーロン　騎乗装備",
-        "user_name": "SukeP（すけぴー）",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/21/47/31/137093280_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137093280",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/21/47/31/137093280_p0.jpg",
-        "tags": [
-            "ポケモン",
-            "ポケットモンスター",
-            "厚塗り",
-            "ジジーロン",
-            "LEGENDSZ-A",
-            "メガシンカ",
-            "騎乗装備",
-            "メガジジーロン"
-        ],
-        "rating_count": 539,
-        "view_count": 5819
-    },
-    {
-        "rank": 29,
-        "title": "妄想エンジェル儀玄",
-        "user_name": "Xipa",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/17/05/26/137087148_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137087148",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/17/05/26/137087148_p0.png",
-        "tags": [
-            "妄想エンジェル",
-            "ゼンレスゾーンゼロ",
-            "绝区零",
-            "儀玄",
-            "仪玄",
-            "コスプレ",
-            "ChinatsuRemiel",
-            "うわキツ",
-            "おっぱい",
-            "ゼンゼロ5000users入り"
-        ],
-        "rating_count": 3953,
-        "view_count": 33372
-    },
-    {
-        "rank": 30,
-        "title": "無題",
-        "user_name": "エト",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/06/20/39/137075885_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137075885",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/06/20/39/137075885_p0.png",
-        "tags": [
-            "ムク(トレーナー)",
-            "シロー(トレーナー)",
-            "LEGENDSZ-A",
-            "ジャスティス兄妹",
-            "ポケモンZA"
-        ],
-        "rating_count": 500,
-        "view_count": 6796
-    },
-    {
-        "rank": 31,
-        "title": "Yidhari",
-        "user_name": "Hood",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/19/23/19/137091430_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137091430",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/19/23/19/137091430_p0.png",
-        "tags": [
-            "ゼンゼロ",
-            "ゼンレスゾーンゼロ",
-            "zenlesszonezero",
-            "绝区零",
-            "zzzero",
-            "젠레스",
-            "イドリー",
-            "お風呂",
-            "ゼンゼロ5000users入り",
-            "触手"
-        ],
-        "rating_count": 5090,
-        "view_count": 28968
-    },
-    {
-        "rank": 32,
-        "title": "やさしいぞ！ムクちゃん",
-        "user_name": "muimui",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/02/18/29/137072550_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137072550",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/02/18/29/137072550_p0.jpg",
-        "tags": [
-            "シャンデラ",
-            "ギルガルド",
-            "ムク(トレーナー)",
-            "キョウヤ(トレーナー)",
-            "LEGENDSZ-A",
-            "ポケモン",
-            "ムクのシャンデラ"
-        ],
-        "rating_count": 499,
-        "view_count": 12250
-    },
-    {
-        "rank": 33,
-        "title": "無題",
-        "user_name": "三谷",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/02/10/39/137072390_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137072390",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/02/10/39/137072390_p0.png",
-        "tags": [
-            "創作",
-            "ショタリョナ",
-            "ショタ"
-        ],
-        "rating_count": 578,
-        "view_count": 10659
+        "rating_count": 1198,
+        "view_count": 16133
     },
     {
         "rank": 34,
-        "title": "アニポケ出演記念",
-        "user_name": "もなこ@既刊通販",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/09/20/42/137078622_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137078622",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/09/20/42/137078622_p0.png",
+        "title": "個人メモ：指先は回転しない",
+        "user_name": "漫画素材工房",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/06/00/07/137145884_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137145884",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/06/00/07/137145884_p0.jpg",
         "tags": [
-            "カキタロ",
-            "カキツバタ(トレーナー)",
-            "タロ(トレーナー)",
-            "今夜はブギー・バック",
-            "リコ(メガボルテージ)",
-            "ロイ(メガボルテージ)"
+            "漫画素材工房",
+            "描き方",
+            "人体",
+            "身体",
+            "手",
+            "指"
         ],
-        "rating_count": 512,
-        "view_count": 13472
+        "rating_count": 1011,
+        "view_count": 14999
     },
     {
         "rank": 35,
-        "title": "Anya and Becky's late halloween!",
-        "user_name": "Eroneko-senpai",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/01/45/19/137071750_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137071750",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/01/45/19/137071750_p0.jpg",
+        "title": "天国",
+        "user_name": "イマッゾ",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/21/31/01/137132058_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137132058",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/21/31/01/137132058_p0.png",
         "tags": [
-            "ベッキー・ブラックベル",
-            "SPY×FAMILY",
-            "アーニャ・フォージャー",
-            "ロリ",
-            "貧乳",
-            "メスガキ"
+            "漫画",
+            "ポケモン",
+            "ポケットモンスター",
+            "pokemon",
+            "ワウ(イマッゾ)",
+            "メチャウ・パム",
+            "天国",
+            "イマソ刈りメタモン",
+            "ポケモン1000users入り",
+            "天国へ行く方法"
         ],
-        "rating_count": 489,
-        "view_count": 3209
+        "rating_count": 1686,
+        "view_count": 57354
     },
     {
         "rank": 36,
-        "title": "チェンソーマン(デンレゼ)まとめ",
-        "user_name": "もの",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/42/23/137069814_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137069814",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/00/42/23/137069814_p0.jpg",
+        "title": "猫汰つな 3周年記念グッズ",
+        "user_name": "寺田てら",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/12/35/03/137152909_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137152909",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/12/35/03/137152909_p0.png",
         "tags": [
-            "チェンソーマン",
-            "チェンソーマンレゼ篇",
-            "デンジ",
-            "レゼ",
-            "デンレゼ",
-            "マキマ",
-            "パワー(チェンソーマン)",
-            "天使の悪魔",
-            "チェンソーマン500users入り"
+            "猫汰つな",
+            "ぶいすぽっ!",
+            "vtuber",
+            "バーチャルYouTuber1000users入り"
         ],
-        "rating_count": 475,
-        "view_count": 7924
+        "rating_count": 1308,
+        "view_count": 11731
     },
     {
         "rank": 37,
-        "title": "華奢なリップ",
-        "user_name": "KANOSE",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/20/59/42/137094981_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137094981",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/20/59/42/137094981_p0.jpg",
+        "title": "「愛」",
+        "user_name": "MeioN",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/20/39/38/137165161_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137165161",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/20/39/38/137165161_p0.jpg",
         "tags": [
-            "ChroNoiR",
-            "葛葉",
-            "叶",
-            "バーチャルYouTuber",
-            "仕事絵",
-            "バーチャルYouTuber500users入り"
+            "崩壊スターレイル",
+            "キュレネ",
+            "HonkaiStarRail",
+            "着衣巨乳",
+            "魅惑のふともも",
+            "ピンク髪",
+            "目がハート",
+            "崩壊:スターレイル10000users入り",
+            "手でハート",
+            "爆乳"
         ],
-        "rating_count": 651,
-        "view_count": 6606
+        "rating_count": 9409,
+        "view_count": 55310
     },
     {
         "rank": 38,
-        "title": "白狐と黒狼　その1",
-        "user_name": "小雨大豆 月歌の始まり連載中",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/16/47/137068750_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137068750",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/00/16/47/137068750_p0.jpg",
-        "tags": [
-            "漫画",
-            "擬人化",
-            "ケモガール",
-            "言葉足らず"
-        ],
-        "rating_count": 1163,
-        "view_count": 23339
-    },
-    {
-        "rank": 39,
         "title": "お互い煽りまくる夫婦【カラー版】",
         "user_name": "ぎばちゃん",
         "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/00/00/10/137067709_p0_master1200.jpg",
@@ -748,221 +739,233 @@
             "このあと滅茶苦茶連戦7回戦(意味深)執行された",
             "事前"
         ],
-        "rating_count": 2610,
-        "view_count": 67524
+        "rating_count": 2634,
+        "view_count": 68724
+    },
+    {
+        "rank": 39,
+        "title": "新要素をを予想するマリベル。",
+        "user_name": "カコミスル",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/11/44/04/137116675_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137116675",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/11/44/04/137116675_p0.jpg",
+        "tags": [
+            "マリベル",
+            "Reimagined",
+            "アルス",
+            "ドラゴンクエストⅦ",
+            "転職",
+            "ダーマ神殿",
+            "アルマリ",
+            "お嫁さん",
+            "乙女"
+        ],
+        "rating_count": 1215,
+        "view_count": 38458
     },
     {
         "rank": 40,
-        "title": "我慢しなくていいのよ？お兄ちゃん…♡",
-        "user_name": "ゆんみ",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/22/41/57/137099661_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137099661",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/22/41/57/137099661_p0.jpg",
+        "title": "とおこさんの2025誕生日グッズ",
+        "user_name": "寺田てら",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/12/30/58/137152821_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137152821",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/12/30/58/137152821_p0.jpg",
         "tags": [
-            "女の子",
-            "スク水",
-            "いもおか",
-            "膝立ち",
-            "黑髮",
-            "腿",
-            "紫目"
+            "VTuber",
+            "とおこ",
+            "URS-No.1005"
         ],
-        "rating_count": 3069,
-        "view_count": 13691
+        "rating_count": 1102,
+        "view_count": 7751
     },
     {
         "rank": 41,
-        "title": "キュレネ",
-        "user_name": "トマナツ",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/12/50/34/137118170_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137118170",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/12/50/34/137118170_p0.jpg",
+        "title": "＜服の質感＞とりあえず使える服の質感の出しかた",
+        "user_name": "3Qの衣装箱　@服の描き方",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/00/32/137103281_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137103281",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/00/32/137103281_p0.png",
         "tags": [
-            "スターレイル",
-            "キュレネ",
-            "PR",
-            "崩壊スターレイル",
-            "HonkaiStarRail",
-            "崩壊:スターレイル1000users入り"
+            "講座",
+            "描き方",
+            "オリジナル",
+            "メイキング",
+            "初心者",
+            "女の子"
         ],
-        "rating_count": 840,
-        "view_count": 3842
+        "rating_count": 476,
+        "view_count": 5418
     },
     {
         "rank": 42,
-        "title": "少女",
-        "user_name": "孤葬南風",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/06/41/10/137035439_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137035439",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/06/41/10/137035439_p0.jpg",
+        "title": "小特动皮",
+        "user_name": "霖晴Phosphorus",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/11/30/36/137116460_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137116460",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/11/30/36/137116460_p0.png",
         "tags": [
-            "コロンビーナ(原神)",
-            "Columbina",
-            "原神",
-            "哥伦比娅",
-            "少女",
+            "アークナイツ",
+            "明日方舟",
+            "Arknights",
+            "イラスト",
             "女の子",
-            "バレエ",
-            "ピンク",
-            "Genshin",
-            "GenshinImpact"
+            "特蕾西娅",
+            "テレジア(アークナイツ)",
+            "Theresa"
         ],
-        "rating_count": 1366,
-        "view_count": 6794
+        "rating_count": 833,
+        "view_count": 3722
     },
     {
         "rank": 43,
-        "title": "葛藤",
-        "user_name": "外販梅干しミッチェル",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/03/53/57/137032856_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137032856",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/03/53/57/137032856_p0.png",
+        "title": "こんにちは、世界",
+        "user_name": "久蒼穹",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/00/00/15/137138283_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137138283",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/00/00/15/137138283_p0.png",
         "tags": [
-            "チェンソーマン",
-            "レゼ",
-            "チェンソーマン1000users入り"
+            "崩壊スターレイル",
+            "HonkaiStarRail",
+            "キュレネ",
+            "Cyrene",
+            "崩壊:スターレイル1000users入り"
         ],
-        "rating_count": 917,
-        "view_count": 15040
+        "rating_count": 2740,
+        "view_count": 12515
     },
     {
         "rank": 44,
-        "title": "読み間違え",
-        "user_name": "ふに・無9",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/23/32/20/137066535_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137066535",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/23/32/20/137066535_p0.png",
+        "title": "白凤",
+        "user_name": "凶手叽",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/47/36/137105424_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137105424",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/47/36/137105424_p0.png",
         "tags": [
-            "オリジナル",
             "女の子",
-            "制服",
-            "高校生",
-            "あるあるネタ",
-            "授業中"
+            "魅惑の谷間",
+            "碧蓝航线",
+            "アズールレーン",
+            "白鳳",
+            "白髪",
+            "AzurLane",
+            "白鳳(アズールレーン)",
+            "デタッチドスリーブ",
+            "アズールレーン1000users入り"
         ],
-        "rating_count": 1997,
-        "view_count": 36134
+        "rating_count": 2012,
+        "view_count": 9011
     },
     {
         "rank": 45,
-        "title": "なつやすみガール",
-        "user_name": "天三月",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/19/35/40/137091900_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137091900",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/19/35/40/137091900_p0.png",
+        "title": "68",
+        "user_name": "モー助",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/12/38/00/137117935_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137117935",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/12/38/00/137117935_p0.jpg",
         "tags": [
-            "オリジナル",
-            "おへそ",
-            "かわいいおへそ",
-            "ショートカット",
-            "ビキニ",
-            "背中",
-            "あくび",
-            "半ズボン",
-            "茶髪",
-            "スレンダー"
+            "漫画",
+            "犬"
         ],
-        "rating_count": 3844,
-        "view_count": 29915
+        "rating_count": 1151,
+        "view_count": 19837
     },
     {
         "rank": 46,
-        "title": "兼業",
-        "user_name": "イマッゾ",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/23/09/02/137065481_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137065481",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/23/09/02/137065481_p0.png",
+        "title": "🤍",
+        "user_name": "エコ",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/11/30/28/137116455_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137116455",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/11/30/28/137116455_p0.jpg",
         "tags": [
-            "漫画",
-            "ポケモン",
-            "ポケットモンスター",
-            "pokemon",
-            "ワウ(イマッゾ)",
-            "若者の人間離れ",
-            "イマソ刈りメタモン",
-            "メチャウ・パム"
+            "ブルーアーカイブ",
+            "ブルアカ",
+            "BlueArchive",
+            "キサキ(ブルーアーカイブ)",
+            "ロリ",
+            "貧乳",
+            "ふともも",
+            "白タイツ",
+            "花嫁",
+            "おへそ"
         ],
-        "rating_count": 1924,
-        "view_count": 62130
+        "rating_count": 2829,
+        "view_count": 15293
     },
     {
         "rank": 47,
-        "title": "セクシーサンキュー✨",
-        "user_name": "ナラなきり",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/18/12/34/137052792_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137052792",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/18/12/34/137052792_p0.png",
+        "title": "ヒスイ地方のジャスティス",
+        "user_name": "ひざ掛け奉行@活動再開",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/10/33/06/137115478_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137115478",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/10/33/06/137115478_p0.jpg",
         "tags": [
-            "サンドローネ(原神)",
-            "コロンビーナ(原神)",
-            "ラウマ",
-            "フリンズ",
-            "レリル",
-            "空(原神)",
-            "五大罪人",
-            "セクシーサンキュー",
-            "ガイアを探せ"
+            "ポケモンZA",
+            "LEGENDSZ-A",
+            "LEGENDSアルセウス",
+            "キョウヤ(トレーナー)",
+            "ムク(トレーナー)",
+            "シロー(トレーナー)",
+            "テル(ポケモン)",
+            "スーパーヒスイ人",
+            "ポケモン100users入り",
+            "ポケモン500users入り"
         ],
-        "rating_count": 1412,
-        "view_count": 23693
+        "rating_count": 700,
+        "view_count": 24527
     },
     {
         "rank": 48,
-        "title": "アリさんマークの年齢を詐称してるVtuber",
-        "user_name": "なまず",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/21/19/42/137060326_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137060326",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/21/19/42/137060326_p0.png",
+        "title": "間違ったサイズ",
+        "user_name": "bongftah",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/12/09/43/137117346_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137117346",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/12/09/43/137117346_p0.png",
         "tags": [
-            "漫画",
-            "バーチャルYouTuber",
-            "VTuber",
-            "星空バアド",
-            "巨大化",
-            "視聴者の責任じゃねーか!",
-            "ジジババの配信なんだから古い方に寄せろ",
-            "デカすぎんだろ",
-            "アリさんマークの引越社(1971)",
-            "三十余年生きて来て一番の衝撃"
+            "VOCALOID",
+            "初音ミク",
+            "重音テト",
+            "衣装交換",
+            "ぱっつんぱっつん",
+            "ぽっこりお腹",
+            "テトさんじゅういっさい",
+            "亞北ネル",
+            "とりぷるばか"
         ],
-        "rating_count": 1754,
-        "view_count": 59227
+        "rating_count": 1430,
+        "view_count": 15614
     },
     {
         "rank": 49,
-        "title": "スチール",
-        "user_name": "bongftah",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/03/12/00/01/137042206_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137042206",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/03/12/00/01/137042206_p0.png",
+        "title": "LAFARY",
+        "user_name": "寺田てら",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/06/12/24/45/137152697_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137152697",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/06/12/24/45/137152697_p0.png",
         "tags": [
-            "パンティ&ストッキングwithガーターベルト",
-            "このすば",
-            "この素晴らしい世界に祝福を!",
-            "佐藤和真",
-            "アナーキー・ストッキング",
-            "アナーキー・パンティ",
-            "クロスオーバー",
-            "ガーターベルト(パンスト)",
-            "《窃盗(スティール)》"
+            "LAFARY",
+            "アパレル"
         ],
-        "rating_count": 1224,
-        "view_count": 16871
+        "rating_count": 1001,
+        "view_count": 6989
     },
     {
         "rank": 50,
-        "title": "怪獣になりたい",
-        "user_name": "アマネレイ",
-        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/04/18/04/36/137088900_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137088900",
-        "big_url": "https://i.pixiv.re/img-original/img/2025/11/04/18/04/36/137088900_p0.jpg",
+        "title": "カラセイ（主人公ムショ帰り説）",
+        "user_name": "更紗紅白",
+        "small_url": "https://i.pixiv.re/c/240x480/img-master/img/2025/11/05/00/01/26/137103443_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137103443",
+        "big_url": "https://i.pixiv.re/img-original/img/2025/11/05/00/01/26/137103443_p0.png",
         "tags": [
-            "初音ミク",
-            "ボカロ",
-            "VOCALOID",
-            "怪獣になりたい"
+            "LEGENDSZ-A",
+            "カラセイ",
+            "カラスバ(トレーナー)",
+            "セイカ(トレーナー)",
+            "ポケモンZA",
+            "これはいいカラセイ",
+            "ポケモン1000users入り",
+            "Z-A主人公ムショ帰り説"
         ],
-        "rating_count": 381,
-        "view_count": 4080
+        "rating_count": 2523,
+        "view_count": 60693
     }
 ]
