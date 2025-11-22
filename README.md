@@ -7,12 +7,12 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-11-22 17:41:00 CST
+Update: 2025-11-22 22:41:56 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/00/00/21/137665427_p0_master1200.jpg)<br>**#1** [七宝花鳥美人図花瓶](https://www.pixiv.net/artworks/137665427)<br>[Download](https://www.pixiv.net/artworks/137665427) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/13/59/14/137681268_p0_master1200.jpg)<br>**#2** [望月けい個展](https://www.pixiv.net/artworks/137681268)<br>[Download](https://www.pixiv.net/artworks/137681268) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/12/00/38/137713959_p0_master1200.jpg)<br>**#3** [【会社と私生活】眠れないや](https://www.pixiv.net/artworks/137713959)<br>[Download](https://www.pixiv.net/artworks/137713959) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/07/30/04/137709547_p0_master1200.jpg)<br>**#4** [料理人パワー](https://www.pixiv.net/artworks/137709547)<br>[Download](https://www.pixiv.net/artworks/137709547) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/18/00/29/137686378_p0_master1200.jpg)<br>**#5** [空気が「読める」新入社員と彼コートの話](https://www.pixiv.net/artworks/137686378)<br>[Download](https://www.pixiv.net/artworks/137686378) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/18/37/55/137716003_p0_master1200.jpg)<br>**#6** [うさぎの本](https://www.pixiv.net/artworks/137716003)<br>[Download](https://www.pixiv.net/artworks/137716003) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/07/30/04/137709547_p0_master1200.jpg)<br>**#4** [料理人パワー](https://www.pixiv.net/artworks/137709547)<br>[Download](https://www.pixiv.net/artworks/137709547) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/18/00/29/137686378_p0_master1200.jpg)<br>**#5** [空気が「読める」新入社員と彼コートの話](https://www.pixiv.net/artworks/137686378)<br>[Download](https://www.pixiv.net/artworks/137686378) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/18/40/32/137716003_p0_master1200.jpg)<br>**#6** [うさぎの本](https://www.pixiv.net/artworks/137716003)<br>[Download](https://www.pixiv.net/artworks/137716003) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/00/00/17/137700478_p0_master1200.jpg)<br>**#7** [Stay with me](https://www.pixiv.net/artworks/137700478)<br>[Download](https://www.pixiv.net/artworks/137700478) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/21/10/19/137693245_p0_master1200.jpg)<br>**#8** [富士から年齢を詐称してるVtuber](https://www.pixiv.net/artworks/137693245)<br>[Download](https://www.pixiv.net/artworks/137693245) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/17/16/17/137720142_p0_master1200.jpg)<br>**#9** [イーブイの日（2025）](https://www.pixiv.net/artworks/137720142)<br>[Download](https://www.pixiv.net/artworks/137720142) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/01/38/26/137669211_p0_master1200.jpg)<br>**#10** [メガゼラオラ](https://www.pixiv.net/artworks/137669211)<br>[Download](https://www.pixiv.net/artworks/137669211) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/13/21/29/137680661_p0_master1200.jpg)<br>**#11** [千咲](https://www.pixiv.net/artworks/137680661)<br>[Download](https://www.pixiv.net/artworks/137680661) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/00/00/09/137700421_p0_master1200.jpg)<br>**#12** [夏の死を祝って](https://www.pixiv.net/artworks/137700421)<br>[Download](https://www.pixiv.net/artworks/137700421) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/23/07/46/137698239_p0_master1200.jpg)<br>**#13** [一夜限りのユキズリマン　その63](https://www.pixiv.net/artworks/137698239)<br>[Download](https://www.pixiv.net/artworks/137698239) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/18/03/16/137686601_p0_master1200.jpg)<br>**#14** [リーグ挑戦3-11](https://www.pixiv.net/artworks/137686601)<br>[Download](https://www.pixiv.net/artworks/137686601) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/06/00/18/137673101_p0_master1200.jpg)<br>**#15** [個人メモ：曲げた膝を描く際の注意点](https://www.pixiv.net/artworks/137673101)<br>[Download](https://www.pixiv.net/artworks/137673101) |
@@ -34,7 +34,7 @@ Update: 2025-11-22 17:41:00 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-11-22 17:43:13 CST
+Update: 2025-11-22 22:44:28 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-11-22 17:43:13 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-11-22 17:45:32 CST
+Update: 2025-11-22 22:47:31 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
