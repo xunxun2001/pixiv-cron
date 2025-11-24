@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-11-24 17:48:56 CST
+Update: 2025-11-24 22:50:15 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -20,7 +20,7 @@ Update: 2025-11-24 17:48:56 CST
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/00/00/21/137775938_p0_master1200.jpg)<br>**#19** [【void/RE：era】君を照らす太陽になりたい](https://www.pixiv.net/artworks/137775938)<br>[Download](https://www.pixiv.net/artworks/137775938) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/18/13/57/137761321_p0_master1200.jpg)<br>**#20** [緊急出動！御令嬢](https://www.pixiv.net/artworks/137761321)<br>[Download](https://www.pixiv.net/artworks/137761321) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/00/05/11/137736527_p0_master1200.jpg)<br>**#21** [絵✒️💎🪣🐟](https://www.pixiv.net/artworks/137736527)<br>[Download](https://www.pixiv.net/artworks/137736527) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/00/00/30/137736045_p0_master1200.jpg)<br>**#22** [🎀🐱🐱🎀](https://www.pixiv.net/artworks/137736045)<br>[Download](https://www.pixiv.net/artworks/137736045) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/18/18/15/137803397_p0_master1200.jpg)<br>**#23** [たぬきまとめ](https://www.pixiv.net/artworks/137803397)<br>[Download](https://www.pixiv.net/artworks/137803397) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/23/14/53/137773768_p0_master1200.jpg)<br>**#24** [絵✒️🐟🐟🎗️](https://www.pixiv.net/artworks/137773768)<br>[Download](https://www.pixiv.net/artworks/137773768) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/11/55/29/137756841_p0_master1200.jpg)<br>**#25** [アフタヌーンティー](https://www.pixiv.net/artworks/137756841)<br>[Download](https://www.pixiv.net/artworks/137756841) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/19/58/52/137765004_p0_master1200.jpg)<br>**#26** [❤](https://www.pixiv.net/artworks/137765004)<br>[Download](https://www.pixiv.net/artworks/137765004) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/00/00/16/137775897_p0_master1200.jpg)<br>**#27** [キサキ](https://www.pixiv.net/artworks/137775897)<br>[Download](https://www.pixiv.net/artworks/137775897) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/17/04/19/137758954_p0_master1200.jpg)<br>**#28** [恋する(おとめ)の作り方11巻・11/25発売！](https://www.pixiv.net/artworks/137758954)<br>[Download](https://www.pixiv.net/artworks/137758954) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/00/03/41/137776415_p0_master1200.jpg)<br>**#29** [🩵『志乃と恋』重版御礼🩷](https://www.pixiv.net/artworks/137776415)<br>[Download](https://www.pixiv.net/artworks/137776415) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/00/00/05/137735887_p0_master1200.jpg)<br>**#30** [見た目ほどは悪くない 1](https://www.pixiv.net/artworks/137735887)<br>[Download](https://www.pixiv.net/artworks/137735887) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/17/04/19/137758954_p0_master1200.jpg)<br>**#28** [恋する(おとめ)の作り方11巻・11/25発売！](https://www.pixiv.net/artworks/137758954)<br>[Download](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/17/04/19/137758954_p0.jpg) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/00/03/41/137776415_p0_master1200.jpg)<br>**#29** [🩵『志乃と恋』重版御礼🩷](https://www.pixiv.net/artworks/137776415)<br>[Download](https://www.pixiv.net/artworks/137776415) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/00/00/05/137735887_p0_master1200.jpg)<br>**#30** [見た目ほどは悪くない 1](https://www.pixiv.net/artworks/137735887)<br>[Download](https://www.pixiv.net/artworks/137735887) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/00/43/58/137778297_p0_master1200.jpg)<br>**#31** [ガイの発言で迷宮に迷い込むデウロとピュールの漫画](https://www.pixiv.net/artworks/137778297)<br>[Download](https://www.pixiv.net/artworks/137778297) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/21/43/11/137812068_p0_master1200.jpg)<br>**#32** [語呂を合わせながら年齢を詐称してるVtuber](https://www.pixiv.net/artworks/137812068)<br>[Download](https://www.pixiv.net/artworks/137812068) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/16/58/11/137800358_p0_master1200.jpg)<br>**#33** [某ペンション犯人の事件簿。](https://www.pixiv.net/artworks/137800358)<br>[Download](https://www.pixiv.net/artworks/137800358) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/00/15/07/137737030_p0_master1200.jpg)<br>**#34** [朝食は2F](https://www.pixiv.net/artworks/137737030)<br>[Download](https://www.pixiv.net/artworks/137737030) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/23/08/31/137773510_p0_master1200.jpg)<br>**#35** [デンレゼログ](https://www.pixiv.net/artworks/137773510)<br>[Download](https://www.pixiv.net/artworks/137773510) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/04/31/55/137783582_p0_master1200.jpg)<br>**#36** [冷蔵庫に卵どう入れてる？](https://www.pixiv.net/artworks/137783582)<br>[Download](https://www.pixiv.net/artworks/137783582) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/00/00/18/137775911_p0_master1200.jpg)<br>**#37** [Komo Dokueki](https://www.pixiv.net/artworks/137775911)<br>[Download](https://www.pixiv.net/artworks/137775911) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/00/00/23/137736002_p0_master1200.jpg)<br>**#38** [SWAV初画集『ReSURGUM』](https://www.pixiv.net/artworks/137736002)<br>[Download](https://www.pixiv.net/artworks/137736002) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/11/55/24/137791655_p0_master1200.jpg)<br>**#39** [【稿件展示】呜呜呜好可怕](https://www.pixiv.net/artworks/137791655)<br>[Download](https://www.pixiv.net/artworks/137791655) |
@@ -34,7 +34,7 @@ Update: 2025-11-24 17:48:56 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-11-24 17:51:35 CST
+Update: 2025-11-24 22:53:21 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-11-24 17:51:35 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-11-24 17:54:11 CST
+Update: 2025-11-24 22:56:50 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
