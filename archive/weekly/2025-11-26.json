@@ -1,37 +1,6 @@
 [
     {
         "rank": 1,
-        "title": "碟中叠",
-        "user_name": "kieed",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/00/24/137630130_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137630130",
-        "big_url": "https://www.pixiv.net/artworks/137630130",
-        "tags": [
-            "初音ミク",
-            "VOCALOID",
-            "VOCALOID5000users入り"
-        ],
-        "rating_count": 6252,
-        "view_count": 24948
-    },
-    {
-        "rank": 2,
-        "title": "ポチャッコ",
-        "user_name": "望月けい",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/16/11/09/137613727_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137613727",
-        "big_url": "https://www.pixiv.net/artworks/137613727",
-        "tags": [
-            "サンリオ",
-            "ポチャッコ",
-            "ベース",
-            "サンリオ5000users入り"
-        ],
-        "rating_count": 7267,
-        "view_count": 48874
-    },
-    {
-        "rank": 3,
         "title": "七宝花鳥美人図花瓶",
         "user_name": "藤ちょこ（藤原）",
         "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/00/00/21/137665427_p0_master1200.jpg",
@@ -48,11 +17,25 @@
             "花瓶",
             "極彩色"
         ],
-        "rating_count": 9647,
-        "view_count": 61234
+        "rating_count": 9851,
+        "view_count": 63268
     },
     {
-        "rank": 4,
+        "rank": 2,
+        "title": "望月けい個展",
+        "user_name": "望月けい",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/13/59/14/137681268_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137681268",
+        "big_url": "https://www.pixiv.net/artworks/137681268",
+        "tags": [
+            "オリジナル",
+            "オリジナル1000users入り"
+        ],
+        "rating_count": 4314,
+        "view_count": 36514
+    },
+    {
+        "rank": 3,
         "title": "「大好きなサンドローネ♡」",
         "user_name": "スコッティ",
         "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/00/17/137630092_p0_master1200.jpg",
@@ -68,11 +51,88 @@
             "原神5000users入り",
             "HoYoverse"
         ],
-        "rating_count": 6287,
-        "view_count": 41006
+        "rating_count": 6434,
+        "view_count": 42743
+    },
+    {
+        "rank": 4,
+        "title": "碟中叠",
+        "user_name": "kieed",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/00/24/137630130_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137630130",
+        "big_url": "https://www.pixiv.net/artworks/137630130",
+        "tags": [
+            "初音ミク",
+            "VOCALOID",
+            "VOCALOID5000users入り"
+        ],
+        "rating_count": 6451,
+        "view_count": 25890
     },
     {
         "rank": 5,
+        "title": "うさぎの本",
+        "user_name": "山素",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/22/18/40/32/137716003_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137716003",
+        "big_url": "https://www.pixiv.net/artworks/137716003",
+        "tags": [
+            "漫画",
+            "創作"
+        ],
+        "rating_count": 4862,
+        "view_count": 127335
+    },
+    {
+        "rank": 6,
+        "title": "DC-01 Model:B",
+        "user_name": "neco",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/30/02/137631538_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137631538",
+        "big_url": "https://www.pixiv.net/artworks/137631538",
+        "tags": [
+            "オリジナル",
+            "足指"
+        ],
+        "rating_count": 2950,
+        "view_count": 24577
+    },
+    {
+        "rank": 7,
+        "title": "【会社と私生活】眠れないや",
+        "user_name": "金沢真之介",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/12/00/38/137713959_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137713959",
+        "big_url": "https://www.pixiv.net/artworks/137713959",
+        "tags": [
+            "漫画",
+            "会社と私生活",
+            "オンとオフ",
+            "お前らもう結婚しろ",
+            "はよ結婚しろ",
+            "オリジナル5000users入り"
+        ],
+        "rating_count": 5358,
+        "view_count": 98110
+    },
+    {
+        "rank": 8,
+        "title": "空気が「読める」新入社員と彼コートの話",
+        "user_name": "鳥原習",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/18/00/29/137686378_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137686378",
+        "big_url": "https://www.pixiv.net/artworks/137686378",
+        "tags": [
+            "漫画",
+            "創作男女",
+            "社会人",
+            "はよ結婚しろ"
+        ],
+        "rating_count": 4473,
+        "view_count": 70669
+    },
+    {
+        "rank": 9,
         "title": "( T_T)＼(^-^ )ﾖｼﾖｼ",
         "user_name": "PiPi",
         "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/09/44/137630803_p0_master1200.jpg",
@@ -84,11 +144,11 @@
             "女の子",
             "Miku"
         ],
-        "rating_count": 2355,
-        "view_count": 10589
+        "rating_count": 2430,
+        "view_count": 11032
     },
     {
-        "rank": 6,
+        "rank": 10,
         "title": "ミーム",
         "user_name": "アボガド6",
         "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/21/33/45/137659099_p0_master1200.jpg",
@@ -99,47 +159,51 @@
             "ミーム",
             "須田景凪"
         ],
-        "rating_count": 2335,
-        "view_count": 38735
+        "rating_count": 2373,
+        "view_count": 39725
     },
     {
-        "rank": 7,
-        "title": "望月けい個展",
-        "user_name": "望月けい",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/13/59/14/137681268_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137681268",
-        "big_url": "https://www.pixiv.net/artworks/137681268",
+        "rank": 11,
+        "title": "メガゼラオラ",
+        "user_name": "SukeP（すけぴー）",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/01/38/26/137669211_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137669211",
+        "big_url": "https://www.pixiv.net/artworks/137669211",
         "tags": [
-            "オリジナル",
-            "オリジナル1000users入り"
+            "メガゼラオラ",
+            "ゼラオラ",
+            "ポケモン",
+            "ポケットモンスター",
+            "LEGENDSZ-A",
+            "メガシンカ",
+            "ポケモン1000users入り"
         ],
-        "rating_count": 4231,
-        "view_count": 35264
+        "rating_count": 896,
+        "view_count": 8164
     },
     {
-        "rank": 8,
-        "title": "放課後クルムカケ",
-        "user_name": "torino",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/00/00/18/137595297_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137595297",
-        "big_url": "https://www.pixiv.net/artworks/137595297",
+        "rank": 12,
+        "title": "Chisa",
+        "user_name": "Joezunzun",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/12/53/07/137680111_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137680111",
+        "big_url": "https://www.pixiv.net/artworks/137680111",
         "tags": [
-            "原神",
-            "GenshinImpact",
-            "コロンビーナ(原神)",
-            "サンドローネ(原神)",
-            "columbina",
-            "sandrone",
-            "JK",
-            "女子校生",
-            "原神学園",
-            "原神10000users入り"
+            "涂",
+            "美少女",
+            "场景",
+            "風景",
+            "插画",
+            "背景",
+            "女の子",
+            "鸣潮",
+            "千咲(鳴潮)"
         ],
-        "rating_count": 10588,
-        "view_count": 67691
+        "rating_count": 3013,
+        "view_count": 14965
     },
     {
-        "rank": 9,
+        "rank": 13,
         "title": "ギャップがありすぎるカップルの話3",
         "user_name": "紫良河みあび",
         "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/22/49/39/137662457_p0_master1200.jpg",
@@ -152,78 +216,307 @@
             "創作男女",
             "ギャップル"
         ],
-        "rating_count": 4325,
-        "view_count": 68016
-    },
-    {
-        "rank": 10,
-        "title": "世界イチの孫娘",
-        "user_name": "葵燐-kirin-",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/18/24/08/137617226_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137617226",
-        "big_url": "https://www.pixiv.net/artworks/137617226",
-        "tags": [
-            "漫画",
-            "LEGENDSZ-A",
-            "カナリィ",
-            "タラゴン(トレーナー)",
-            "ピンクババア「こっちも負けてられないね!」",
-            "なにこれ尊い",
-            "これは世界イチ",
-            "ポケモン1000users入り",
-            "ラシーヌ爺孫",
-            "ポケモン5000users入り"
-        ],
-        "rating_count": 5528,
-        "view_count": 82122
-    },
-    {
-        "rank": 11,
-        "title": "DC-01 Model:B",
-        "user_name": "neco",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/30/02/137631538_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137631538",
-        "big_url": "https://www.pixiv.net/artworks/137631538",
-        "tags": [
-            "オリジナル",
-            "足指"
-        ],
-        "rating_count": 2891,
-        "view_count": 23935
-    },
-    {
-        "rank": 12,
-        "title": "ポケモンまとめ",
-        "user_name": "小唄@お仕事募集中",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/20/03/12/137655430_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137655430",
-        "big_url": "https://www.pixiv.net/artworks/137655430",
-        "tags": [
-            "ポケモン",
-            "ポケモンZA",
-            "LEGENDSZ-A",
-            "ポケモン1000users入り"
-        ],
-        "rating_count": 2628,
-        "view_count": 36349
-    },
-    {
-        "rank": 13,
-        "title": "🤍",
-        "user_name": "梅原生（せい）",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/00/00/07/137595227_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137595227",
-        "big_url": "https://www.pixiv.net/artworks/137595227",
-        "tags": [
-            "依頼絵",
-            "女の子",
-            "白髪"
-        ],
-        "rating_count": 2562,
-        "view_count": 12710
+        "rating_count": 4407,
+        "view_count": 69723
     },
     {
         "rank": 14,
+        "title": "千咲",
+        "user_name": "Vardan",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/13/21/29/137680661_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137680661",
+        "big_url": "https://www.pixiv.net/artworks/137680661",
+        "tags": [
+            "女の子",
+            "おへそ",
+            "ふともも",
+            "千咲",
+            "鳴潮",
+            "WutheringWaves",
+            "朽葉千咲",
+            "鳴潮1000users入り"
+        ],
+        "rating_count": 3822,
+        "view_count": 18070
+    },
+    {
+        "rank": 15,
+        "title": "🩷",
+        "user_name": "谜溶MELT",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/13/43/29/137681021_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137681021",
+        "big_url": "https://www.pixiv.net/artworks/137681021",
+        "tags": [
+            "崩坏星穹铁道",
+            "HonkaiStarRail",
+            "崩壊スターレイル",
+            "キュレネ",
+            "Cyrene",
+            "昔涟",
+            "開拓者(スターレイル)",
+            "星(スターレイル)",
+            "穹(スターレイル)",
+            "崩壊:スターレイル1000users入り"
+        ],
+        "rating_count": 1370,
+        "view_count": 7457
+    },
+    {
+        "rank": 16,
+        "title": "富士から年齢を詐称してるVtuber",
+        "user_name": "なまず",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/21/10/19/137693245_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137693245",
+        "big_url": "https://www.pixiv.net/artworks/137693245",
+        "tags": [
+            "漫画",
+            "バーチャルYouTuber",
+            "VTuber",
+            "星空バアド",
+            "コメントの中の戦争",
+            "楽しそうで何よりです",
+            "表富士論争",
+            "争いは、同じレベルの者同士でしか発生しない!!",
+            "混沌を極めていた",
+            "磯と茶の匂いのするチャット"
+        ],
+        "rating_count": 1689,
+        "view_count": 58116
+    },
+    {
+        "rank": 17,
+        "title": "無題",
+        "user_name": "焼肉屋悪徳社長",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/15/24/33/137682849_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137682849",
+        "big_url": "https://www.pixiv.net/artworks/137682849",
+        "tags": [
+            "サイレントヒルf",
+            "深水雛子",
+            "五十嵐咲子",
+            "西田凛子",
+            "サイレントヒル1000users入り"
+        ],
+        "rating_count": 702,
+        "view_count": 8288
+    },
+    {
+        "rank": 18,
+        "title": "Chisa",
+        "user_name": "anon",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/20/29/45/137691539_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137691539",
+        "big_url": "https://www.pixiv.net/artworks/137691539",
+        "tags": [
+            "鳴潮",
+            "鸣潮",
+            "WutheringWaves",
+            "千咲(鳴潮)",
+            "朽葉千咲",
+            "唾液ブリッジ",
+            "男漂泊者",
+            "口に髪",
+            "漂泊者",
+            "鳴潮5000users入り"
+        ],
+        "rating_count": 6145,
+        "view_count": 35214
+    },
+    {
+        "rank": 19,
+        "title": "料理人パワー",
+        "user_name": "ポ～ン（出水ぽすか）",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/07/30/04/137709547_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137709547",
+        "big_url": "https://www.pixiv.net/artworks/137709547",
+        "tags": [
+            "創作",
+            "料理人",
+            "中華鍋",
+            "調理",
+            "野菜擬人化",
+            "食べ物1000users入り",
+            "火力",
+            "食べ物",
+            "炎"
+        ],
+        "rating_count": 1642,
+        "view_count": 17324
+    },
+    {
+        "rank": 20,
+        "title": "💜",
+        "user_name": "梅原生（せい）",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/00/00/07/137665337_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137665337",
+        "big_url": "https://www.pixiv.net/artworks/137665337",
+        "tags": [
+            "依頼絵",
+            "女の子",
+            "OC",
+            "がおー"
+        ],
+        "rating_count": 1069,
+        "view_count": 5533
+    },
+    {
+        "rank": 21,
+        "title": "一夜限りのユキズリマン　その63",
+        "user_name": "ハミタ",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/23/07/46/137698239_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137698239",
+        "big_url": "https://www.pixiv.net/artworks/137698239",
+        "tags": [
+            "漫画",
+            "流れ変わったな",
+            "ハミタしてきた"
+        ],
+        "rating_count": 1980,
+        "view_count": 56315
+    },
+    {
+        "rank": 22,
+        "title": "リーグ挑戦3-11",
+        "user_name": "イマッゾ",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/18/03/16/137686601_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137686601",
+        "big_url": "https://www.pixiv.net/artworks/137686601",
+        "tags": [
+            "漫画",
+            "ポケモン",
+            "ポケットモンスター",
+            "pokemon",
+            "イマソ刈りメタモン",
+            "ワウ(イマッゾ)",
+            "爆弾(映画)",
+            "リザードン",
+            "ポケモン1000users入り"
+        ],
+        "rating_count": 1514,
+        "view_count": 53101
+    },
+    {
+        "rank": 23,
+        "title": "Stay with me",
+        "user_name": "gomzi",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/00/00/17/137700478_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137700478",
+        "big_url": "https://www.pixiv.net/artworks/137700478",
+        "tags": [
+            "オリジナル",
+            "女の子",
+            "創作",
+            "白ワンピ",
+            "ソファ",
+            "横乳",
+            "エルフ耳",
+            "寝そべる",
+            "黑髮",
+            "伏臥"
+        ],
+        "rating_count": 3955,
+        "view_count": 29452
+    },
+    {
+        "rank": 24,
+        "title": "個人メモ：曲げた膝を描く際の注意点",
+        "user_name": "漫画素材工房",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/06/00/18/137673101_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137673101",
+        "big_url": "https://www.pixiv.net/artworks/137673101",
+        "tags": [
+            "漫画素材工房",
+            "描き方",
+            "人体",
+            "身体",
+            "下半身",
+            "脚",
+            "膝"
+        ],
+        "rating_count": 680,
+        "view_count": 12661
+    },
+    {
+        "rank": 25,
+        "title": "イーブイの日（2025）",
+        "user_name": "茉莉",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/17/16/17/137720142_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137720142",
+        "big_url": "https://www.pixiv.net/artworks/137720142",
+        "tags": [
+            "ポケモン",
+            "イーブイの日",
+            "イーブイ",
+            "ポケットモンスター",
+            "なにこの仔たちかわいい",
+            "ポケモン1000users入り"
+        ],
+        "rating_count": 1301,
+        "view_count": 12167
+    },
+    {
+        "rank": 26,
+        "title": "太ももに潰されたい",
+        "user_name": "Deyui | デユイ",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/00/09/10/137666189_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137666189",
+        "big_url": "https://www.pixiv.net/artworks/137666189",
+        "tags": [
+            "ステラソラ",
+            "StellaSora",
+            "フユカ(ステラソラ)",
+            "女魔王(ステラソラ)",
+            "肩車",
+            "目がハート",
+            "照れ顔",
+            "巨乳化",
+            "汗",
+            "ステラソラ1000users入り"
+        ],
+        "rating_count": 2936,
+        "view_count": 19017
+    },
+    {
+        "rank": 27,
+        "title": "chisa",
+        "user_name": "BLACKmeow",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/15/55/06/137683360_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137683360",
+        "big_url": "https://www.pixiv.net/artworks/137683360",
+        "tags": [
+            "鳴潮",
+            "WutheringWaves",
+            "千咲",
+            "chisa",
+            "鳴潮1000users入り",
+            "朽葉千咲"
+        ],
+        "rating_count": 1468,
+        "view_count": 7321
+    },
+    {
+        "rank": 28,
+        "title": "花屋にて",
+        "user_name": "ゆにこん",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/21/00/46/137692734_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137692734",
+        "big_url": "https://www.pixiv.net/artworks/137692734",
+        "tags": [
+            "創作",
+            "オリジナル",
+            "oc",
+            "花屋",
+            "女の子",
+            "白髪",
+            "獣耳",
+            "花",
+            "カットアウェイショルダー"
+        ],
+        "rating_count": 582,
+        "view_count": 3951
+    },
+    {
+        "rank": 29,
         "title": "フェイクマリッジ",
         "user_name": "のう",
         "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/21/21/01/137658582_p0_master1200.jpg",
@@ -235,55 +528,114 @@
             "フェイクマリッジ",
             "百合"
         ],
-        "rating_count": 1079,
-        "view_count": 10186
+        "rating_count": 1092,
+        "view_count": 10421
     },
     {
-        "rank": 15,
-        "title": "FGOまとめ",
-        "user_name": "色素",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/00/01/35/137595514_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137595514",
-        "big_url": "https://www.pixiv.net/artworks/137595514",
+        "rank": 30,
+        "title": "秋満開",
+        "user_name": "makoronコミティアA14",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/19/00/53/137688443_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137688443",
+        "big_url": "https://www.pixiv.net/artworks/137688443",
         "tags": [
-            "Fate/GrandOrder",
-            "FGO",
-            "千利休(Fate)",
-            "丑御前(Fate)",
-            "カズラドロップ",
-            "久遠寺有珠",
-            "インドラ(Fate)",
-            "シャーロック・ホームズ(Fate)",
-            "終わりのエリザベート",
-            "Fate/GO1000users入り"
+            "風景",
+            "オリジナル",
+            "背景",
+            "illustration",
+            "空",
+            "イラスト",
+            "景色",
+            "紅葉",
+            "秋",
+            "pixivFallEffect"
         ],
-        "rating_count": 1869,
-        "view_count": 16870
+        "rating_count": 467,
+        "view_count": 3701
     },
     {
-        "rank": 16,
-        "title": "チョコレートパイ",
-        "user_name": "チャイ",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/20/44/20/137622338_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137622338",
-        "big_url": "https://www.pixiv.net/artworks/137622338",
+        "rank": 31,
+        "title": "仲間の予感",
+        "user_name": "526",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/20/07/35/137690779_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137690779",
+        "big_url": "https://www.pixiv.net/artworks/137690779",
         "tags": [
             "オリジナル",
-            "パイ(食べ物)",
-            "チョコニャートパイ",
-            "すいーつねこ",
-            "素晴らしきほっこりの世界",
-            "猫は液体",
-            "まぎれるこねこ",
-            "ちょこねこ",
-            "オリジナル1000users入り",
-            "食べ物1000users入り"
+            "創作",
+            "イラスト",
+            "女の子",
+            "女子高生",
+            "魔法少女",
+            "ブレザー"
         ],
-        "rating_count": 2072,
-        "view_count": 18693
+        "rating_count": 521,
+        "view_count": 5908
     },
     {
-        "rank": 17,
+        "rank": 32,
+        "title": "夏の死を祝って",
+        "user_name": "banishment",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/21/00/00/09/137700421_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137700421",
+        "big_url": "https://www.pixiv.net/artworks/137700421",
+        "tags": [
+            "風景",
+            "空",
+            "オリジナル",
+            "夏",
+            "夕焼け",
+            "イラスト",
+            "カクテル",
+            "ガラスの中"
+        ],
+        "rating_count": 1653,
+        "view_count": 12064
+    },
+    {
+        "rank": 33,
+        "title": "I love Internet",
+        "user_name": "Snegovski🦖",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/07/23/05/137639076_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137639076",
+        "big_url": "https://www.pixiv.net/artworks/137639076",
+        "tags": [
+            "VOCALOID",
+            "初音ミク",
+            "重音テト",
+            "亞北ネル",
+            "巨大娘",
+            "雨",
+            "ミーム",
+            "濡れ"
+        ],
+        "rating_count": 1954,
+        "view_count": 19487
+    },
+    {
+        "rank": 34,
+        "title": "新作《黄昏时刻》",
+        "user_name": "画师JW",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/00/37/12/137667357_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137667357",
+        "big_url": "https://www.pixiv.net/artworks/137667357",
+        "tags": [
+            "背景",
+            "風景",
+            "オリジナル",
+            "創作",
+            "落書き",
+            "原創",
+            "イラスト",
+            "少女",
+            "女の子",
+            "ファンタジー"
+        ],
+        "rating_count": 1157,
+        "view_count": 7164
+    },
+    {
+        "rank": 35,
         "title": "一体感。",
         "user_name": "カコミスル",
         "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/16/52/30/137649208_p0_master1200.jpg",
@@ -301,391 +653,43 @@
             "フォレスト・ガンプ",
             "謎の疾走感"
         ],
-        "rating_count": 2247,
-        "view_count": 56551
-    },
-    {
-        "rank": 18,
-        "title": "一夜限りのユキズリマン　その62",
-        "user_name": "ハミタ",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/08/45/11/137605651_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137605651",
-        "big_url": "https://www.pixiv.net/artworks/137605651",
-        "tags": [
-            "漫画",
-            "モザイク",
-            "かっこいいモザイク",
-            "謎概念"
-        ],
-        "rating_count": 2063,
-        "view_count": 54421
-    },
-    {
-        "rank": 19,
-        "title": "バ美肉おじいちゃんと魔法少女",
-        "user_name": "魔木",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/00/00/41/137595397_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137595397",
-        "big_url": "https://www.pixiv.net/artworks/137595397",
-        "tags": [
-            "漫画",
-            "オリジナル",
-            "オリジナル漫画",
-            "創作漫画",
-            "コメディ",
-            "VTuber",
-            "バ美肉おじいちゃん",
-            "魔法少女",
-            "キュゥべえ"
-        ],
-        "rating_count": 3536,
-        "view_count": 77805
-    },
-    {
-        "rank": 20,
-        "title": "空気が「読める」新入社員と彼コートの話",
-        "user_name": "鳥原習",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/18/00/29/137686378_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137686378",
-        "big_url": "https://www.pixiv.net/artworks/137686378",
-        "tags": [
-            "漫画",
-            "創作男女",
-            "社会人",
-            "はよ結婚しろ"
-        ],
-        "rating_count": 4395,
-        "view_count": 69222
-    },
-    {
-        "rank": 21,
-        "title": "仲夏夢紀事",
-        "user_name": "WaterRing",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/14/21/137630982_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137630982",
-        "big_url": "https://www.pixiv.net/artworks/137630982",
-        "tags": [
-            "绝区零",
-            "浮波柚葉",
-            "アリス・タイムフィールド",
-            "リン(ゼンゼロ)",
-            "下着",
-            "ぱんつ",
-            "お腹",
-            "ゼンゼロ5000users入り"
-        ],
-        "rating_count": 3611,
-        "view_count": 24251
-    },
-    {
-        "rank": 22,
-        "title": "ほむら先生と遊園地②",
-        "user_name": "せかねこ",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/14/07/43/137646032_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137646032",
-        "big_url": "https://www.pixiv.net/artworks/137646032",
-        "tags": [
-            "漫画",
-            "ギャグ",
-            "恋愛",
-            "日常",
-            "ほむら先生",
-            "4コマ",
-            "創作",
-            "オリジナル"
-        ],
-        "rating_count": 1880,
-        "view_count": 45601
-    },
-    {
-        "rank": 23,
-        "title": "入れ歯だから問題ないだろ年齢を詐称してるVtuber",
-        "user_name": "なまず",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/21/06/04/137657995_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137657995",
-        "big_url": "https://www.pixiv.net/artworks/137657995",
-        "tags": [
-            "漫画",
-            "バーチャルYouTuber",
-            "VTuber",
-            "星空バアド",
-            "シンカンセンスゴイカタイアイス",
-            "シンカンセンスゴイタカイアイス",
-            "スジャータスーパープレミアムアイスクリーム",
-            "歯科医リスナー",
-            "入れ歯ニキ"
-        ],
-        "rating_count": 1520,
-        "view_count": 57258
-    },
-    {
-        "rank": 24,
-        "title": "ハイシン創意 / Chinozo",
-        "user_name": "アルセチカ",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/11/49/42/137643351_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137643351",
-        "big_url": "https://www.pixiv.net/artworks/137643351",
-        "tags": [
-            "ハイシン創意"
-        ],
-        "rating_count": 564,
-        "view_count": 5532
-    },
-    {
-        "rank": 25,
-        "title": "lynx",
-        "user_name": "HAZE",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/00/22/137630121_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137630121",
-        "big_url": "https://www.pixiv.net/artworks/137630121",
-        "tags": [
-            "女の子",
-            "少女",
-            "イラスト",
-            "OC",
-            "オリジナル",
-            "original",
-            "HAZEoc",
-            "originalcharacter",
-            "original_character",
-            "オオヤマネコ"
-        ],
-        "rating_count": 1232,
-        "view_count": 7030
-    },
-    {
-        "rank": 26,
-        "title": "蛍ちゃんバニー",
-        "user_name": "ペケこ",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/00/15/137630077_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137630077",
-        "big_url": "https://www.pixiv.net/artworks/137630077",
-        "tags": [
-            "原神",
-            "GenshinImpact",
-            "蛍(原神)",
-            "バニースーツ",
-            "原神1000users入り",
-            "ハイレグ"
-        ],
-        "rating_count": 1928,
-        "view_count": 35416
-    },
-    {
-        "rank": 27,
-        "title": "【ポケモンZA】救世主の条件",
-        "user_name": "無理",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/01/19/52/137633191_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137633191",
-        "big_url": "https://www.pixiv.net/artworks/137633191",
-        "tags": [
-            "漫画",
-            "ネタバレ注意",
-            "ポケモンZA",
-            "LEGENDSZ-A",
-            "F(ポケモン)",
-            "フラダリ",
-            "キョウヤ(トレーナー)",
-            "ポケモン1000users入り"
-        ],
-        "rating_count": 1921,
-        "view_count": 36284
-    },
-    {
-        "rank": 28,
-        "title": "おつかれさま",
-        "user_name": "もなこ@既刊通販",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/08/01/30/137639758_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137639758",
-        "big_url": "https://www.pixiv.net/artworks/137639758",
-        "tags": [
-            "カキツバタ(トレーナー)",
-            "タロ(トレーナー)",
-            "スグリ(ポケモン)",
-            "ポケモン500users入り"
-        ],
-        "rating_count": 572,
-        "view_count": 11601
-    },
-    {
-        "rank": 29,
-        "title": "リーグ挑戦3-10",
-        "user_name": "イマッゾ",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/19/05/32/137653480_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137653480",
-        "big_url": "https://www.pixiv.net/artworks/137653480",
-        "tags": [
-            "漫画",
-            "ポケモン",
-            "ポケットモンスター",
-            "pokemon",
-            "頂上決戦",
-            "ハイドロポンプ",
-            "こごえるせかい",
-            "左下の存在感",
-            "イマソ刈りメタモン",
-            "ポケモン1000users入り"
-        ],
-        "rating_count": 1436,
-        "view_count": 49119
-    },
-    {
-        "rank": 30,
-        "title": "個人メモ：尺骨（手首の突起）",
-        "user_name": "漫画素材工房",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/06/00/08/137602964_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137602964",
-        "big_url": "https://www.pixiv.net/artworks/137602964",
-        "tags": [
-            "漫画素材工房",
-            "描き方",
-            "人体",
-            "身体",
-            "美術解剖学",
-            "手",
-            "手首",
-            "尺骨"
-        ],
-        "rating_count": 966,
-        "view_count": 14485
-    },
-    {
-        "rank": 31,
-        "title": "化けの花束",
-        "user_name": "ギラ珠",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/12/48/04/137609888_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137609888",
-        "big_url": "https://www.pixiv.net/artworks/137609888",
-        "tags": [
-            "プロセカ",
-            "暁山瑞希",
-            "東雲絵名",
-            "見ないで理解できないでしょう",
-            "サムネバイバイ",
-            "こっちみんな",
-            "化けの花束",
-            "見ても理解できないでしょう",
-            "あーもういいや(諦め)",
-            "増殖系瑞希"
-        ],
-        "rating_count": 1080,
-        "view_count": 12394
-    },
-    {
-        "rank": 32,
-        "title": "絵✒️🌬️",
-        "user_name": "逢編いあむ",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/22/29/30/137661572_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137661572",
-        "big_url": "https://www.pixiv.net/artworks/137661572",
-        "tags": [
-            "オリジナル",
-            "創作"
-        ],
-        "rating_count": 767,
-        "view_count": 5307
-    },
-    {
-        "rank": 33,
-        "title": "神秘の森の姫",
-        "user_name": "上山道郎",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/18/58/01/137653035_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137653035",
-        "big_url": "https://www.pixiv.net/artworks/137653035",
-        "tags": [
-            "星獣戦隊ギンガマン",
-            "令嬢化",
-            "つよつよ令嬢シリーズ",
-            "ブルタウラス",
-            "ギンガイオー",
-            "自在剣・機刃",
-            "知恵の樹モーク",
-            "スタイリッシュ",
-            "金髪",
-            "エルフ耳"
-        ],
-        "rating_count": 839,
-        "view_count": 15674
-    },
-    {
-        "rank": 34,
-        "title": "(˶ • ᴗ ˂˶)✧（•'-'•|",
-        "user_name": "SSr",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/17/50/16/137650789_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137650789",
-        "big_url": "https://www.pixiv.net/artworks/137650789",
-        "tags": [
-            "アズールレーン",
-            "エセックス(アズールレーン)",
-            "ニュージャージー(アズールレーン)",
-            "レースクイーン",
-            "乳ワイパー",
-            "スタートライン・スプラッシュ",
-            "爆乳",
-            "濡れ",
-            "アズールレーン5000users入り",
-            "エセックス改(アズールレーン)"
-        ],
-        "rating_count": 6324,
-        "view_count": 28210
-    },
-    {
-        "rank": 35,
-        "title": "大---卡提西娅",
-        "user_name": "阿戈魔AGM",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/12/53/53/137610018_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137610018",
-        "big_url": "https://www.pixiv.net/artworks/137610018",
-        "tags": [
-            "卡提西娅",
-            "女の子",
-            "欧派",
-            "大腿",
-            "尻神様",
-            "臀部",
-            "足",
-            "鸣潮",
-            "鳴潮1000users入り",
-            "フルールドリス"
-        ],
-        "rating_count": 5531,
-        "view_count": 35386
+        "rating_count": 2278,
+        "view_count": 58201
     },
     {
         "rank": 36,
-        "title": "チェンソー色々",
-        "user_name": "iPad Pro買ったR君",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/04/53/58/137636789_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137636789",
-        "big_url": "https://www.pixiv.net/artworks/137636789",
+        "title": "千咲",
+        "user_name": "晕欧欧",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/12/09/20/137679246_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137679246",
+        "big_url": "https://www.pixiv.net/artworks/137679246",
         "tags": [
-            "漫画",
-            "チェンソーマン",
-            "レゼ",
-            "デンジ",
-            "マキマ",
-            "パワー",
-            "アネクドート"
+            "插画",
+            "绘画",
+            "女の子",
+            "少女",
+            "WutheringWave",
+            "鸣潮",
+            "鳴潮",
+            "Chisa",
+            "千咲",
+            "巫女"
         ],
-        "rating_count": 986,
-        "view_count": 32792
+        "rating_count": 1313,
+        "view_count": 6013
     },
     {
         "rank": 37,
-        "title": "霊夢と魔理沙",
-        "user_name": "さわららど",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/18/54/20/137652943_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137652943",
-        "big_url": "https://www.pixiv.net/artworks/137652943",
+        "title": "学マスまとめ7",
+        "user_name": "うのはるたろう/卯野はる",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/21/12/17/137693320_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137693320",
+        "big_url": "https://www.pixiv.net/artworks/137693320",
         "tags": [
-            "イラスト",
-            "東方",
-            "東方Project",
-            "博麗霊夢",
-            "霧雨魔理沙"
+            "学マス"
         ],
-        "rating_count": 604,
-        "view_count": 3327
+        "rating_count": 439,
+        "view_count": 6627
     },
     {
         "rank": 38,
@@ -705,238 +709,249 @@
             "黒ブーツ",
             "ショート化"
         ],
-        "rating_count": 5230,
-        "view_count": 25220
+        "rating_count": 5463,
+        "view_count": 26724
     },
     {
         "rank": 39,
-        "title": "🙏",
-        "user_name": "Bibimbub",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/03/33/57/137635826_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137635826",
-        "big_url": "https://www.pixiv.net/artworks/137635826",
+        "title": "キョウヤを取られないか心配なデウロたち",
+        "user_name": "iPad Pro買ったR君",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/02/17/10/137670124_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137670124",
+        "big_url": "https://www.pixiv.net/artworks/137670124",
         "tags": [
-            "千咲(鳴潮)",
-            "フィービー(鳴潮)",
-            "鸣潮",
-            "鳴潮",
-            "WutheringWaves",
-            "朽葉千咲",
-            "セーラー服",
-            "金髪",
-            "黑髮",
-            "鳴潮1000users入り"
+            "漫画",
+            "ポケモン",
+            "PokemonLEGENDSZA",
+            "タウニー(トレーナー)",
+            "キョウヤ(トレーナー)",
+            "カナリィ",
+            "ムク(トレーナー)",
+            "デウロ(ポケモン)",
+            "マチエール",
+            "ユカリ(トレーナー)"
         ],
-        "rating_count": 1734,
-        "view_count": 10575
+        "rating_count": 1230,
+        "view_count": 46737
     },
     {
         "rank": 40,
-        "title": "バーチャルワールドからの脱出",
-        "user_name": "Coomlee",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/41/29/137631975_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137631975",
-        "big_url": "https://www.pixiv.net/artworks/137631975",
+        "title": "ビビアン水着",
+        "user_name": "satomiこう",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/13/49/12/137668950_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137668950",
+        "big_url": "https://www.pixiv.net/artworks/137668950",
         "tags": [
-            "插画",
-            "女の子",
-            "初音ミク",
-            "少女",
-            "初音未来",
-            "VOCALOID",
-            "Miku",
-            "初音"
+            "ZenlessZoneZero",
+            "ゼンレスゾーンゼロ",
+            "お尻",
+            "水着",
+            "ビビアン(ゼンゼロ)",
+            "腋",
+            "イチハツは水辺に咲いて",
+            "ゼンゼロ1000users入り",
+            "ビビアン・バンシー",
+            "横乳"
         ],
-        "rating_count": 556,
-        "view_count": 2217
+        "rating_count": 1298,
+        "view_count": 6067
     },
     {
         "rank": 41,
-        "title": "Chisa",
-        "user_name": "Joezunzun",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/12/53/07/137680111_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137680111",
-        "big_url": "https://www.pixiv.net/artworks/137680111",
+        "title": "五十歩百歩",
+        "user_name": "もなこ@既刊通販",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/19/49/15/137689986_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137689986",
+        "big_url": "https://www.pixiv.net/artworks/137689986",
         "tags": [
-            "涂",
-            "美少女",
-            "场景",
-            "風景",
-            "插画",
-            "背景",
-            "女の子",
-            "鸣潮",
-            "千咲(鳴潮)"
+            "カキタロ",
+            "ツバタロ",
+            "スグアオ",
+            "五十歩百歩"
         ],
-        "rating_count": 2729,
-        "view_count": 13500
+        "rating_count": 801,
+        "view_count": 23122
     },
     {
         "rank": 42,
-        "title": "志摩リンちゃん女の子すわり",
-        "user_name": "CORE",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/00/02/26/137595595_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137595595",
-        "big_url": "https://www.pixiv.net/artworks/137595595",
-        "tags": [
-            "ゆるキャン△",
-            "志摩リン",
-            "女の子",
-            "少女",
-            "制服"
-        ],
-        "rating_count": 964,
-        "view_count": 6018
-    },
-    {
-        "rank": 43,
-        "title": "ソルロックモチーフの騎士",
+        "title": "メガエアームドモチーフの騎士",
         "user_name": "SukeP（すけぴー）",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/21/21/22/137658597_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137658597",
-        "big_url": "https://www.pixiv.net/artworks/137658597",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/20/43/19/137692031_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137692031",
+        "big_url": "https://www.pixiv.net/artworks/137692031",
         "tags": [
-            "ソルロック",
+            "メガエアームド",
+            "エアームド",
+            "騎士",
             "ポケモン",
             "ポケットモンスター",
             "厚塗り",
-            "騎士",
-            "装備化",
-            "武器化"
+            "武器化",
+            "メガシンカ"
         ],
-        "rating_count": 440,
-        "view_count": 5393
+        "rating_count": 414,
+        "view_count": 5047
+    },
+    {
+        "rank": 43,
+        "title": "サビ組に微塵も怯まないキョウヤ",
+        "user_name": "ひざ掛け奉行@活動再開",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/12/13/30/137679324_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137679324",
+        "big_url": "https://www.pixiv.net/artworks/137679324",
+        "tags": [
+            "ポケモンZA",
+            "LEGENDSZ-A",
+            "キョウヤ(トレーナー)",
+            "デウロ(ポケモン)",
+            "煽り",
+            "ポケモン100users入り",
+            "怖いもの知らず",
+            "ポケモン500users入り",
+            "カラスバ(トレーナー)",
+            "ゆっくりデウロ"
+        ],
+        "rating_count": 698,
+        "view_count": 21139
     },
     {
         "rank": 44,
-        "title": "ワ",
-        "user_name": "赤井さしみ",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/18/19/57/58/137620348_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137620348",
-        "big_url": "https://www.pixiv.net/artworks/137620348",
+        "title": "🩵cm🩷",
+        "user_name": "YHM",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/22/25/03/137696414_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137696414",
+        "big_url": "https://www.pixiv.net/artworks/137696414",
         "tags": [
-            "エプロン",
-            "メイド服",
-            "エプロンドレス",
-            "裾をつまむ",
-            "クラシカルメイド",
-            "笑顔",
-            "オリジナル1000users入り",
-            "黒髪ロング"
+            "drawing",
+            "少女",
+            "painting",
+            "創作",
+            "draw",
+            "イラスト",
+            "ドレス",
+            "女の子",
+            "dress",
+            "ロココ"
         ],
-        "rating_count": 1262,
-        "view_count": 10106
+        "rating_count": 380,
+        "view_count": 3537
     },
     {
         "rank": 45,
-        "title": "70",
-        "user_name": "モー助",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/17/22/56/137650088_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137650088",
-        "big_url": "https://www.pixiv.net/artworks/137650088",
+        "title": "ベルノちゃん",
+        "user_name": "サインこす",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/21/45/18/137637224_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137637224",
+        "big_url": "https://www.pixiv.net/artworks/137637224",
         "tags": [
-            "漫画",
-            "犬",
-            "リボン",
-            "オリジナル500users入り"
+            "ウマ娘プリティーダービー",
+            "下乳",
+            "ベルノライト(ウマ娘)",
+            "チアガール",
+            "ウマ娘シンデレラグレイ",
+            "ぱんつ",
+            "乳カーテン",
+            "汗",
+            "茶髪",
+            "ウマ娘プリティーダービー5000users入り"
         ],
-        "rating_count": 1025,
-        "view_count": 19453
+        "rating_count": 6800,
+        "view_count": 90352
     },
     {
         "rank": 46,
-        "title": "ごろりん",
-        "user_name": "知花そら",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/19/56/23/137655002_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137655002",
-        "big_url": "https://www.pixiv.net/artworks/137655002",
+        "title": "DLsite circle OPEN",
+        "user_name": "ポッシ the Posse⚠️",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/03/56/50/137671684_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137671684",
+        "big_url": "https://www.pixiv.net/artworks/137671684",
         "tags": [
+            "ロリ",
             "女の子",
-            "オリジナル",
-            "創作",
-            "ツインテール",
-            "デジタル"
+            "loli",
+            "girl",
+            "幼女",
+            "オリキャラ",
+            "Macci"
         ],
-        "rating_count": 383,
-        "view_count": 2424
+        "rating_count": 1033,
+        "view_count": 12883
     },
     {
         "rank": 47,
-        "title": "冬のリオ",
-        "user_name": "Mellozzo",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/00/11/137630063_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137630063",
-        "big_url": "https://www.pixiv.net/artworks/137630063",
+        "title": "ミアレの救世主とその出自",
+        "user_name": "きんようびなけいさん",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/20/46/01/137692127_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137692127",
+        "big_url": "https://www.pixiv.net/artworks/137692127",
         "tags": [
-            "ブルアカ",
-            "調月リオ",
-            "冬服",
-            "ブルーアーカイブ",
-            "ダウンジャケット",
-            "BlueArchive",
-            "雪だるま",
-            "黑髮",
-            "赤目",
-            "ブルーアーカイブ1000users入り"
+            "漫画",
+            "ポケモン",
+            "ポケモンZA",
+            "アルセウス",
+            "LEGENDSZ-A",
+            "ポケモン1000users入り"
         ],
-        "rating_count": 1918,
-        "view_count": 9395
+        "rating_count": 709,
+        "view_count": 14436
     },
     {
         "rank": 48,
-        "title": "羽化",
-        "user_name": "久世",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/16/05/41/137648270_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137648270",
-        "big_url": "https://www.pixiv.net/artworks/137648270",
+        "title": "“！？”",
+        "user_name": "T5",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/21/27/12/137693870_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137693870",
+        "big_url": "https://www.pixiv.net/artworks/137693870",
         "tags": [
-            "胡蝶しのぶ",
-            "鬼滅の刃",
-            "しのぶさんマジ美人",
-            "なんて綺麗",
-            "鬼滅の刃500users入り"
+            "Ave",
+            "Mujica",
+            "豊川",
+            "祥子",
+            "三角初华",
+            "若叶睦",
+            "女の子",
+            "黒スト",
+            "ブーツ脱がし",
+            "照れ顔"
         ],
-        "rating_count": 399,
-        "view_count": 2489
+        "rating_count": 1513,
+        "view_count": 12093
     },
     {
         "rank": 49,
-        "title": "【work】ワンピースカードゲーム『ニコ・ロビン』",
-        "user_name": "七原しえ",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/19/00/00/18/137630097_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137630097",
-        "big_url": "https://www.pixiv.net/artworks/137630097",
+        "title": "『PSYCHO-PASS GENESIS 1-4』 装画",
+        "user_name": "SWAV",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/21/24/47/137665536_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137665536",
+        "big_url": "https://www.pixiv.net/artworks/137665536",
         "tags": [
-            "ONEPIECEカードゲーム",
-            "ニコ・ロビン",
-            "CLIPSTUDIOPAINT",
-            "商業イラスト",
-            "ワノ国",
-            "ワンピース500users入り"
+            "PSYCHO-PASS",
+            "仕事絵",
+            "PSYCHO-PASS1000users入り"
         ],
-        "rating_count": 418,
-        "view_count": 5665
+        "rating_count": 1626,
+        "view_count": 15575
     },
     {
         "rank": 50,
-        "title": "千咲",
-        "user_name": "晕欧欧",
-        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/12/09/20/137679246_p0_master1200.jpg",
-        "page_url": "https://www.pixiv.net/artworks/137679246",
-        "big_url": "https://www.pixiv.net/artworks/137679246",
+        "title": "霊夢",
+        "user_name": "うなの",
+        "small_url": "https://i.pixiv.re/c/480x960/img-master/img/2025/11/20/03/05/58/137671020_p0_master1200.jpg",
+        "page_url": "https://www.pixiv.net/artworks/137671020",
+        "big_url": "https://www.pixiv.net/artworks/137671020",
         "tags": [
-            "插画",
-            "绘画",
-            "女の子",
-            "少女",
-            "WutheringWave",
-            "鸣潮",
-            "鳴潮",
-            "Chisa",
-            "千咲",
-            "巫女"
+            "イラスト",
+            "東方Project",
+            "東方project",
+            "東方",
+            "Touhou_Project",
+            "touhou",
+            "博麗霊夢",
+            "下乳",
+            "乳巫女",
+            "腋巫女"
         ],
-        "rating_count": 1270,
-        "view_count": 5804
+        "rating_count": 799,
+        "view_count": 4324
     }
 ]
