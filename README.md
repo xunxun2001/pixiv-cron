@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-12-15 22:56:39 CST
+Update: 2025-12-16 11:14:04 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -26,7 +26,7 @@ Update: 2025-12-15 22:56:39 CST
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/14/21/11/22/138605470_p0_master1200.jpg)<br>**#37** [買い足しながら年齢を詐称してるVtuber](https://www.pixiv.net/artworks/138605470)<br>[Download](https://www.pixiv.net/artworks/138605470) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/14/04/15/28/138557164_p0_master1200.jpg)<br>**#38** [メガアブソルモチーフの騎士](https://www.pixiv.net/artworks/138557164)<br>[Download](https://www.pixiv.net/artworks/138557164) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/13/00/46/48/138531639_p0_master1200.jpg)<br>**#39** [射貫く](https://www.pixiv.net/artworks/138531639)<br>[Download](https://www.pixiv.net/artworks/138531639) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/14/18/09/49/138569556_p0_master1200.jpg)<br>**#40** [無題](https://www.pixiv.net/artworks/138569556)<br>[Download](https://www.pixiv.net/artworks/138569556) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/13/09/30/04/138541156_p0_master1200.jpg)<br>**#41** [うちのねこが女の子でかわいい７](https://www.pixiv.net/artworks/138541156)<br>[Download](https://www.pixiv.net/artworks/138541156) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/13/20/01/26/138558911_p0_master1200.jpg)<br>**#42** [わたなれ１](https://www.pixiv.net/artworks/138558911)<br>[Download](https://www.pixiv.net/artworks/138558911) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/14/23/35/41/138612532_p0_master1200.jpg)<br>**#43** [💙2.5🤍](https://www.pixiv.net/artworks/138612532)<br>[Download](https://www.pixiv.net/artworks/138612532) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/13/00/29/40/138530932_p0_master1200.jpg)<br>**#44** [パチュリー](https://www.pixiv.net/artworks/138530932)<br>[Download](https://www.pixiv.net/artworks/138530932) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/13/00/00/30/138529406_p0_master1200.jpg)<br>**#45** [初イラスト個展](https://www.pixiv.net/artworks/138529406)<br>[Download](https://www.pixiv.net/artworks/138529406) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/13/12/49/50/138545777_p0_master1200.jpg)<br>**#46** [キュウビ](https://www.pixiv.net/artworks/138545777)<br>[Download](https://www.pixiv.net/artworks/138545777) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/13/00/56/36/138531984_p0_master1200.jpg)<br>**#47** [姉力](https://www.pixiv.net/artworks/138531984)<br>[Download](https://www.pixiv.net/artworks/138531984) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/14/00/00/10/138569515_p0_master1200.jpg)<br>**#48** [Error](https://www.pixiv.net/artworks/138569515)<br>[Download](https://www.pixiv.net/artworks/138569515) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/13/12/49/50/138545777_p0_master1200.jpg)<br>**#46** [キュウビ](https://www.pixiv.net/artworks/138545777)<br>[Download](https://www.pixiv.net/artworks/138545777) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/13/00/56/36/138531984_p0_master1200.jpg)<br>**#47** [姉力](https://www.pixiv.net/artworks/138531984)<br>[Download](https://www.pixiv.net/artworks/138531984) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/16/08/20/09/138569515_p0_master1200.jpg)<br>**#48** [Error](https://www.pixiv.net/artworks/138569515)<br>[Download](https://www.pixiv.net/artworks/138569515) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/14/21/46/54/138607181_p0_master1200.jpg)<br>**#49** [かわいい自己肯定感](https://www.pixiv.net/artworks/138607181)<br>[Download](https://www.pixiv.net/artworks/138607181) | ![](https://s.pximg.net/common/images/limit_unviewable_s.png)<br>**#50** [](https://www.pixiv.net/artworks/138569881)<br>[Download](https://s.pximg.net/common/images/limit_unviewable_s.png) |
 |      |
 
@@ -34,7 +34,7 @@ Update: 2025-12-15 22:56:39 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-12-15 22:59:56 CST
+Update: 2025-12-16 11:17:07 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-12-15 22:59:56 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-12-15 23:03:18 CST
+Update: 2025-12-16 11:20:00 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
