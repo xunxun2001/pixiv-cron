@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-12-23 17:50:01 CST
+Update: 2025-12-23 22:50:18 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2025-12-23 17:50:01 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-12-23 17:52:57 CST
+Update: 2025-12-23 22:54:01 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-12-23 17:52:57 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-12-23 17:55:44 CST
+Update: 2025-12-23 22:57:38 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -78,10 +78,8 @@ Update: 2025-12-23 17:55:44 CST
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/14/35/46/137911087_p0_master1200.jpg)<br>**#31** [セビエまとめ4](https://www.pixiv.net/artworks/137911087)<br>[Download](https://www.pixiv.net/artworks/137911087) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/00/00/14/137894365_p0_master1200.jpg)<br>**#32** [ヌ](https://www.pixiv.net/artworks/137894365)<br>[Download](https://www.pixiv.net/artworks/137894365) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/07/43/09/137868726_p0_master1200.jpg)<br>**#33** [Chisa](https://www.pixiv.net/artworks/137868726)<br>[Download](https://www.pixiv.net/artworks/137868726) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/24/00/00/19/137818571_p0_master1200.jpg)<br>**#34** [森の船着き場](https://www.pixiv.net/artworks/137818571)<br>[Download](https://www.pixiv.net/artworks/137818571) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/00/00/23/137894426_p0_master1200.jpg)<br>**#35** [夕焼け](https://www.pixiv.net/artworks/137894426)<br>[Download](https://www.pixiv.net/artworks/137894426) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/23/23/32/137892759_p0_master1200.jpg)<br>**#36** [めんどくさい日の次男](https://www.pixiv.net/artworks/137892759)<br>[Download](https://www.pixiv.net/artworks/137892759) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/18/18/31/137880832_p0_master1200.jpg)<br>**#37** [雑](https://www.pixiv.net/artworks/137880832)<br>[Download](https://www.pixiv.net/artworks/137880832) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/21/34/42/137888046_p0_master1200.jpg)<br>**#38** [花屑の宙](https://www.pixiv.net/artworks/137888046)<br>[Download](https://www.pixiv.net/artworks/137888046) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/00/10/49/137895211_p0_master1200.jpg)<br>**#39** [HSR](https://www.pixiv.net/artworks/137895211)<br>[Download](https://www.pixiv.net/artworks/137895211) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/00/40/54/137861021_p0_master1200.jpg)<br>**#40** [无题](https://www.pixiv.net/artworks/137861021)<br>[Download](https://www.pixiv.net/artworks/137861021) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/22/07/07/137889569_p0_master1200.jpg)<br>**#41** [無自覚ちゃんとオトメな男 #40](https://www.pixiv.net/artworks/137889569)<br>[Download](https://www.pixiv.net/artworks/137889569) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/14/02/14/137910530_p0_master1200.jpg)<br>**#42** [是家姐没有喂饱你吗？](https://www.pixiv.net/artworks/137910530)<br>[Download](https://www.pixiv.net/artworks/137910530) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/23/30/04/137893016_p0_master1200.jpg)<br>**#43** [🐰](https://www.pixiv.net/artworks/137893016)<br>[Download](https://www.pixiv.net/artworks/137893016) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/19/51/42/137919244_p0_master1200.jpg)<br>**#44** [ゆるまきガール](https://www.pixiv.net/artworks/137919244)<br>[Download](https://www.pixiv.net/artworks/137919244) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/18/42/25/137802101_p0_master1200.jpg)<br>**#45** [「今夜は月が綺麗ですね、先生♪」](https://www.pixiv.net/artworks/137802101)<br>[Download](https://www.pixiv.net/artworks/137802101) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/12/30/04/137908844_p0_master1200.jpg)<br>**#46** [嫌な顔されながらおパンツ見せてもらいたい抱き枕カバー](https://www.pixiv.net/artworks/137908844)<br>[Download](https://www.pixiv.net/artworks/137908844) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/18/23/40/137880954_p0_master1200.jpg)<br>**#47** [マーメイド♡プリンス　#16](https://www.pixiv.net/artworks/137880954)<br>[Download](https://www.pixiv.net/artworks/137880954) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/01/20/51/137862370_p0_master1200.jpg)<br>**#48** [塔](https://www.pixiv.net/artworks/137862370)<br>[Download](https://www.pixiv.net/artworks/137862370) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/24/22/06/20/137854052_p0_master1200.jpg)<br>**#49** [女装4](https://www.pixiv.net/artworks/137854052)<br>[Download](https://www.pixiv.net/artworks/137854052) |
-|      |      |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/00/40/54/137861021_p0_master1200.jpg)<br>**#40** [无题](https://www.pixiv.net/artworks/137861021)<br>[Download](https://www.pixiv.net/artworks/137861021) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/14/02/14/137910530_p0_master1200.jpg)<br>**#41** [是家姐没有喂饱你吗？](https://www.pixiv.net/artworks/137910530)<br>[Download](https://www.pixiv.net/artworks/137910530) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/23/30/04/137893016_p0_master1200.jpg)<br>**#42** [🐰](https://www.pixiv.net/artworks/137893016)<br>[Download](https://www.pixiv.net/artworks/137893016) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/19/51/42/137919244_p0_master1200.jpg)<br>**#43** [ゆるまきガール](https://www.pixiv.net/artworks/137919244)<br>[Download](https://www.pixiv.net/artworks/137919244) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/23/18/42/25/137802101_p0_master1200.jpg)<br>**#44** [「今夜は月が綺麗ですね、先生♪」](https://www.pixiv.net/artworks/137802101)<br>[Download](https://www.pixiv.net/artworks/137802101) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/26/12/30/04/137908844_p0_master1200.jpg)<br>**#45** [嫌な顔されながらおパンツ見せてもらいたい抱き枕カバー](https://www.pixiv.net/artworks/137908844)<br>[Download](https://www.pixiv.net/artworks/137908844) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/18/23/40/137880954_p0_master1200.jpg)<br>**#46** [マーメイド♡プリンス　#16](https://www.pixiv.net/artworks/137880954)<br>[Download](https://www.pixiv.net/artworks/137880954) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/25/01/20/51/137862370_p0_master1200.jpg)<br>**#47** [塔](https://www.pixiv.net/artworks/137862370)<br>[Download](https://www.pixiv.net/artworks/137862370) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/11/24/22/06/20/137854052_p0_master1200.jpg)<br>**#48** [女装4](https://www.pixiv.net/artworks/137854052)<br>[Download](https://www.pixiv.net/artworks/137854052) |
 
 
