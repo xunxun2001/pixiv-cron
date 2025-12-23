@@ -7,15 +7,15 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2025-12-22 22:49:01 CST
+Update: 2025-12-23 11:15:57 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/00/29/05/138798359_p0_master1200.jpg)<br>**#1** [Shielder](https://www.pixiv.net/artworks/138798359)<br>[Download](https://www.pixiv.net/artworks/138798359) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/17/58/45/138822400_p0_master1200.jpg)<br>**#2** [UnBeast](https://www.pixiv.net/artworks/138822400)<br>[Download](https://www.pixiv.net/artworks/138822400) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/00/02/00/138797021_p0_master1200.jpg)<br>**#3** [venus](https://www.pixiv.net/artworks/138797021)<br>[Download](https://www.pixiv.net/artworks/138797021) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/00/00/18/138796686_p0_master1200.jpg)<br>**#4** [バ美肉おじいちゃんのクリスマスの予定](https://www.pixiv.net/artworks/138796686)<br>[Download](https://www.pixiv.net/artworks/138796686) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/09/07/58/138808352_p0_master1200.jpg)<br>**#5** [アスナ&カリン](https://www.pixiv.net/artworks/138808352)<br>[Download](https://www.pixiv.net/artworks/138808352) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/00/02/39/138797072_p0_master1200.jpg)<br>**#6** [「ぜんぶぜんぶきみの性」web配信開始！](https://www.pixiv.net/artworks/138797072)<br>[Download](https://www.pixiv.net/artworks/138797072) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/00/00/18/138796686_p0_master1200.jpg)<br>**#4** [バ美肉おじいちゃんのクリスマスの予定](https://www.pixiv.net/artworks/138796686)<br>[Download](https://www.pixiv.net/artworks/138796686) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/23/07/44/17/138808352_p0_master1200.jpg)<br>**#5** [アスナ&カリン](https://www.pixiv.net/artworks/138808352)<br>[Download](https://www.pixiv.net/artworks/138808352) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/00/02/39/138797072_p0_master1200.jpg)<br>**#6** [「ぜんぶぜんぶきみの性」web配信開始！](https://www.pixiv.net/artworks/138797072)<br>[Download](https://www.pixiv.net/artworks/138797072) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/21/05/13/48/138846638_p0_master1200.jpg)<br>**#7** [シュタフェル詰め28。](https://www.pixiv.net/artworks/138846638)<br>[Download](https://www.pixiv.net/artworks/138846638) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/06/00/10/138805105_p0_master1200.jpg)<br>**#8** [個人メモ：股間周りの筋肉の凹凸](https://www.pixiv.net/artworks/138805105)<br>[Download](https://www.pixiv.net/artworks/138805105) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/22/00/35/138832921_p0_master1200.jpg)<br>**#9** [幻想万華鏡 設定資料集　ジャケットイラスト](https://www.pixiv.net/artworks/138832921)<br>[Download](https://www.pixiv.net/artworks/138832921) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/00/00/24/138796726_p0_master1200.jpg)<br>**#10** [冠位戴冠戦・キャスター](https://www.pixiv.net/artworks/138796726)<br>[Download](https://www.pixiv.net/artworks/138796726) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/21/26/29/138831353_p0_master1200.jpg)<br>**#11** [キラキラ](https://www.pixiv.net/artworks/138831353)<br>[Download](https://www.pixiv.net/artworks/138831353) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/18/53/42/138824647_p0_master1200.jpg)<br>**#12** [冬の夜空できみを待つ。](https://www.pixiv.net/artworks/138824647)<br>[Download](https://www.pixiv.net/artworks/138824647) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/21/21/37/138831174_p0_master1200.jpg)<br>**#13** [ポストをしながら年齢を詐称してるVtuber](https://www.pixiv.net/artworks/138831174)<br>[Download](https://www.pixiv.net/artworks/138831174) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/21/00/01/42/138838675_p0_master1200.jpg)<br>**#14** [想いを秘めて](https://www.pixiv.net/artworks/138838675)<br>[Download](https://www.pixiv.net/artworks/138838675) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/21/00/00/23/138838394_p0_master1200.jpg)<br>**#15** [トキ](https://www.pixiv.net/artworks/138838394)<br>[Download](https://www.pixiv.net/artworks/138838394) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/21/21/37/138831174_p0_master1200.jpg)<br>**#13** [ポストをしながら年齢を詐称してるVtuber](https://www.pixiv.net/artworks/138831174)<br>[Download](https://www.pixiv.net/artworks/138831174) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/21/00/01/42/138838675_p0_master1200.jpg)<br>**#14** [想いを秘めて](https://www.pixiv.net/artworks/138838675)<br>[Download](https://www.pixiv.net/artworks/138838675) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/23/07/45/08/138838394_p0_master1200.jpg)<br>**#15** [トキ](https://www.pixiv.net/artworks/138838394)<br>[Download](https://www.pixiv.net/artworks/138838394) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/00/01/12/138796912_p0_master1200.jpg)<br>**#16** [【ウマ娘】ウマ娘漫画まとめ183【漫画4枚】](https://www.pixiv.net/artworks/138796912)<br>[Download](https://www.pixiv.net/artworks/138796912) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/21/10/42/27/138852660_p0_master1200.jpg)<br>**#17** [なぞなぞ](https://www.pixiv.net/artworks/138852660)<br>[Download](https://www.pixiv.net/artworks/138852660) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/11/01/09/138810898_p0_master1200.jpg)<br>**#18** [【ZZZ】 - 葉瞬光 -](https://www.pixiv.net/artworks/138810898)<br>[Download](https://www.pixiv.net/artworks/138810898) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/13/07/13/138814257_p0_master1200.jpg)<br>**#19** [新刊表紙](https://www.pixiv.net/artworks/138814257)<br>[Download](https://www.pixiv.net/artworks/138814257) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/21/10/19/00/138852112_p0_master1200.jpg)<br>**#20** [猫の集まるお茶屋さん](https://www.pixiv.net/artworks/138852112)<br>[Download](https://www.pixiv.net/artworks/138852112) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/04/26/02/138803891_p0_master1200.jpg)<br>**#21** [galaxyコラボ胡桃](https://www.pixiv.net/artworks/138803891)<br>[Download](https://www.pixiv.net/artworks/138803891) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/20/12/31/24/138813335_p0_master1200.jpg)<br>**#22** [もえる女の子まとめ](https://www.pixiv.net/artworks/138813335)<br>[Download](https://www.pixiv.net/artworks/138813335) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/21/00/17/05/138839568_p0_master1200.jpg)<br>**#23** [DINNER](https://www.pixiv.net/artworks/138839568)<br>[Download](https://www.pixiv.net/artworks/138839568) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/21/18/30/06/138867496_p0_master1200.jpg)<br>**#24** [C107新刊サンプル](https://www.pixiv.net/artworks/138867496)<br>[Download](https://www.pixiv.net/artworks/138867496) |
@@ -34,7 +34,7 @@ Update: 2025-12-22 22:49:01 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2025-12-22 22:52:05 CST
+Update: 2025-12-23 11:18:36 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2025-12-22 22:52:05 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2025-12-22 22:54:51 CST
+Update: 2025-12-23 11:21:22 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
