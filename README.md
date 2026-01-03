@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2026-01-02 22:49:25 CST
+Update: 2026-01-03 11:12:21 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -24,7 +24,7 @@ Update: 2026-01-02 22:49:25 CST
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/01/19/59/21/139384882_p0_master1200.jpg)<br>**#31** [あけましておめでとうございます‼️🦊⛩️](https://www.pixiv.net/artworks/139384882)<br>[Download](https://www.pixiv.net/artworks/139384882) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/01/00/07/28/139340411_p0_master1200.jpg)<br>**#32** [私の魔法の先生は魔法が使えない（続）その55](https://www.pixiv.net/artworks/139340411)<br>[Download](https://www.pixiv.net/artworks/139340411) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/00/00/22/139282895_p0_master1200.jpg)<br>**#33** [．](https://www.pixiv.net/artworks/139282895)<br>[Download](https://www.pixiv.net/artworks/139282895) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/17/22/59/139313219_p0_master1200.jpg)<br>**#34** [訳アリ心霊マンション　55話](https://www.pixiv.net/artworks/139313219)<br>[Download](https://www.pixiv.net/artworks/139313219) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/21/23/05/139326047_p0_master1200.jpg)<br>**#35** [ソースありで年齢を詐称してるVtuber](https://www.pixiv.net/artworks/139326047)<br>[Download](https://www.pixiv.net/artworks/139326047) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/01/00/09/21/139340842_p0_master1200.jpg)<br>**#36** [描き納めパンツ](https://www.pixiv.net/artworks/139340842)<br>[Download](https://www.pixiv.net/artworks/139340842) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/18/22/27/139316254_p0_master1200.jpg)<br>**#37** [火炎](https://www.pixiv.net/artworks/139316254)<br>[Download](https://www.pixiv.net/artworks/139316254) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/17/14/31/139312864_p0_master1200.jpg)<br>**#38** [aruseee 2025.8-12](https://www.pixiv.net/artworks/139312864)<br>[Download](https://www.pixiv.net/artworks/139312864) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/01/00/14/53/139341817_p0_master1200.jpg)<br>**#39** [🎍謹賀新年🎍](https://www.pixiv.net/artworks/139341817)<br>[Download](https://www.pixiv.net/artworks/139341817) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/20/35/05/139323154_p0_master1200.jpg)<br>**#40** [オー！瑞希の瑞希による瑞希のためのセカイまとめ](https://www.pixiv.net/artworks/139323154)<br>[Download](https://www.pixiv.net/artworks/139323154) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/23/24/55/139334124_p0_master1200.jpg)<br>**#41** [プロセカらくがき2025](https://www.pixiv.net/artworks/139334124)<br>[Download](https://www.pixiv.net/artworks/139334124) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/14/29/40/139306520_p0_master1200.jpg)<br>**#42** [shenhe](https://www.pixiv.net/artworks/139306520)<br>[Download](https://www.pixiv.net/artworks/139306520) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/20/35/05/139323154_p0_master1200.jpg)<br>**#40** [オー！瑞希の瑞希による瑞希のためのセカイまとめ](https://www.pixiv.net/artworks/139323154)<br>[Download](https://www.pixiv.net/artworks/139323154) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/23/24/55/139334124_p0_master1200.jpg)<br>**#41** [プロセカらくがき2025](https://www.pixiv.net/artworks/139334124)<br>[Download](https://www.pixiv.net/artworks/139334124) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/03/04/24/15/139306520_p0_master1200.jpg)<br>**#42** [shenhe](https://www.pixiv.net/artworks/139306520)<br>[Download](https://www.pixiv.net/artworks/139306520) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/12/02/21/139301884_p0_master1200.jpg)<br>**#43** [突然大きくなってしまった男の子と大きくなれない幼馴染♂の話【再】](https://www.pixiv.net/artworks/139301884)<br>[Download](https://www.pixiv.net/artworks/139301884) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/13/12/14/139304107_p0_master1200.jpg)<br>**#44** [年末大掃除](https://www.pixiv.net/artworks/139304107)<br>[Download](https://www.pixiv.net/artworks/139304107) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/00/00/35/139282976_p0_master1200.jpg)<br>**#45** [マキマの凄いところ触ってるクァンシ](https://www.pixiv.net/artworks/139282976)<br>[Download](https://www.pixiv.net/artworks/139282976) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/01/00/04/33/139339578_p0_master1200.jpg)<br>**#46** [麗煌韶春-根の国底の果て-](https://www.pixiv.net/artworks/139339578)<br>[Download](https://www.pixiv.net/artworks/139339578) | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/22/29/31/139330339_p0_master1200.jpg)<br>**#47** [良いお年を！](https://www.pixiv.net/artworks/139330339)<br>[Download](https://www.pixiv.net/artworks/139330339) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/01/00/00/53/139337834_p0_master1200.jpg)<br>**#48** [🎍HAPPY NEW YEAR 2026🐎](https://www.pixiv.net/artworks/139337834)<br>[Download](https://www.pixiv.net/artworks/139337834) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2025/12/31/07/22/24/139294353_p0_master1200.jpg)<br>**#49** [Official DDLC 2025 Winter Illust](https://www.pixiv.net/artworks/139294353)<br>[Download](https://www.pixiv.net/artworks/139294353) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/01/21/10/42/139388611_p0_master1200.jpg)<br>**#50** [信じてるぞ年齢を詐称してるVtuber](https://www.pixiv.net/artworks/139388611)<br>[Download](https://www.pixiv.net/artworks/139388611) |
@@ -34,7 +34,7 @@ Update: 2026-01-02 22:49:25 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2026-01-02 22:52:42 CST
+Update: 2026-01-03 11:15:55 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2026-01-02 22:52:42 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2026-01-02 22:55:56 CST
+Update: 2026-01-03 11:19:12 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
