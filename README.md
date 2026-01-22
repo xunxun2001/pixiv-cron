@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2026-01-22 17:57:30 CST
+Update: 2026-01-22 22:59:18 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -27,14 +27,14 @@ Update: 2026-01-22 17:57:30 CST
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/08/00/27/140155847_p0_master1200.jpg)<br>**#40** [拾われた週末](https://www.pixiv.net/artworks/140155847)<br>[Download](https://www.pixiv.net/artworks/140155847) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/21/11/47/29/140197094_p0_master1200.jpg)<br>**#41** [モヂミについてや4巻発売カウントダウンイラストなど](https://www.pixiv.net/artworks/140197094)<br>[Download](https://www.pixiv.net/artworks/140197094) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/21/00/00/24/140183617_p0_master1200.jpg)<br>**#42** [冷えてきたから](https://www.pixiv.net/artworks/140183617)<br>[Download](https://www.pixiv.net/artworks/140183617) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/12/04/45/140160364_p0_master1200.jpg)<br>**#43** [よかったね](https://www.pixiv.net/artworks/140160364)<br>[Download](https://www.pixiv.net/artworks/140160364) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/14/17/06/140163074_p0_master1200.jpg)<br>**#44** [ヒマリスーツ](https://www.pixiv.net/artworks/140163074)<br>[Download](https://www.pixiv.net/artworks/140163074) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/02/13/08/140150246_p0_master1200.jpg)<br>**#45** [Wedgies are always the answer ✅](https://www.pixiv.net/artworks/140150246)<br>[Download](https://www.pixiv.net/artworks/140150246) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/18/25/17/140169017_p0_master1200.jpg)<br>**#46** [居場所](https://www.pixiv.net/artworks/140169017)<br>[Download](https://www.pixiv.net/artworks/140169017) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/00/57/17/140147994_p0_master1200.jpg)<br>**#47** [無題](https://www.pixiv.net/artworks/140147994)<br>[Download](https://www.pixiv.net/artworks/140147994) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/11/40/27/140159574_p0_master1200.jpg)<br>**#48** [倉本さんは可愛いですわ73](https://www.pixiv.net/artworks/140159574)<br>[Download](https://www.pixiv.net/artworks/140159574) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/03/10/19/140151321_p0_master1200.jpg)<br>**#49** [Untitled](https://www.pixiv.net/artworks/140151321)<br>[Download](https://www.pixiv.net/artworks/140151321) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/00/09/05/140146074_p0_master1200.jpg)<br>**#50** [ホビーアニメのアイキャッチ](https://www.pixiv.net/artworks/140146074)<br>[Download](https://www.pixiv.net/artworks/140146074) |
-|      |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/20/00/09/05/140146074_p0_master1200.jpg)<br>**#49** [ホビーアニメのアイキャッチ](https://www.pixiv.net/artworks/140146074)<br>[Download](https://www.pixiv.net/artworks/140146074) |
+|      |      |
 
 
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2026-01-22 18:00:20 CST
+Update: 2026-01-22 23:02:07 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2026-01-22 18:00:20 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2026-01-22 18:03:07 CST
+Update: 2026-01-22 23:05:07 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
