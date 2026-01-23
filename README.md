@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2026-01-22 22:59:18 CST
+Update: 2026-01-23 11:22:03 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -34,7 +34,7 @@ Update: 2026-01-22 22:59:18 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2026-01-22 23:02:07 CST
+Update: 2026-01-23 11:24:51 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -51,17 +51,17 @@ Update: 2026-01-22 23:02:07 CST
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/15/53/13/139997487_p0_master1200.jpg)<br>**#31** [初音ミク](https://www.pixiv.net/artworks/139997487)<br>[Download](https://www.pixiv.net/artworks/139997487) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/20/13/09/140006275_p0_master1200.jpg)<br>**#32** [ミク](https://www.pixiv.net/artworks/140006275)<br>[Download](https://www.pixiv.net/artworks/140006275) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/00/01/54/139978744_p0_master1200.jpg)<br>**#33** [ポケモンのイラスト漫画まとめ](https://www.pixiv.net/artworks/139978744)<br>[Download](https://www.pixiv.net/artworks/139978744) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/18/04/52/139980512_p0_master1200.jpg)<br>**#34** [原神×食べログ](https://www.pixiv.net/artworks/139980512)<br>[Download](https://www.pixiv.net/artworks/139980512) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/18/05/33/140001282_p0_master1200.jpg)<br>**#35** [雪ミクちゃん](https://www.pixiv.net/artworks/140001282)<br>[Download](https://www.pixiv.net/artworks/140001282) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/00/00/16/139978445_p0_master1200.jpg)<br>**#36** [東方Project×１００円均一](https://www.pixiv.net/artworks/139978445)<br>[Download](https://www.pixiv.net/artworks/139978445) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/00/00/21/139978479_p0_master1200.jpg)<br>**#37** [星の輝き](https://www.pixiv.net/artworks/139978479)<br>[Download](https://www.pixiv.net/artworks/139978479) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/17/06/00/12/140025726_p0_master1200.jpg)<br>**#38** [個人メモ：指先の違和感](https://www.pixiv.net/artworks/140025726)<br>[Download](https://www.pixiv.net/artworks/140025726) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/18/00/22/140000861_p0_master1200.jpg)<br>**#39** [I.R.I.S](https://www.pixiv.net/artworks/140000861)<br>[Download](https://www.pixiv.net/artworks/140000861) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/12/26/54/139993532_p0_master1200.jpg)<br>**#40** [【最新話更新】恋する(おとめ)の作り方　111](https://www.pixiv.net/artworks/139993532)<br>[Download](https://www.pixiv.net/artworks/139993532) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/00/00/16/139978441_p0_master1200.jpg)<br>**#41** [心奏の緋空](https://www.pixiv.net/artworks/139978441)<br>[Download](https://www.pixiv.net/artworks/139978441) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/14/54/08/139996421_p0_master1200.jpg)<br>**#42** [コロサンまとめ](https://www.pixiv.net/artworks/139996421)<br>[Download](https://www.pixiv.net/artworks/139996421) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/15/00/30/01/139942419_p0_master1200.jpg)<br>**#43** [コロンビーナ](https://www.pixiv.net/artworks/139942419)<br>[Download](https://www.pixiv.net/artworks/139942419) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/12/54/53/139994090_p0_master1200.jpg)<br>**#44** [无题](https://www.pixiv.net/artworks/139994090)<br>[Download](https://www.pixiv.net/artworks/139994090) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/16/59/38/139998988_p0_master1200.jpg)<br>**#45** [パロ](https://www.pixiv.net/artworks/139998988)<br>[Download](https://www.pixiv.net/artworks/139998988) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/19/47/55/140005049_p0_master1200.jpg)<br>**#46** [🩵&✌️](https://www.pixiv.net/artworks/140005049)<br>[Download](https://www.pixiv.net/artworks/140005049) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/00/00/32/139978530_p0_master1200.jpg)<br>**#47** [ここのパワー怖かったろうなって](https://www.pixiv.net/artworks/139978530)<br>[Download](https://www.pixiv.net/artworks/139978530) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/15/47/04/139997368_p0_master1200.jpg)<br>**#48** [Last chance](https://www.pixiv.net/artworks/139997368)<br>[Download](https://www.pixiv.net/artworks/139997368) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/23/36/58/140015673_p0_master1200.jpg)<br>**#49** [チェンソーまとめ⭐︎](https://www.pixiv.net/artworks/140015673)<br>[Download](https://www.pixiv.net/artworks/140015673) |
-|      |      |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/12/26/54/139993532_p0_master1200.jpg)<br>**#40** [【最新話更新】恋する(おとめ)の作り方　111](https://www.pixiv.net/artworks/139993532)<br>[Download](https://www.pixiv.net/artworks/139993532) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/00/00/16/139978441_p0_master1200.jpg)<br>**#41** [心奏の緋空](https://www.pixiv.net/artworks/139978441)<br>[Download](https://www.pixiv.net/artworks/139978441) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/16/37/43/139998498_p0_master1200.jpg)<br>**#42** [グラナデ](https://www.pixiv.net/artworks/139998498)<br>[Download](https://www.pixiv.net/artworks/139998498) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/14/54/08/139996421_p0_master1200.jpg)<br>**#43** [コロサンまとめ](https://www.pixiv.net/artworks/139996421)<br>[Download](https://www.pixiv.net/artworks/139996421) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/15/00/30/01/139942419_p0_master1200.jpg)<br>**#44** [コロンビーナ](https://www.pixiv.net/artworks/139942419)<br>[Download](https://www.pixiv.net/artworks/139942419) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/12/54/53/139994090_p0_master1200.jpg)<br>**#45** [无题](https://www.pixiv.net/artworks/139994090)<br>[Download](https://www.pixiv.net/artworks/139994090) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/16/59/38/139998988_p0_master1200.jpg)<br>**#46** [パロ](https://www.pixiv.net/artworks/139998988)<br>[Download](https://www.pixiv.net/artworks/139998988) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/19/47/55/140005049_p0_master1200.jpg)<br>**#47** [🩵&✌️](https://www.pixiv.net/artworks/140005049)<br>[Download](https://www.pixiv.net/artworks/140005049) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/00/00/32/139978530_p0_master1200.jpg)<br>**#48** [ここのパワー怖かったろうなって](https://www.pixiv.net/artworks/139978530)<br>[Download](https://www.pixiv.net/artworks/139978530) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/15/47/04/139997368_p0_master1200.jpg)<br>**#49** [Last chance](https://www.pixiv.net/artworks/139997368)<br>[Download](https://www.pixiv.net/artworks/139997368) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/01/16/23/36/58/140015673_p0_master1200.jpg)<br>**#50** [チェンソーまとめ⭐︎](https://www.pixiv.net/artworks/140015673)<br>[Download](https://www.pixiv.net/artworks/140015673) |
+|      |
 
 
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2026-01-22 23:05:07 CST
+Update: 2026-01-23 11:27:45 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
