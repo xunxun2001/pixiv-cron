@@ -7,7 +7,7 @@
 ## Daily Ranking
 <div id='daily'></div>
 
-Update: 2026-02-14 17:56:42 CST
+Update: 2026-02-14 22:56:28 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -24,7 +24,7 @@ Update: 2026-02-14 17:56:42 CST
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/21/40/51/141089582_p0_master1200.jpg)<br>**#31** [【依頼】 明風](https://www.pixiv.net/artworks/141089582)<br>[Download](https://www.pixiv.net/artworks/141089582) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/13/19/05/07/141119780_p0_master1200.jpg)<br>**#32** [背中合わせで笑い合って](https://www.pixiv.net/artworks/141119780)<br>[Download](https://www.pixiv.net/artworks/141119780) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/13/12/00/15/141109346_p0_master1200.jpg)<br>**#33** [無題](https://www.pixiv.net/artworks/141109346)<br>[Download](https://www.pixiv.net/artworks/141109346) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/13/18/30/22/141118388_p0_master1200.jpg)<br>**#34** [無題](https://www.pixiv.net/artworks/141118388)<br>[Download](https://www.pixiv.net/artworks/141118388) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/19/15/17/141083703_p0_master1200.jpg)<br>**#35** [\安可/](https://www.pixiv.net/artworks/141083703)<br>[Download](https://www.pixiv.net/artworks/141083703) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/13/09/39/25/141106957_p0_master1200.jpg)<br>**#36** [超かぐや姫！](https://www.pixiv.net/artworks/141106957)<br>[Download](https://www.pixiv.net/artworks/141106957) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/19/00/12/141083079_p0_master1200.jpg)<br>**#37** [駒沢乃依](https://www.pixiv.net/artworks/141083079)<br>[Download](https://www.pixiv.net/artworks/141083079) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/00/01/18/141059657_p0_master1200.jpg)<br>**#38** [森亜るるか](https://www.pixiv.net/artworks/141059657)<br>[Download](https://www.pixiv.net/artworks/141059657) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/21/29/34/141089015_p0_master1200.jpg)<br>**#39** [手作りチョコの](https://www.pixiv.net/artworks/141089015)<br>[Download](https://www.pixiv.net/artworks/141089015) |
-| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/14/07/26/37/141099224_p0_master1200.jpg)<br>**#40** [数億年ぶりの楽描きツイログまとめェ！！！](https://www.pixiv.net/artworks/141099224)<br>[Download](https://www.pixiv.net/artworks/141099224) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/07/22/24/141068745_p0_master1200.jpg)<br>**#41** [ZA](https://www.pixiv.net/artworks/141068745)<br>[Download](https://www.pixiv.net/artworks/141068745) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/13/14/01/32/141111816_p0_master1200.jpg)<br>**#42** [佩丽卡](https://www.pixiv.net/artworks/141111816)<br>[Download](https://www.pixiv.net/artworks/141111816) |
+| ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/14/22/30/07/141099224_p0_master1200.jpg)<br>**#40** [数億年ぶりの楽描きツイログまとめェ！！！](https://www.pixiv.net/artworks/141099224)<br>[Download](https://www.pixiv.net/artworks/141099224) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/07/22/24/141068745_p0_master1200.jpg)<br>**#41** [ZA](https://www.pixiv.net/artworks/141068745)<br>[Download](https://www.pixiv.net/artworks/141068745) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/13/14/01/32/141111816_p0_master1200.jpg)<br>**#42** [佩丽卡](https://www.pixiv.net/artworks/141111816)<br>[Download](https://www.pixiv.net/artworks/141111816) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/18/54/33/141082845_p0_master1200.jpg)<br>**#43** [JANE DOE / 町田ちま, 北見遊征 (Cover）](https://www.pixiv.net/artworks/141082845)<br>[Download](https://www.pixiv.net/artworks/141082845) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/13/11/26/57/141108700_p0_master1200.jpg)<br>**#44** [🎇🎇🎇](https://www.pixiv.net/artworks/141108700)<br>[Download](https://www.pixiv.net/artworks/141108700) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/17/09/07/141079553_p0_master1200.jpg)<br>**#45** [无题](https://www.pixiv.net/artworks/141079553)<br>[Download](https://www.pixiv.net/artworks/141079553) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/16/03/27/141078036_p0_master1200.jpg)<br>**#46** [やだってば！！(｡>﹏<｡)](https://www.pixiv.net/artworks/141078036)<br>[Download](https://www.pixiv.net/artworks/141078036) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/18/12/42/141081576_p0_master1200.jpg)<br>**#47** [呪](https://www.pixiv.net/artworks/141081576)<br>[Download](https://www.pixiv.net/artworks/141081576) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/00/05/36/141060016_p0_master1200.jpg)<br>**#48** [【義姉弟の話】単行本第2巻発売しました！](https://www.pixiv.net/artworks/141060016)<br>[Download](https://www.pixiv.net/artworks/141060016) |
 | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/17/55/40/141080723_p0_master1200.jpg)<br>**#49** [【東方】パチュリー](https://www.pixiv.net/artworks/141080723)<br>[Download](https://www.pixiv.net/artworks/141080723) | ![](https://i.pixiv.re/c/480x960/img-master/img/2026/02/12/18/27/59/141081987_p0_master1200.jpg)<br>**#50** [綺羅羅](https://www.pixiv.net/artworks/141081987)<br>[Download](https://www.pixiv.net/artworks/141081987) |
@@ -34,7 +34,7 @@ Update: 2026-02-14 17:56:42 CST
 ## Weekly Ranking
 <div id='weekly'></div>
 
-Update: 2026-02-14 17:59:40 CST
+Update: 2026-02-14 23:00:02 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
@@ -61,7 +61,7 @@ Update: 2026-02-14 17:59:40 CST
 ## Monthly Ranking
 <div id='monthly'></div>
 
-Update: 2026-02-14 18:02:31 CST
+Update: 2026-02-14 23:03:53 CST
 
 |      |      |      |
 | :----: | :----: | :----: |
